@@ -32,7 +32,7 @@ disableLanguages        = []
   readingTime           = true
   imageStretch          = ""
   removeBlur            = false
-  socialShare           = ["twitter", "facebook", "reddit", "linkedin", "pinterest", "email"]
+  socialShare           = []
   hideEmptyStats        = false
 
   [params.meta]
@@ -48,7 +48,7 @@ disableLanguages        = []
     navbarTitle         = "Eduan Breedt"
     dynamicTitles       = true
     searchMenu          = true
-    shareMenu           = true
+    shareMenu           = false
     languageMenu        = false
 
   [params.intro]
