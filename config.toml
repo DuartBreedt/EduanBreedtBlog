@@ -6,7 +6,7 @@ title                   = "Eduan Breedt"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 3
 disqusShortname         = ""
-googleAnalytics         = ""
+googleAnalytics         = "285833373"
 pluralizeListTitles     = false
 disableLanguages        = []
 
