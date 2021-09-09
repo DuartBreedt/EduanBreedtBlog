@@ -61,7 +61,7 @@ disableLanguages        = []
 
     [params.intro.pic]
       src                 = "img/main/logo.jpg"
-      shape               = "circle"
+      shape               = "rhombus"
       width               = ""
       alt                 = "Eduan Breedt"
 
