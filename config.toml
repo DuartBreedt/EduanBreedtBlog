@@ -3,7 +3,7 @@
 baseurl                 = "https://suspicious-joliot-f717d6.netlify.app/"
 DefaultContentLanguage  = "en"
 title                   = "Eduan Breedt"
-theme                   = "hugo-winston-theme-master"
+theme                   = "hugo-future-imperfect-slim"
 paginate                = 3
 disqusShortname         = ""
 googleAnalytics         = "G-QVM8KZSPDF"
