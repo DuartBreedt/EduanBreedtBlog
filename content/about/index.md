@@ -1,8 +1,8 @@
 +++
 title = "About"
 description = "My questions are my Truth, any answers I give are untrue"
-author = "Hugo Authors"
-date = "2019-02-28"
+author = "Eduan Breedt"
+date = "07-10-2021"
 layout = "about"
 +++
 
