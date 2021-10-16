@@ -53,7 +53,8 @@ creation - newness. A kitsch piece of art is born of a reactive force, not an ac
 Modern fundamental Christianity (for the most part) can be thought of as a reactive force.
 Defining itself through opposition of other active forces, the demonizing of cultural movements
 such as Rock and Roll, particular films, and particular groups of people such as atheists. Or the
-opposition of the abolition of slavery, women's rights, the American Civil Rights Movement, the legalisation of gay marriage, the Gay Rights Movement, the LGBTQ movements, and so on. Its
+opposition of the abolition of slavery, women's rights, the American Civil Rights Movement, the 
+legalisation of gay marriage, the Gay Rights Movement, the LGBTQ movements, and so on. Its
 implicit motto is "don't be like them", and "them" always changes (paradoxically this is in
 opposition to the origins of the Christian story, one of radical inclusion not exclusion). Through
 opposition and negation it seeks to define itself. Fundamentalists define themself by that which
@@ -96,7 +97,8 @@ exactly that, a person striving to be a physiotherapist. A kitsch physiotherapis
 inauthenticity is felt by those we serve.
 
 When one creates a powerful persona not in reaction to another force but through creation, it
-has the potential to move us and create a space which allows other things to come into being. Monet was not trying to be Monet. Michael Jackson was not trying to be Michael Jackson.
+has the potential to move us and create a space which allows other things to come into being. 
+Monet was not trying to be Monet. Michael Jackson was not trying to be Michael Jackson.
 Martin Luther King was not trying to be Martin Luther King. They were following their path,
 creating rather than reacting.
 
