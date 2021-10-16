@@ -3,8 +3,8 @@ title = "Kitsch"
 description = "What is our current relationship with pain? How might it change over the course of our lives?"
 author = "Eduan Breedt"
 date = "2021-09-08"
-tags = ["pain", "physiotherapy", "Nietchze", "kitsch", "religion"]
-categories = ["pain", "psychology"]
+tags = ["pain", "physiotherapy", "Nietchze", "Deleuze", "kitsch", "religion"]
+categories = ["pain", "philosophy]
 [[images]]
   src = "img/2019/03/pic01.jpg"
   alt = "Lawn Flaimngo"
