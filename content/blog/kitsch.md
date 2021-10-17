@@ -4,7 +4,7 @@ description = "What is our current relationship with pain? How might it change o
 author = "Eduan Breedt"
 date = "2021-09-08"
 tags = ["pain", "physiotherapy", "Nietchze", "Deleuze", "kitsch", "religion"]
-categories = ["pain", "philosophy]
+categories = ["pain", "philosophy"]
 [[images]]
   src = "img/2019/03/pic01.jpg"
   alt = "Lawn Flaimngo"
