@@ -6,7 +6,7 @@ date = "2021-10-17"
 tags = ["Sublime", "Physiotherapy", "Deleuze", "Whales", "Ocean"]
 categories = ["pain", "philosophy", "Deleuze"]
 [[images]]
-  src = "img/2019/03/Pic04.jfif"
+  src = "img/2019/03/Pic05.jfif"
   alt = "Moby Dick"
   stretch = "cover"
 +++
@@ -149,5 +149,7 @@ frightening? Or might it be liberating?
 > — <cite>Baal Shem Tov</cite>
 
 Recommended Reading:
+
 Loose, D., 2012. The sublime and its teleology. Leiden: Brill, pp.205-222.
+
 Hallward, P., 2006. Out of this world: Deleuze and the Philosophy of Creation. London: Verso Books.
