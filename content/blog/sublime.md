@@ -149,5 +149,7 @@ frightening? Or might it be liberating?
 > — <cite>Baal Shem Tov</cite>
 
 Recommended Reading:
+
 Loose, D., 2012. The sublime and its teleology. Leiden: Brill, pp.205-222.
+
 Hallward, P., 2006. Out of this world: Deleuze and the Philosophy of Creation. London: Verso Books.
