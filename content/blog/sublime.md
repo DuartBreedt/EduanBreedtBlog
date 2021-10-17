@@ -6,7 +6,7 @@ date = "2021-10-17"
 tags = ["Sublime", "Physiotherapy", "Deleuze", "Whales", "Ocean"]
 categories = ["pain", "philosophy", "Deleuze"]
 [[images]]
-  src = "img/2019/03/Pic07.jfif"
+  src = "img/2019/03/Pic06.jfif"
   alt = "Moby Dick"
   stretch = "cover"
 +++
