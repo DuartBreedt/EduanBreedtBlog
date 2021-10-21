@@ -40,7 +40,7 @@ is in fact a predator are too late.
 
 There are times where we are thrust into the depth of the ocean, when we encounter the unknown, the unpredictable. 
 We solve the uncertainty with certainty, fear and anger. We become extreme versions of ourselves. We entrench 
-ourselves in what we are familiar with. If we are politically concervative, we become more conservative. If we 
+ourselves in what we are familiar with. If we are politically conservative, we become more conservative. If we 
 are liberal, we become more liberal.
 
 The trouble is that Being (what there is) is essentially in motion. Being isn’t being at all, but is becoming. 
@@ -115,7 +115,7 @@ sub-representational
 
 The sublime encounter is an opportunity to allow new ways of thinking outside of our current conceptual frameworks 
 to emerge. Every lived experience is rich with new perspectives, thus, every clinical encounter with someone in pain 
-is an opportunity to familiarize ourselves and step into a new world. Yet more often than not, we miss this 
+is an opportunity to defamiliarize ourselves and step into a new world. Yet more often than not, we miss this 
 opportunity and opt instead to retreat to the comforts of what we already know. In the clinical encounter I might 
 project my biases onto the person in pain, caricaturing them as, “the difficult client”, or “a catastrophizer” for 
 example. Drawing connections between them and other people I may have encountered, seeing patterns where there are 
