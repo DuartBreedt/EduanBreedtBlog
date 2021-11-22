@@ -30,7 +30,7 @@ incomprehensible presence brings about my own reckoning with my finitude and yet
 contained by something even greater, bringing to bear the whale's own finitude. How can a creature be both 
 imposing and elusive?
 
-Like the hum of a fridge in the kitchen or the constant crackle of the radio static, our unconscious minds 
+Like the hum of a fridge in the kitchen or the crackle of the radio static, our unconscious minds 
 have got used to the constant droning question “how can we be both significant and insignificant”. For me the 
 ocean teases the questions to the surface bringing with it the feeling of being not apart from the world but 
 being a part of the world, fully material and fully alive.
