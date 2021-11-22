@@ -44,7 +44,7 @@ Those who predict danger survive and pass their genes on. Those who wait to conf
 is in fact a predator are too late. 
 
 There are times where we are thrust into the depth of the ocean, when we encounter the unknown, the unpredictable. 
-We solve the uncertainty with certainty, fear and anger. We become extreme versions of ourselves. We entrench 
+We solve this uncertainty with certainty, fear and anger. We become extreme versions of ourselves. We entrench 
 ourselves in what we are familiar with. If we are politically conservative, we become more conservative. If we 
 are liberal, we become more liberal.
 
