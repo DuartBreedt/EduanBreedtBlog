@@ -130,8 +130,8 @@ ourselves “who do you remind me of?” instead?
 
 To Gilles Deleuze, “the dogmatic image of thought” is the kind of thought which occurs when we encounter something 
 that takes us beyond recognition, into the unknown, and reflexively we try to bring it back into recognition. We 
-discipline it into our old categories. We speak without thought. We capture it with words which are colonised by 
-science and certainty. 
+discipline it into our old categories. We speak without thought. In healthcare we capture it with words which are 
+colonised by science and certainty. 
 
 >Man has to awaken to wonder — and so perhaps do peoples. Science is a way of sending him to sleep again
 > — <cite>Ludwig Wittgenstein</cite>
