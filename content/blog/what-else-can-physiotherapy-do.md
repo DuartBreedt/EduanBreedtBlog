@@ -60,6 +60,8 @@ Let us for a moment scrap our understanding of the body as the biological body, 
 experience but rather we conceptualise the body as one of relations. How might this new perspective open up novel 
 ways of doing therapy?
 
+### The-body-without-organs
+
 One pathway out of reductionism may lie in an obscure theory coined by Deleuze and Guattari in their book 
 “Capitalism and Schizophrenia: A Thousand Plateaus”: the-body-without-organs[^4]. Everyone has a body. In fact, we could say all things 
 are bodies: animals, hats, trucks, countries, microbes, etc.
@@ -132,6 +134,8 @@ As therapists we ourselves should not be territorialized but always becoming det
 reterritorialized. No longer identified by our tribe but by our movement across the landscape. We are 
 becoming nomads, wandering ceaselessly in and out of new territories.
 
+### Clinical Perspective
+
 When we examine someone experiencing chronic pain they are met with physical, social, financial, 
 psychological, and behavioural limitations. E.g. inability to flex their spine, isolation and loneliness, 
 loss of work, fear of pain and avoidance of meaningful activities. These limitations are a consequence 
@@ -185,7 +189,7 @@ As therapists of rehabilitation, we might begin with: what else can physiotherap
 
 [^1]: Deleuze, G. and Guattari, F., 1994. What is philosophy?. New York: Columbia University Press.
 
-[^2]: 
+[^2]: Nicholls, D. and Gibson, B., 2010. The body and physiotherapy. Physiotherapy Theory and Practice, 26(8), pp.497-509.
 
 [^3]: Nicholls, D., 2019. End of Physiotherapy. Routledge.
 
