@@ -60,8 +60,6 @@ Let us for a moment scrap our understanding of the body as the biological body, 
 experience but rather we conceptualise the body as one of relations. How might this new perspective open up novel 
 ways of doing therapy?
 
-
-
 One pathway out of reductionism may lie in an obscure theory coined by Deleuze and Guattari in their book 
 “Capitalism and Schizophrenia”: the-body-without-organs. Everyone has a body. In fact, we could say all things 
 are bodies: animals, hats, trucks, countries, microbes, etc.
@@ -124,7 +122,7 @@ fluctuates along with the body’s capacities <cite>(Fox, 1993: 44–45[^2])</ci
 a body can do, but are always in flux, always becoming other. Rather than saying a body is healthy, we might 
 talk about its ‘becoming-healthy’, or about the ‘healthing’ of a body, to remind us of the active processes 
 involved and the fluctuating nature of embodied health.
-> — <cite>Fox 2012[^2]</cite>
+> — <cite>Fox 2012[^1][^2]</cite>
 
 Deleuze and Guatarri’s model of the body-without-organs emphasises a body that is active, experimenting and 
 engaged, always with the capacity to form new relations and desire to do so. The more relations a body has 
