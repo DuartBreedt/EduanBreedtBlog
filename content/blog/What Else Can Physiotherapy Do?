@@ -3,12 +3,12 @@ title = "What Else Can Physiotherapy Do?"
 description = "Becoming Nomads"
 author = "Eduan Breedt"
 date = "2022-03-20"
-draft = true
+draft = false
 tags = ["BwO", "Physiotherapy", "Deleuze", "Nomads"]
 categories = ["physiotherapy", "philosophy", "Deleuze"]
 [[images]]
-  src = "img/2019/03/Pic06.jfif"
-  alt = "Moby Dick"
+  src = "img/2019/03/Toilet.jpeg"
+  alt = "Unnatural"
   stretch = "cover"
 +++
 
