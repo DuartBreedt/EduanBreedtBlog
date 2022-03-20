@@ -142,7 +142,7 @@ loss of work, fear of pain and avoidance of meaningful activities. These limitat
 of the relations they have acquired over time.
 
 Having recognized the questions beyond “what is a body” or “what should this body do,” to the limitations 
-of what a body can do, there is an opportunity to assist enable sufferers in breaking free from their 
+of what a body can do, there is an opportunity to assist sufferers in breaking free from their 
 limiting relations, be these physical, social, behaviour, and so on. More interestingly to me, we 
 ourselves can break free from our own limited identities as therapists. Deleuze and Guatarri have 
 suggested that through our innate creative potential, by changing our relations, we might become 
