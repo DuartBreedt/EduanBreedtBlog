@@ -1,7 +1,7 @@
 +++
 title = "What Else Can Physiotherapy Do?"
 description = "Becoming Nomads"
-author = "Eduan Breedt"
+author = "Eduan Breedt", "Erin Tichenor"
 date = "2022-03-20"
 draft = false
 tags = ["BwO", "Physiotherapy", "Deleuze", "Nomads"]
