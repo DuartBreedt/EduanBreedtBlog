@@ -24,7 +24,7 @@ one vantage point, is hardly exhaustive or sufficient enough to reflect or accou
 >The painter does not paint on an empty canvas, and neither does the writer write on a blank page; but the page or 
 canvas is already so covered with preexisting, preestablished cliches that it is first necessary to erase, to clean, 
 to flatten, even to shred, so as to let in a breath of air from the chaos that brings us the vision.
-> — <cite>Deleuze and Guatarri</cite>
+> — <cite>Deleuze and Guatarri[^4][^5]</cite>
 
 What if we allowed ourselves the luxury of viewing the body from a different perspective than the one which we 
 were handed, one different to that which proliferates much of our professions today? We have been steeped in the 
@@ -120,11 +120,11 @@ may relate to the world.
 
 Strikingly, this requires us to create a new conception of health:
 >Health is never a final outcome in this Deleuzian perspective. Rather, it is a process, a becoming-other that 
-fluctuates along with the body’s capacities (Fox, 1993: 44–45); these capacities mark the limits of what (else) 
+fluctuates along with the body’s capacities <cite>(Fox, 1993: 44–45[^2])</cite>; these capacities mark the limits of what (else) 
 a body can do, but are always in flux, always becoming other. Rather than saying a body is healthy, we might 
 talk about its ‘becoming-healthy’, or about the ‘healthing’ of a body, to remind us of the active processes 
 involved and the fluctuating nature of embodied health.
-> — <cite>Fox 2012</cite>
+> — <cite>Fox 2012[^2]</cite>
 
 Deleuze and Guatarri’s model of the body-without-organs emphasises a body that is active, experimenting and 
 engaged, always with the capacity to form new relations and desire to do so. The more relations a body has 
@@ -133,8 +133,6 @@ the more it is capable of doing; perhaps, the healthier it is.
 As therapists we ourselves should not be territorialized but always becoming deterritorialized and 
 reterritorialized. No longer identified by our tribe but by our movement across the landscape. We are 
 becoming nomads, wandering ceaselessly in and out of new territories.
-
-
 
 When we examine someone experiencing chronic pain they are met with physical, social, financial, 
 psychological, and behavioural limitations. E.g. inability to flex their spine, isolation and loneliness, 
@@ -185,16 +183,15 @@ unfamiliar. Bring something new into the world! Make the familiar strange.
 
 As therapists of rehabilitation, we might begin with: what else can physiotherapy do?
 
+### Recommended Reading
 
-Recommended Reading:
+[^1]: Fox, N., 2012. The body. Cambridge, UK: Polity Press.
 
-Fox, N., 2012. The body. Cambridge, UK: Polity Press.
-
-Fox, N., 2012. Creativity and health: An anti-humanist reflection. Health: An Interdisciplinary 
+[^2]: Fox, N., 2012. Creativity and health: An anti-humanist reflection. Health: An Interdisciplinary 
 Journal for the Social Study of Health, Illness and Medicine, 17(5), pp.495-511.
 
-Nicholls, D., 2019. End of Physiotherapy. Routledge.
+[^3]: Nicholls, D., 2019. End of Physiotherapy. Routledge.
 
-Deleuze, G. and Guattari, F., 1994. What is philosophy?. New York: Columbia University Press.
+[^4]: Deleuze, G. and Guattari, F., 1994. What is philosophy?. New York: Columbia University Press.
 
-Deleuze, G. and Guattari, F., 1987. A thousand plateaus. Minneapolis: University of Minnesota Press.
+[^5]: Deleuze, G. and Guattari, F., 1987. A thousand plateaus. Minneapolis: University of Minnesota Press.
