@@ -24,7 +24,7 @@ one vantage point, is hardly exhaustive or sufficient enough to reflect or accou
 >The painter does not paint on an empty canvas, and neither does the writer write on a blank page; but the page or 
 canvas is already so covered with preexisting, preestablished cliches that it is first necessary to erase, to clean, 
 to flatten, even to shred, so as to let in a breath of air from the chaos that brings us the vision.
-> — <cite>Deleuze and Guatarri[^4][^5]</cite>
+> — <cite>Deleuze and Guatarri[^1]</cite>
 
 What if we allowed ourselves the luxury of viewing the body from a different perspective than the one which we 
 were handed, one different to that which proliferates much of our professions today? We have been steeped in the 
@@ -34,7 +34,7 @@ of relations between or among bodies?
 
 It has been customary to divide health up into the biological, psychological and social in an attempt to provide a 
 more “holistic” flavour of care. However, we don’t seem to have the ability to escape the gargantuas gravity of 
-biomedicine. Any attempt to adsorb the social and psychological in the clinic has not resulted in a more even 
+biomedicine[^2]. Any attempt to adsorb the social and psychological in the clinic has not resulted in a more even 
 substrate, but rather has led the psychosocial to be held hostage by biomedicine. After years of good behaviour, 
 it has been allowed the privilege of being described in terms of biology but never to be seen as equals.
 
@@ -46,7 +46,7 @@ affect their immune system?” or “do they have family support for their knee 
 the biological, under the guise of the sociological or psychological. 
 
 No physiotherapist I have met (barring a handful) is competent in sociological theory, so to attempt to competently 
-consider a client’s relevant sociological determinants becomes a dismal failure.
+consider a client’s relevant sociological determinants becomes a dismal failure[^3].
 
 However necessary it may be to respect all aspects of someone’s health, it is all too tempting to pigeon hole the 
 body into our preferred epistemological categories: a biological body, a lived body (only the person’s subjective 
@@ -61,7 +61,7 @@ experience but rather we conceptualise the body as one of relations. How might t
 ways of doing therapy?
 
 One pathway out of reductionism may lie in an obscure theory coined by Deleuze and Guattari in their book 
-“Capitalism and Schizophrenia”: the-body-without-organs. Everyone has a body. In fact, we could say all things 
+“Capitalism and Schizophrenia: A Thousand Plateaus”: the-body-without-organs[^4]. Everyone has a body. In fact, we could say all things 
 are bodies: animals, hats, trucks, countries, microbes, etc.
 
 All bodies are in constant relation to one another. Does the mind produce thoughts? Does bone marrow produce 
@@ -78,10 +78,10 @@ occupations, groups, the culture it is steeped in, and so on. Human bodies may r
 and place as a social agent and shape an identity as young, old, sick disabled, and so on. 
 
 Deleuze and Guatarri called the body that emerges from this confluence of relations the body-without-organs, 
-in contrast to the biological body the-body-with-organs. For Deleuze and Guattari, the physical biological body 
+in contrast to the biological body the-body-with-organs[^4]. For Deleuze and Guattari, the physical biological body 
 (body-with-organs) is not the important body. The body-with-organs is the result of powerful forces emanating 
 from biomedicine and medicalization; clinicians turn bodies into patients and their experiences of disease into 
-case histories. Deleuze and Guattari are interested in the myriad of physical, psychological, emotional and 
+case histories[^5]. Deleuze and Guattari are interested in the myriad of physical, psychological, emotional and 
 cultural relations formed from birth. The gendering of a child, the school they attend, the metaphors about 
 the body they are exposed to, their parents' relationship to pain and injury, the routines of work all create 
 the relations that shape the-body-without-organs. These various relations to other bodies (bodies referring to 
@@ -105,7 +105,7 @@ and between, and among other bodies. A multiplicity of affects.
 
 Instead of focusing on the-body-with-organs, we focus on its relations. As clinicians, we may go from asking 
 the familiar epistemological questions of “what is the body? What is the structure and function of bones, 
-muscles, joints, and how do we fix them?” to instead asking,“what does the body do?” What are its political, 
+muscles, joints, and how do we fix them?” to instead asking, “what does the body do?” What are its political, 
 philosophical, cultural, biological, physical, psychological relations? How have those relations been affected? 
 How might we create new relations, introduce old relations, or strengthen current ones? 
 
@@ -118,11 +118,11 @@ may relate to the world.
 
 Strikingly, this requires us to create a new conception of health:
 >Health is never a final outcome in this Deleuzian perspective. Rather, it is a process, a becoming-other that 
-fluctuates along with the body’s capacities <cite>(Fox, 1993: 44–45[^2])</cite>; these capacities mark the limits of what (else) 
+fluctuates along with the body’s capacities; these capacities mark the limits of what (else) 
 a body can do, but are always in flux, always becoming other. Rather than saying a body is healthy, we might 
 talk about its ‘becoming-healthy’, or about the ‘healthing’ of a body, to remind us of the active processes 
 involved and the fluctuating nature of embodied health.
-> — <cite>Fox 2012[^1][^2]</cite>
+> — <cite>Fox 2012[^6]</cite>
 
 Deleuze and Guatarri’s model of the body-without-organs emphasises a body that is active, experimenting and 
 engaged, always with the capacity to form new relations and desire to do so. The more relations a body has 
@@ -181,15 +181,17 @@ unfamiliar. Bring something new into the world! Make the familiar strange.
 
 As therapists of rehabilitation, we might begin with: what else can physiotherapy do?
 
-### Recommended Reading
+### References
 
-[^1]: Fox, N., 2012. The body. Cambridge, UK: Polity Press.
+[^1]: Deleuze, G. and Guattari, F., 1994. What is philosophy?. New York: Columbia University Press.
 
-[^2]: Fox, N., 2012. Creativity and health: An anti-humanist reflection. Health: An Interdisciplinary 
-Journal for the Social Study of Health, Illness and Medicine, 17(5), pp.495-511.
+[^2]: 
 
 [^3]: Nicholls, D., 2019. End of Physiotherapy. Routledge.
 
-[^4]: Deleuze, G. and Guattari, F., 1994. What is philosophy?. New York: Columbia University Press.
+[^4]: Deleuze, G. and Guattari, F., 1987. A thousand plateaus. Minneapolis: University of Minnesota Press.
 
-[^5]: Deleuze, G. and Guattari, F., 1987. A thousand plateaus. Minneapolis: University of Minnesota Press.
+[^5]: Fox, N., 2012. The body. Cambridge, UK: Polity Press.
+
+[^6]: Fox, N., 2012. Creativity and health: An anti-humanist reflection. Health: An Interdisciplinary 
+Journal for the Social Study of Health, Illness and Medicine, 17(5), pp.495-511.
