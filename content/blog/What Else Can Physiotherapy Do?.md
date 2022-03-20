@@ -7,7 +7,7 @@ draft = false
 tags = ["BwO", "Physiotherapy", "Deleuze", "Nomads"]
 categories = ["physiotherapy", "philosophy", "Deleuze"]
 [[images]]
-  src = "img/2019/03/Toilet.jpeg"
+  src = "img/2019/03/Toilet.jpg"
   alt = "Unnatural"
   stretch = "cover"
 +++
