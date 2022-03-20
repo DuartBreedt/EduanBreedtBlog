@@ -21,7 +21,7 @@ analysing its smaller parts.
 Or so the popular fable goes. This particular approach provides us with particular solutions. But one perspective, 
 one vantage point, is hardly exhaustive or sufficient enough to reflect or account for the diversity of life.
 
->The painter does not pain on an empty canvas, and neither does the writer write on a blank page; but the page or 
+>The painter does not paint on an empty canvas, and neither does the writer write on a blank page; but the page or 
 canvas is already so covered with preexisting, preestablished cliches that it is first necessary to erase, to clean, 
 to flatten, even to shred, so as to let in a breath of air from the chaos that brings us the vision.
 > — <cite>Deleuze and Guatarri</cite>
@@ -59,6 +59,7 @@ and exacerbate individuals’ suffering and societal disparities.
 Let us for a moment scrap our understanding of the body as the biological body, the social agent or the lived 
 experience but rather we conceptualise the body as one of relations. How might this new perspective open up novel 
 ways of doing therapy?
+
 
 
 One pathway out of reductionism may lie in an obscure theory coined by Deleuze and Guattari in their book 
@@ -132,6 +133,7 @@ the more it is capable of doing; perhaps, the healthier it is.
 As therapists we ourselves should not be territorialized but always becoming deterritorialized and 
 reterritorialized. No longer identified by our tribe but by our movement across the landscape. We are 
 becoming nomads, wandering ceaselessly in and out of new territories.
+
 
 
 When we examine someone experiencing chronic pain they are met with physical, social, financial, 
