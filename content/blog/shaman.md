@@ -7,7 +7,7 @@ draft = true
 tags = ["Poetry", "Physiotherapy", "Shaman"]
 categories = ["physiotherapy", "Poetry"]
 [[images]]
-  src = "img/2019/03/Red.Avif"
+  src = "img/2019/03/Red.avif"
   alt = "Crimson and Purple"
   stretch = "cover"
 +++
