@@ -19,15 +19,15 @@ A crimson and purple tent dimly lit.
 A ceremony, a ritual, a healing.
 The Shaman has their ways, but gives nothing away.
 
-Pulling the leg
-Pressing the spine
-Rubbing the skin
-Measuring the movements
-Watching the breath
-Aligning the bones
-Applying their magic
-A ceremony, a performance
-The therapist has their ways but won’t give away their magic
+Pulling the leg.
+Pressing the spine.
+Rubbing the skin.
+Measuring the movements.
+Watching the breath.
+Aligning the bones.
+Applying their magic.
+A ceremony, a performance.
+The therapist has their ways but won’t give away their magic.
 
 A different time, a different people, a different culture, a different disease, a different healing.
 
