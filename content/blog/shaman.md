@@ -2,8 +2,8 @@
 title = "Shaman"
 description = "Becoming Nomads"
 author = "Eduan Breedt"
-date = "2022-03-22"
-draft = true
+date = "2022-03-26"
+draft = false
 tags = ["Poetry", "Physiotherapy", "Shaman"]
 categories = ["physiotherapy", "Poetry"]
 [[images]]
