@@ -1,6 +1,6 @@
 +++
 title = "Shaman"
-description = ""
+description = "A Healing Ritual"
 author = "Eduan Breedt"
 date = "2022-03-27"
 draft = false
