@@ -86,3 +86,4 @@ Feel the heat.
 Maybe you don’t need a tent.  
 Wear it on your head like a Keffiyeh.  
 You are the movement across the territory. Become nomadic.
+ 
