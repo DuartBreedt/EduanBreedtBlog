@@ -13,7 +13,8 @@ categories = ["physiotherapy", "Poetry"]
 +++
 
 
-Rattling bones and symbols in a bag. Throw them and see where they fall.  
+Rattling bones and symbols in a bag.  
+Throw them and see where they fall.  
 Throaty chants.  
 A crooked post draped by patchy cultural canvas.  
 A crimson and purple tent dimly lit.  
