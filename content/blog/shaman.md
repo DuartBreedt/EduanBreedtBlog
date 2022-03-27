@@ -72,7 +72,6 @@ My feet are heavy with apathy, my eyes bloodshot with fatigue, nihilism rests da
 We are the new shaman.  
 What if I see the stage, the audience?  
 What is a chess piece when not on a chess board?   
-What am I when standing in line at the bank?  
 What if I see bones and trinquets as just bones and trinquets?  
 Do I have to believe it for it to work?   
 Once I’ve seen it can I unsee it? please.
