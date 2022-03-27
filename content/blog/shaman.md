@@ -12,6 +12,7 @@ categories = ["physiotherapy", "Poetry"]
   stretch = "cover"
 +++
 
+
 Rattling bones and symbols in a bag. Throw them and see where they fall.  
 Throaty chants.  
 A crooked post draped by patchy cultural canvas.  
@@ -86,4 +87,3 @@ Feel the heat.
 Maybe you don’t need a tent.  
 Wear it on your head like a Keffiyeh.  
 You are the movement across the territory. Become nomadic.
- 
