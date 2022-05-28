@@ -31,11 +31,11 @@ system, a profession which escapes the territory of the major, is always at risk
 reabsorbed.
 
 It is as though our noses are pressed up against a painting, accepting the belief that the closer we are the more 
-clearly we see. Our time is occupied by discerning the different shades of yellow right in front of our eyes. When 
+clearly we can see. Our time is occupied by discerning the different shades of yellow right in front of our eyes. When 
 we attempt to step a way, making some space between ourselves and what we are seeing, we are pushed back into it, 
 encouraged to look even closer.
 
-Physiotherapy’s preoccupation with mostly the biological and some of the psychological limits our perspective. The 
+Physiotherapy’s preoccupation with (for the most part) the biological and minor aspects of the psychological, limits our perspective. The 
 passive adoption of the profession’s presuppositions with no critical eye for the system it serves, conforming to 
 predominant thought, puts us at risk of only being able to think of the profession in a limited number of ways. It 
 is this unreflective adoption of seemingly self-evident presuppositions and clinical dogmas, that, transferred to us 
@@ -49,11 +49,11 @@ to think.
 > — <cite>Deleuze 1995[^2]</cite>
 
 But before we address the sociopolitical field we first need to untangle our presuppositions on which the 
-sociopolitical field stands. To do this requires us to consider how we use recognition to construct thought. 
+sociopolitical field stands. To do this requires us to consider how we use recognition to construct thought.  
 
 ### Recognition
 For Gilles Deleuze, thinking has primarily been considered an exercise of recognition, defined as “the harmonious 
-exercise of all the faculties upon a supposed same object.” [^2} A thinker recognizes an object when 
+exercise of all the faculties upon a supposed same object.” [^2] A thinker recognizes an object when 
 they use their faculties of memory, perception, understanding, and judgment in a concordant manner upon the object. 
 “Ah-ha yes of course, that makes sense” is the comfortable feeling that we experience when we see a connection that 
 strikes us as right. Something “clicks,” we say [^1]. 
@@ -80,7 +80,7 @@ the representational category of achilles tendinopathies within our healthcare s
 feel the satisfying feeling of  “aha! I know what is going on here” surge up within us. The client’s variety of presenting 
 features makes sense to us. We can deploy the category, which enables us to attend to them in the manner expected of us. 
 
-Crucially, this is what we begin to believe is emblematic of what it means to ‘think’ as a physiotherapist. “I am a good 
+**Crucially, this is what we begin to believe is emblematic of what it means to ‘think’ as a physiotherapist. “I am a good 
 thinker because I could recognize and categorize what was presented to me”.
 
 For Deleuze, the trouble comes when these representational categories and systems of meaning come to be understood as 
@@ -100,7 +100,7 @@ Presuppositions will have the appearance of “everybody knows, no one can deny 
 countless presupposed beliefs within the profession including the belief that joints become painful due to accumulated 
 wear and tear over time [^3], degenerative changes in the spine found on radiological imaging indicate the site 
 of a client’s pain [^4][^5], back pain is due to non-ideal posture [^6][^7][^8], scapula dyskinesis being 
-reliably related to shoulder injuries [^9] and so on.
+reliably related to shoulder injuries [^9] and so on.  
 
 ### The Sociopolitical Field
 The trouble with this Dogmatic Image of Physiotherapy is that the larger systems (historical, political, and socioeconomic 
@@ -172,7 +172,7 @@ worldview and cultural milieu of the time.
 When we take a step back from the profession, creating space between ourselves and the “painting” as it were, we can question 
 what it was that we were looking at. We see the painting as a whole, situated in a context; the frame within which the painting 
 sits, the wall on which the painting hangs, the building wherein the painting is kept, the people who have access to the building, 
-and so on.
+and so on.  
 
 ### Critique and Resist
 We might understand Deleuze’s critique of the Dogmatic Image of Thought as a warning against intellectual complacency or dogmatism. 
@@ -200,8 +200,7 @@ Deleuze’s work inspires a solution, a manner in which we escape the Dogmatic I
 presupposition “as we all know…”, resist. Deleuze suggests that we should refuse to be represented as one of the everybody. Disallow others 
 to speak on our behalf and instead say “I am not part of the big everybody”. All of what has been presupposed once again returns to 
 philosophical scrutiny. This is where real thought can begin. When called to recognise, choose rather to re-cognise, think again, go deeper, 
-look behind “common sense”.
-
+look behind “common sense”.  
 
 ### References
 
