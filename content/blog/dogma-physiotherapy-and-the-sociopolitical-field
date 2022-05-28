@@ -7,8 +7,8 @@ draft = true
 tags = ["Dogma", "Physiotherapy", "Deleuze", "Sociopolitical"]
 categories = ["physiotherapy", "philosophy", "Deleuze"]
 [[images]]
-  src = "img/2019/03/Toilet.jpg"
-  alt = "Unnatural"
+  src = "img/2019/03/Gallery.jpg"
+  alt = "Gallery"
   stretch = "cover"
 +++
 
