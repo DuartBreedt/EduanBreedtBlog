@@ -81,7 +81,7 @@ feel the satisfying feeling of  “aha! I know what is going on here” surge up
 features makes sense to us. We can deploy the category, which enables us to attend to them in the manner expected of us. 
 
 **Crucially, this is what we begin to believe is emblematic of what it means to ‘think’ as a physiotherapist. “I am a good 
-thinker because I could recognize and categorize what was presented to me”.
+thinker because I could recognize and categorize what was presented to me”.**
 
 For Deleuze, the trouble comes when these representational categories and systems of meaning come to be understood as 
 self-evident categories which simply ‘name’ a reality. In other words, they become Dogma and sustain a conformist image 
