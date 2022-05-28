@@ -3,7 +3,7 @@ title = "Dogma, Physiotherapy, and the Sociopolitical Field"
 description = "taking a step back"
 author = "Eduan Breedt and Erin Tichenor"
 date = "2022-05-28"
-draft = true
+draft = false
 tags = ["Dogma", "Physiotherapy", "Deleuze", "Sociopolitical"]
 categories = ["physiotherapy", "philosophy", "Deleuze"]
 [[images]]
