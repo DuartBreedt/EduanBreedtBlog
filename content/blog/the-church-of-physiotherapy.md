@@ -16,31 +16,29 @@ categories = ["physiotherapy", "philosophy", "Deleuze"]
 We go toward the best known unknown thing, where knowing and not knowing touch, where we hope we 
 will know what is unknown. Where we hope we will not be afraid of understanding the incomprehensible, 
 facing invisible, hearing the inaudible, thinking the unthinkable, which is of course: thinking.
-> — <cite>Hélène Cixous</cite>
-
-[^1]
+> — <cite>Hélène Cixous[^1]</cite>
 
 This is an exercise in writing, not to be interpreted and understood, but to produce something which is 
 affective. “... all mistranslations result in beauty. This is a good way to read: all mistranslations are 
-good” (ref dialogues) A staccato, “roughened” rhythm in writing removes automatism in thought, creates a 
+good”[^2]. A staccato, “roughened” rhythm in writing removes automatism in thought, creates a 
 straining in knowledge between what is known and not known: “a straining of one's whole language toward 
-something outside it.” (ref negotiations) This is an attempt at bilingualism, a minor use of language, a 
-stammering: “being like a foreigner in one's own language. Constructing a line of flight” (ref Dialogues). 
+something outside it.”[^3] This is an attempt at bilingualism, a minor use of language, a 
+stammering: “being like a foreigner in one's own language. Constructing a line of flight”[^2]. 
 With enough resistance and friction, I hope “...a spark can flash and break out of language itself, to make 
-us see and think what was lying in the shadow around the words, things we were hardly aware existed.” Nothing 
+us see and think what was lying in the shadow around the words, things we were hardly aware existed.”[^3] Nothing 
 interesting begins with knowing, but with not knowing. This is an attempt to produce a little machine plugging 
 into other little machines, in attempt to produce flows that can “...bring things to life, to free life from 
-where it's trapped, to trace lines of flight. “ (ref negotians) 
+where it's trapped, to trace lines of flight. “[^3] 
 
 
 >Art is fundamentally ironic and destructive. It revitalizes the world
-> — <cite>Viktor Shklovsky</cite>
+> — <cite>Viktor Shklovsky</cite>  
 
 ### Why Betray Physiotherapy?
 
-Every field needs a bit of betrayal - a bit of Judas - if it desires to have movement. Complacency, conservatism, 
+Every field needs a bit of betrayal - a bit of Judas - if it desires to have movement[^4]. Complacency, conservatism, 
 and dogmatism opposes change and the new. Writer Jorge Luis Borges imagined a Judas who he describes as intuiting 
-the necessity of the divine plan and thus the crucifixion to incite a rebellion (ref). He describes Judas as 
+the necessity of the divine plan and thus the crucifixion to incite a rebellion [^5]. He describes Judas as 
 sacrificing his own reputation for the divine plan. God became fully incarnate, not through Jesus, but through Judas. 
 
 My betrayal is an intentional repealment of my discipleship, no longer being a follower of Physiotherapy as it 
@@ -48,13 +46,13 @@ currently stands. However, this is not an act of hate but an act of love. I beli
 it can be better. I believe that a new direction might lead to movement with greater potential. 
 
 This critique elucidates the ethical and political reasons why radically cutting ties with a number of the 
-philosophical underpinnings of the profession and becoming a traitor prophet might be necessary for physiotherapy.
+philosophical underpinnings of the profession and becoming a traitor prophet might be necessary for physiotherapy.  
 
 ### The Evangelical Fundamentalist Physiotherapists
 
 Believers in “Evidence-Based Practice” have discussed at length how a relatively sizable proportion of the 
 profession practices using outdated modalities and rituals despite overwhelming evidence that many of these 
-interventions are no better than placebo (ref). Snakeoil Salesman. They insist “I see it work!” as they 
+interventions are no better than placebo [^6]. Snakeoil Salesman. They insist “I see it work!” as they 
 continue their faith healing. 
 
 Thank you Plato! It is the ontological obsession with identity we take for granted which has led us to this 
@@ -69,11 +67,11 @@ movements and conversation might be a little too “physio-esque”. Our voice o
 correct, and educate; we demonstrate exercises rigidly and ostentatiously; our movements a little too precise, 
 a little too certain. It is a clear give away, our exaggerated behaviour illustrates that we are play acting 
 as a physiotherapist, as an object in the world: an automaton whose essence is to be a physiotherapist
-> — <cite>[^3]</cite>
+> — <cite>See [^7]</cite>
 
 Standing on their mound of meta-analysis, randomised control trials, and Cochrane reviews, the post-positivists 
 point and laugh. “How narrow-minded!” they remark contemptuously: “if only they could question their own 
-fundamental beliefs” (EBM proponents ref). 
+fundamental beliefs” [^8]. 
 
 “Science is the Way to Truth!,” they prophecy. “We can all achieve enlightenment, just give up your sinful flesh, 
 your false perceptions, your ways in the world, your biases, so that you can see clearly.”
@@ -85,8 +83,7 @@ all hail.
 
 How much easier would it be if humans stopped making the world filthy with their lived experiences, ugh.
 
-[What comfortable narratives or emotions did you notice coming up for you while you were reading this section?]
-
+[What comfortable narratives or emotions did you notice coming up for you while you were reading this section?]  
 
 ### A New King
 
@@ -134,8 +131,7 @@ What I am, however, is anti-fascist. Evidence-based medicine has a pernicious ki
 (ref Dave Holmes). But I guess that is the nature of the beast. Categories and identities make us comfortable. If a reader has already 
 designated a label for me, there is little I can do about it.
 
-[Did you notice a feeling of unease? Why? Where might that be coming from?]
-
+[Did you notice a feeling of unease? Why? Where might that be coming from?]  
 
 ### Enough of Socrates!
 
@@ -167,7 +163,7 @@ and complicity. An image of thought.
 answer to a question we are afraid to ask
 > — <cite>Thomas Merton</cite>
 
-[Allow discomfort and uncertainty to change your perspective on your profession and yourself]
+[Allow discomfort and uncertainty to change your perspective on your profession and yourself]  
 
 ### An Immanant Creator
 
@@ -183,7 +179,7 @@ After all, it was Paul who in a moment of lucidity denied an ontology of identit
 allowing the possibility for the “new”: “Do not lie to each other, since you have taken off your old self [transcendence] with its 
 practices and have put on the new self, which is being renewed in knowledge in the image of its Creator [Difference in itself]. 
 Here there is no [identity] Gentile or Jew, circumcised or uncircumcised, barbarian, Scythian, slave or free, but Christ [Difference] 
-is all, and is in all.” [^1](author added in brackets)
+is all, and is in all.” [^1](author added in brackets)  
 
 ### Making the Familiar Strange
 
@@ -236,23 +232,32 @@ is supposed to recognise. Someone who neither allows himself to be represented n
 Looking at physiotherapy long and hard enough allows it to recede and lose meaning. What was once familiar (physiotherapy) is now strange. 
 The name is the same, but its character warps and becomes dissonant the further we walk from the city walls. The word is now charged as if 
 it both hungers for what it was and anticipates what it might become - a strange pulsing of both past and present. Bodies that were and 
-bodies yet to come. Physiotherapists that were and physiotherapists that are yet to come. There is another world out there we don’t know 
-- beyond the recognizable.
+bodies yet to come. Physiotherapists that were and physiotherapists that are yet to come. There is another world out there we don’t know - beyond the recognizable.
 
 “Do you see anything [new]”? (ref Mark 8:23 (NIV))  
 
 
 ### References
 
-[^1]: Deleuze, G. and Guattari, F., 1994. What is philosophy?. New York: Columbia University Press.
+[^1]: Cixous, H., Cornell, S., & Sellers, S. (1993). Three steps on the ladder of writing. New York. N.Y.: Columbia University Press.
 
-[^2]: Nicholls, D. and Gibson, B., 2010. The body and physiotherapy. Physiotherapy Theory and Practice, 26(8), pp.497-509.
+[^2]: Deleuze, G., Parnet, C., Tomlinson, H., Habberjam, B., & Albert, E. (2012). Dialogues II. New York: Columbia University Press.
 
-[^3]: Nicholls, D., 2019. End of Physiotherapy. Routledge.
+[^3]: Deleuze, G. (1995). Negotiations, 1972-1990. New York: Columbia University Press.
 
-[^4]: Deleuze, G. and Guattari, F., 1987. A thousand plateaus. Minneapolis: University of Minnesota Press.
+[^4]: Wallin
 
-[^5]: Fox, N., 2012. The body. Cambridge, UK: Polity Press.
+[^5]: Borges, J., & Kerrigan, A. (1958). Three versions of Judas. Palma de Mallorca: Mossèn Alcover.
 
-[^6]: Fox, N., 2012. Creativity and health: An anti-humanist reflection. Health: An Interdisciplinary 
-Journal for the Social Study of Health, Illness and Medicine, 17(5), pp.495-511.
+[^6]: research on outdated modalities
+
+[^7]: Previous blog on Sartre's waitor
+
+[^8]: Staunch EBM articles ridiculing outdated methods
+
+[^9]: research on outdated modalities
+
+[^10]: research on outdated modalities
+
+[^11]: research on outdated modalities
+
