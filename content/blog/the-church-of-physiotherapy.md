@@ -201,9 +201,45 @@ Sometimes we need an optician to lead us by the hand out of the village into ter
 “there's something wrong in the village”? (ref Wrabel village) This is the function of the last guru: to reveal not their universal perspective, 
 but the absence of a universal perspective.
 
-He took the blind man by the hand and led him outside the village. When he had spit on the man’s eyes and put his hands on him, Jesus asked, 
+>He took the blind man by the hand and led him outside the village. When he had spit on the man’s eyes and put his hands on him, Jesus asked, 
 “Do you see anything?” 
-Mark 8:23 (NIV)
+> — <cite>Mark 8:23 (NIV)[^1]</cite>
+
+Now outside the city gates -  between territories - we are provided a perspective that was not afforded to us when we were complicit with the 
+order of things. Becoming nomadic, becoming Moses (a stammerer) - having a small plot of new land at all times” (ref Deleuze). If we go to 
+“the far side of the wilderness” we encounter the “strange” (ref Exodus 3:1-3), even if only for a moment. This is the value of getting lost 
+and not knowing where to go. 
+
+>To move from A to B, we have to go from A to not A. We do not go from certainty to certainty, but from certainty to uncertainty, from stability 
+to instability.
+> — <cite>[^1]</cite>
+
+Betray comfort -  break the boundaries of a thing to create new limits and explore alternatives previously hidden by the city walls. Enter the 
+transitional space between thought and unthought, not knowing what might appear, not knowing what to do next, like eyes before they open (ref every colour). 
+The liminal spaces allow us to find new becomings. An ethics of betrayal demands a radical movement away from our faculties of memory, and 
+reflection, rejecting the comfort of the status quo (ref Wallin).
+
+>The conditions of a true critique and a true creation are the same: the destruction of an image of thought which presupposes itself and the 
+genesis of the act of thinking in thought itself
+> — <cite>Gilles Deleuze[^1]</cite>
+
+What we need is “something in the world” to force us to think, not the recognisable (that which can be recalled, imagined, or conceived) but a 
+“fundamental encounter” (ref diff and rep). We require an outside thought which violates (an image of) thought that attempts to think on our 
+behalf (ref wallin). Thinking takes place out of reach of physiotherapy’s agenda. What forces us to think is imperceptible to “the physiotherapist” 
+and is only available to the traitor prophet if they choose it: “the truth is not revealed, it is betrayed” (Proust and signs). So that we might 
+become “...someone - if only one-with the necessary modesty [of] not managing to know what everybody knows, and modestly denying what everybody 
+is supposed to recognise. Someone who neither allows himself to be represented nor wishes to represent anything” (ref Deleuze diff and rep).
+
+>Thinking is trying to think the unthinkable: thinking the thinkable is not worth the effort
+> — <cite>Hélène Cixous[^1]</cite>
+
+Looking at physiotherapy long and hard enough allows it to recede and lose meaning. What was once familiar (physiotherapy) is now strange. 
+The name is the same, but its character warps and becomes dissonant the further we walk from the city walls. The word is now charged as if 
+it both hungers for what it was and anticipates what it might become - a strange pulsing of both past and present. Bodies that were and 
+bodies yet to come. Physiotherapists that were and physiotherapists that are yet to come. There is another world out there we don’t know 
+- beyond the recognizable.
+
+“Do you see anything [new]”? (ref Mark 8:23 (NIV))  
 
 
 ### References
