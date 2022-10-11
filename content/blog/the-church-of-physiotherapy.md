@@ -146,7 +146,8 @@ win some and you lose some. You can’t fix everyone. They might come back in a 
 Love the sinner, not the sin! 
 
 Our words percolate through the husk of the person whom the dogmatic image of physiotherapy has emptied out. We now provide only 
-that which benefits the profession: sick bodies and healthy bodies, predictability and conformity. 
+that which benefits the profession: sick bodies and healthy bodies, predictability and conformity. Like Dr Ioannidis I am curious to 
+know if evidence based practice will continue to lead “to more medicine, even if this means less health?” Ref (Hijack article)
 
 As it stands, physiotherapy does not disturb thought. It keeps us very busy engaging our faculties in activities that refer back 
 to objects of recognition (diff and rep). Thought is filled with no more than an image of itself and its own internal logic, it 
