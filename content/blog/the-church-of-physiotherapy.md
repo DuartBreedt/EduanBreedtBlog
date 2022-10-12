@@ -154,7 +154,7 @@ for physiotherapists. It gives us norms, rules, and complicity. An image of thou
 
 >One of the moral diseases we communicate to one another in society comes from huddling together in the pale light of an insufficient 
 answer to a question we are afraid to ask
-> — <cite>Thomas Merton[^17]</cite>
+> — <cite>Thomas Merton[^16]</cite>
 
 ### An Immanant Creator
 
@@ -164,7 +164,7 @@ affirm difference is to affirm life.
 
 >To affirm is not to bear, carry, or harness oneself to that which exists, but on the contrary to unburden, unharness, and set 
 free that which lives
-> — <cite>Gilles Deeluze[^18]</cite>
+> — <cite>Gilles Deeluze[^17]</cite>
 
 After all, it was Paul who in a moment of lucidity denied an ontology of identity (transcendence) for one of difference (immanence) 
 allowing the possibility for the “new”: “Do not lie to each other, since you have taken off your old self [transcendence] with its 
@@ -180,14 +180,14 @@ Where is the new to be found?
 of life, it exists to make us feel things, to make the stone stony. The end of art is to give a sensation of the object as seen, not as 
 recognized. The technique of art is to make things 'unfamiliar,' to make forms obscure, so as to increase the difficulty and duration of 
 perception. 
-> — <cite>Viktor Schklovsky[^19]</cite>
+> — <cite>Viktor Schklovsky[^18]</cite>
 
 The familiar blinds us and makes our fingers numb. Poets, writers, and painters aren’t artists but opticians. They help us see things as 
-they are sensed and not as they are known (recognised). We are forced to look again, to see for the first time, from the outside[^20]. 
-“Seeing”, in this sense “is forgetting the name of the thing one sees.”[^21]
+they are sensed and not as they are known (recognised). We are forced to look again, to see for the first time, from the outside[^19]. 
+“Seeing”, in this sense “is forgetting the name of the thing one sees.”[^20]
 
-Sometimes we need an optician to lead us by the hand out of the village into terra nulius, outside the city walls[^20]. What if 
-“there's something wrong in the village”?[^22] This is the function of the last guru: to reveal not their universal perspective, 
+Sometimes we need an optician to lead us by the hand out of the village into terra nulius, outside the city walls[^19]. What if 
+“there's something wrong in the village”?[^21] This is the function of the last guru: to reveal not their universal perspective, 
 but the absence of a universal perspective.
 
 >He took the blind man by the hand and led him outside the village. When he had spit on the man’s eyes and put his hands on him, Jesus asked, 
@@ -195,16 +195,16 @@ but the absence of a universal perspective.
 > — <cite>Mark 8:23 (NIV)</cite>
 
 Now outside the city gates -  between territories - we are provided a perspective that was not afforded to us when we were complicit with the 
-order of things. Becoming nomadic, becoming Moses (a stammerer) - "having a small plot of new land at all times”[^23]. If we go to 
+order of things. Becoming nomadic, becoming Moses (a stammerer) - "having a small plot of new land at all times”[^22]. If we go to 
 “the far side of the wilderness” we encounter the “strange” (Exodus 3:1-3 (NIV)), even if only for a moment. This is the value of getting lost 
 and not knowing where to go. 
 
 >To move from A to B, we have to go from A to not A. We do not go from certainty to certainty, but from certainty to uncertainty, from stability 
 to instability.
-> — <cite>[^24]</cite>
+> — <cite>[^23]</cite>
 
 Betray comfort -  break the boundaries of a thing to create new limits and explore alternatives previously hidden by the city walls. Enter the 
-transitional space between thought and unthought, not knowing what might appear, not knowing what to do next, like eyes before they open[^25]. 
+transitional space between thought and unthought, not knowing what might appear, not knowing what to do next, like eyes before they open[^24]. 
 The liminal spaces allow us to find new becomings. An ethics of betrayal demands a radical movement away from our faculties of memory, and 
 reflection, rejecting the comfort of the status quo[^4].
 
@@ -215,7 +215,7 @@ genesis of the act of thinking in thought itself
 What we need is “something in the world” to force us to think, not the recognisable (that which can be recalled, imagined, or conceived) but a 
 “fundamental encounter”[^15]. We require an outside thought which violates (an image of) thought that attempts to think on our 
 behalf[^4]. Thinking takes place out of reach of physiotherapy’s agenda. What forces us to think is imperceptible to “the physiotherapist” 
-and is only available to the traitor prophet if they choose it: “the truth is not revealed, it is betrayed”[^26]. So that we might 
+and is only available to the traitor prophet if they choose it: “the truth is not revealed, it is betrayed”[^25]. So that we might 
 become “...someone - if only one- with the necessary modesty [of] not managing to know what everybody knows, and modestly denying what everybody 
 is supposed to recognise. Someone who neither allows [them]self to be represented nor wishes to represent anything”[^15].
 
@@ -262,24 +262,22 @@ bodies yet to come. Physiotherapists that were and physiotherapists that are yet
 
 [^15]: Deleuze, G., & Patton, P. (2021). Difference and repetition. London [i pozostałe]: Bloomsbury Academic.
 
-[^16]:
+[^16]: Merton, T. (1955). No man is an island.
 
-[^17]: Merton, T. (1955). No man is an island.
+[^17]: Deleuze, G. (2006). Nietzsche and philosophy. Columbia University Press.
 
-[^18]: Deleuze, G. (2006). Nietzsche and philosophy. Columbia University Press.
+[^18]: Shklovsky, V. (2015). Art, as Device. Poetics Today, 36(3), 151-174. doi: 10.1215/03335372-3160709
 
-[^19]: Shklovsky, V. (2015). Art, as Device. Poetics Today, 36(3), 151-174. doi: 10.1215/03335372-3160709
+[^19]: The Beautifully Strange World of Outsider Music. (2022). Retrieved 12 October 2022, from https://www.youtube.com/watch?v=CVks07UgVQQ&t=1s
 
-[^20]: The Beautifully Strange World of Outsider Music. (2022). Retrieved 12 October 2022, from https://www.youtube.com/watch?v=CVks07UgVQQ&t=1s
+[^20]: Weschler, L. (2009). Seeing Is Forgetting the Name of the Thing One Sees. CA: University of California Press.
 
-[^21]: Weschler, L. (2009). Seeing Is Forgetting the Name of the Thing One Sees. CA: University of California Press.
+[^21]: Wrabel. “The Village”  One Nite Only (Live). Epic Records, 2019.
 
-[^22]: Wrabel. “The Village”  One Nite Only (Live). Epic Records, 2019.
+[^22]: Deleuze, G., & Guattari, F. (1988). A Thousand Plateaus. London: Athlone.
 
-[^23]: Deleuze, G., & Guattari, F. (1988). A Thousand Plateaus. London: Athlone.
+[^23]: Breedt, E. (2022). SUBLIME [Blog]. Retrieved from https://eduanbreedt.com/blog/sublime/
 
-[^24]: Breedt, E. (2022). SUBLIME [Blog]. Retrieved from https://eduanbreedt.com/blog/sublime/
+[^24]: Fogale, L. “Every Colour”  Nothing is Lost. 2020.
 
-[^25]: Fogale, L. “Every Colour”  Nothing is Lost. 2020.
-
-[^26]: Deleuze, G., HOWARD, R., & Proust, M. (1973). Proust and Signs. London: Allen Lane.
+[^25]: Deleuze, G., HOWARD, R., & Proust, M. (1973). Proust and Signs. London: Allen Lane.
