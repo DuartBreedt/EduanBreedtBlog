@@ -205,18 +205,18 @@ to instability.
 Betray comfort -  break the boundaries of a thing to create new limits and explore alternatives previously hidden by the city walls. Enter the 
 transitional space between thought and unthought, not knowing what might appear, not knowing what to do next, like eyes before they open[^25]. 
 The liminal spaces allow us to find new becomings. An ethics of betrayal demands a radical movement away from our faculties of memory, and 
-reflection, rejecting the comfort of the status quo (ref Wallin).
+reflection, rejecting the comfort of the status quo[^16].
 
 >The conditions of a true critique and a true creation are the same: the destruction of an image of thought which presupposes itself and the 
 genesis of the act of thinking in thought itself
-> — <cite>Gilles Deleuze[^1]</cite>
+> — <cite>Gilles Deleuze[^15]</cite>
 
 What we need is “something in the world” to force us to think, not the recognisable (that which can be recalled, imagined, or conceived) but a 
-“fundamental encounter” (ref diff and rep). We require an outside thought which violates (an image of) thought that attempts to think on our 
-behalf (ref wallin). Thinking takes place out of reach of physiotherapy’s agenda. What forces us to think is imperceptible to “the physiotherapist” 
-and is only available to the traitor prophet if they choose it: “the truth is not revealed, it is betrayed” (Proust and signs). So that we might 
+“fundamental encounter”[^15]. We require an outside thought which violates (an image of) thought that attempts to think on our 
+behalf[^16]. Thinking takes place out of reach of physiotherapy’s agenda. What forces us to think is imperceptible to “the physiotherapist” 
+and is only available to the traitor prophet if they choose it: “the truth is not revealed, it is betrayed”[^26]. So that we might 
 become “...someone - if only one- with the necessary modesty [of] not managing to know what everybody knows, and modestly denying what everybody 
-is supposed to recognise. Someone who neither allows [them]self to be represented nor wishes to represent anything” (ref Deleuze diff and rep).
+is supposed to recognise. Someone who neither allows [them]self to be represented nor wishes to represent anything”[^15].
 
 >Thinking is trying to think the unthinkable: thinking the thinkable is not worth the effort
 > — <cite>Hélène Cixous[^1]</cite>
@@ -280,3 +280,5 @@ bodies yet to come. Physiotherapists that were and physiotherapists that are yet
 [^24]: Breedt, E. (2022). SUBLIME [Blog]. Retrieved from https://eduanbreedt.com/blog/sublime/
 
 [^25]: Fogale, L. “Every Colour”  Nothing is Lost. 2020.
+
+[^26]: Deleuze, G., HOWARD, R., & Proust, M. (1973). Proust and Signs. London: Allen Lane.
