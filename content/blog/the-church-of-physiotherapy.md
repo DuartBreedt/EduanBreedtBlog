@@ -147,7 +147,7 @@ to objects of recognition[^15]. Thought is filled with no more than an image of 
 recognises itself the more it recognises things[^15]. 
 
 Deleuze insists that conformism of thought wed to representation and recognition has left us virtually no tools to break with that 
-which everyone already knows[^16].
+which everyone already knows[^4].
 
 “The exercise of thought thus conforms to the … dominant meanings and to the requirements of the established order.”[^2] Physiotherapy thinks 
 for physiotherapists. It gives us norms, rules, and complicity. An image of thought.
@@ -206,7 +206,7 @@ to instability.
 Betray comfort -  break the boundaries of a thing to create new limits and explore alternatives previously hidden by the city walls. Enter the 
 transitional space between thought and unthought, not knowing what might appear, not knowing what to do next, like eyes before they open[^25]. 
 The liminal spaces allow us to find new becomings. An ethics of betrayal demands a radical movement away from our faculties of memory, and 
-reflection, rejecting the comfort of the status quo[^16].
+reflection, rejecting the comfort of the status quo[^4].
 
 >The conditions of a true critique and a true creation are the same: the destruction of an image of thought which presupposes itself and the 
 genesis of the act of thinking in thought itself
@@ -214,7 +214,7 @@ genesis of the act of thinking in thought itself
 
 What we need is “something in the world” to force us to think, not the recognisable (that which can be recalled, imagined, or conceived) but a 
 “fundamental encounter”[^15]. We require an outside thought which violates (an image of) thought that attempts to think on our 
-behalf[^16]. Thinking takes place out of reach of physiotherapy’s agenda. What forces us to think is imperceptible to “the physiotherapist” 
+behalf[^4]. Thinking takes place out of reach of physiotherapy’s agenda. What forces us to think is imperceptible to “the physiotherapist” 
 and is only available to the traitor prophet if they choose it: “the truth is not revealed, it is betrayed”[^26]. So that we might 
 become “...someone - if only one- with the necessary modesty [of] not managing to know what everybody knows, and modestly denying what everybody 
 is supposed to recognise. Someone who neither allows [them]self to be represented nor wishes to represent anything”[^15].
@@ -238,7 +238,7 @@ bodies yet to come. Physiotherapists that were and physiotherapists that are yet
 
 [^3]: Deleuze, G. (1995). Negotiations, 1972-1990. New York: Columbia University Press.
 
-[^4]: Wallin
+[^4]: Jagodzinski, J., & Wallin, J. (2013). Arts-based research. Rotterdam: SensePublishers.
 
 [^5]: Borges, J., & Kerrigan, A. (1958). Three versions of Judas. Palma de Mallorca: Mossèn Alcover.
 
@@ -262,7 +262,7 @@ bodies yet to come. Physiotherapists that were and physiotherapists that are yet
 
 [^15]: Deleuze, G., & Patton, P. (2021). Difference and repetition. London [i pozostałe]: Bloomsbury Academic.
 
-[^16]: Jagodzinski, J., & Wallin, J. (2013). Arts-based research. Rotterdam: SensePublishers.
+[^16]:
 
 [^17]: Merton, T. (1955). No man is an island.
 
