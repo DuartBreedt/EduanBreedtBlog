@@ -78,12 +78,10 @@ your false perceptions, your ways in the world, your biases, so that you can see
 
 Truth, pure Truth, is thought of as having asymptotic fidelity which we can approximate when we exorcise our sinful 
 corporeal selves with the double-blind randomized controlled ritual. It will wash away our “faulty subjectivity” and 
-lived experiences so we can get at “the things in themselves” (Ref Kant). Truth is omnipotent, omniscient, omnipresent, 
+lived experiences so we can get at “the things in themselves” [^9]. Truth is omnipotent, omniscient, omnipresent, 
 all hail. 
 
 How much easier would it be if humans stopped making the world filthy with their lived experiences, ugh.
-
-[What comfortable narratives or emotions did you notice coming up for you while you were reading this section?]  
 
 ### A New King
 
@@ -105,10 +103,10 @@ The normal from the abnormal. The compliant from the deviant. The Christ-like fr
 
 We’re told we can know the world if we granulate it and study its little bits. Bodies and their bits. We can fix it 
 once we find out where the screw fell out. To stop and measure, we need a world that stands still and we need concept 
-which can hold the world. But concepts solidify reality; they fix between rigid outlines like a camera freezes reality 
+which can contain the world. But concepts solidify reality; they fix between rigid outlines like a camera freezes reality 
 on the surface of the paper. To define is to confine. Concepts deform reality; reality, in its continuous movement, is 
-richer than any concept.  To quantify we need to create immobilities of the fundamentally mobile. We solidify flows 
-(ref Bergson creative evolution). Quantum theory exemplified that when we ask wave-like questions we get wave-like 
+richer than any concept. To quantify we need to create immobilities of the fundamentally mobile. We solidify flows 
+[^10]. Quantum theory exemplified that when we ask wave-like questions we get wave-like 
 answers and when we ask particle-like questions we get particle-like answers. 
 
 Very pragmatic indeed but we need to acknowledge immobilities where they exist. But devoted to our “models of health,” 
@@ -122,20 +120,16 @@ Being and transcendence, every generation will have its religion.
 
 Atheism is not so different from theism. It is a matter of preference for a God Being or a Truth Being. 
 
-God's not dead, he wears a different crown (ref FN). 
+"God is dead. God remains dead. And we have killed him. Yet his shadow still looms"[^11]. God's not dead, he wears a different crown.
 
-Author’s note:
-I feel compelled to defend myself and explain that I am not “anti-science”. (Why do I feel compelled to assure you I am not 
-“anti-science”? What repercussions do I fear? Is this what self-regulation looks like? The panopticon perhaps Mr. Foucault? (ref)). 
+(*I feel compelled to defend myself and explain that I am not “anti-science”. (Why do I feel compelled to assure you I am not 
+“anti-science”? What repercussions do I fear? Is this what self-regulation looks like? The panopticon perhaps Mr. Foucault?[^12].
 What I am, however, is anti-fascist. Evidence-based medicine has a pernicious kind of micro-fascism that holds us captive 
-(ref Dave Holmes). But I guess that is the nature of the beast. Categories and identities make us comfortable. If a reader has already 
-designated a label for me, there is little I can do about it.
-
-[Did you notice a feeling of unease? Why? Where might that be coming from?]  
+[^13]. But I guess that is the nature of the beast. Categories and identities make us comfortable.*)
 
 ### Enough of Socrates!
 
-We dehydrated and dissected the body and embalmed it with the physiotherapy “regime of truth” (ref Foucault). This taxidermied 
+We dehydrated and dissected the body and embalmed it with the physiotherapy “regime of truth”[^12]. This taxidermied 
 body did not sit well with those still living so we responded with “person-centered care”. But, person-centered care is a trojan 
 horse that also infiltrates patients with the physiotherapy agenda. 
 
@@ -147,24 +141,21 @@ Love the sinner, not the sin!
 
 Our words percolate through the husk of the person whom the dogmatic image of physiotherapy has emptied out. We now provide only 
 that which benefits the profession: sick bodies and healthy bodies, predictability and conformity. Like Dr Ioannidis I am curious to 
-know if evidence based practice will continue to lead “to more medicine, even if this means less health?” Ref (Hijack article)
+know if evidence based practice will continue to lead “to more medicine, even if this means less health”[^14].
 
 As it stands, physiotherapy does not disturb thought. It keeps us very busy engaging our faculties in activities that refer back 
-to objects of recognition (diff and rep). Thought is filled with no more than an image of itself and its own internal logic, it 
-recognises itself the more it recognises things (diff and rep ref). 
+to objects of recognition[^15]. Thought is filled with no more than an image of itself and its own internal logic, it 
+recognises itself the more it recognises things[^15]. 
 
 Deleuze insists that conformism of thought wed to representation and recognition has left us virtually no tools to break with that 
-which everyone already knows. (wallin ref) 
+which everyone already knows[^16].
 
-“The exercise of thought thus conforms to the … dominant meanings and to the requirements of the established order.” 
-https://blogit.utu.fi/landd/2020/01/10/the-double-theft/ Physiotherapy thinks for physiotherapists. It gives us norms, rules, 
-and complicity. An image of thought.
+“The exercise of thought thus conforms to the … dominant meanings and to the requirements of the established order.”[^2] Physiotherapy thinks 
+for physiotherapists. It gives us norms, rules, and complicity. An image of thought.
 
 >One of the moral diseases we communicate to one another in society comes from huddling together in the pale light of an insufficient 
 answer to a question we are afraid to ask
-> — <cite>Thomas Merton</cite>
-
-[Allow discomfort and uncertainty to change your perspective on your profession and yourself]  
+> — <cite>Thomas Merton[^17]</cite>
 
 ### An Immanant Creator
 
@@ -174,13 +165,13 @@ affirm difference is to affirm life.
 
 >To affirm is not to bear, carry, or harness oneself to that which exists, but on the contrary to unburden, unharness, and set 
 free that which lives
-> — <cite>Gilles Deeluze[^1]</cite>
+> — <cite>Gilles Deeluze[^18]</cite>
 
 After all, it was Paul who in a moment of lucidity denied an ontology of identity (transcendence) for one of difference (immanence) 
 allowing the possibility for the “new”: “Do not lie to each other, since you have taken off your old self [transcendence] with its 
 practices and have put on the new self, which is being renewed in knowledge in the image of its Creator [Difference in itself]. 
 Here there is no [identity] Gentile or Jew, circumcised or uncircumcised, barbarian, Scythian, slave or free, but Christ [Difference] 
-is all, and is in all.” [^1](author added in brackets)  
+is all, and is in all.” (Colossions 3:9-11(NIV)) [author added in brackets]
 
 ### Making the Familiar Strange
 
@@ -188,31 +179,31 @@ is all, and is in all.” [^1](author added in brackets)
 of life, it exists to make us feel things, to make the stone stony. The end of art is to give a sensation of the object as seen, not as 
 recognized. The technique of art is to make things 'unfamiliar,' to make forms obscure, so as to increase the difficulty and duration of 
 perception. 
-> — <cite>Viktor Schklovsky</cite>
+> — <cite>Viktor Schklovsky[^19]</cite>
 
 Poets, writers, and painters aren’t artists, have the potential to be opticians. They help us see things as they are sensed and not as they 
-are known (recognised). We are forced to look again, to see for the first time, from the outside (ref outsider music).  “Seeing”, in this sense 
-“is forgetting the name of the thing one sees.” (ref book)
+are known (recognised). We are forced to look again, to see for the first time, from the outside[^20}.  “Seeing”, in this sense 
+“is forgetting the name of the thing one sees.”[^21}
 
-Sometimes we need an optician to lead us by the hand out of the village into terra nulius, outside the city walls (ref outsider music). What if 
-“there's something wrong in the village”? (ref Wrabel village) This is the function of the last guru: to reveal not their universal perspective, 
+Sometimes we need an optician to lead us by the hand out of the village into terra nulius, outside the city walls[^20]. What if 
+“there's something wrong in the village”?[^22] This is the function of the last guru: to reveal not their universal perspective, 
 but the absence of a universal perspective.
 
 >He took the blind man by the hand and led him outside the village. When he had spit on the man’s eyes and put his hands on him, Jesus asked, 
 “Do you see anything?” 
-> — <cite>Mark 8:23 (NIV)[^1]</cite>
+> — <cite>Mark 8:23 (NIV)</cite>
 
 Now outside the city gates -  between territories - we are provided a perspective that was not afforded to us when we were complicit with the 
-order of things. Becoming nomadic, becoming Moses (a stammerer) - having a small plot of new land at all times” (ref Deleuze). If we go to 
-“the far side of the wilderness” we encounter the “strange” (ref Exodus 3:1-3), even if only for a moment. This is the value of getting lost 
+order of things. Becoming nomadic, becoming Moses (a stammerer) - "having a small plot of new land at all times”[^23]. If we go to 
+“the far side of the wilderness” we encounter the “strange” (Exodus 3:1-3 (NIV)), even if only for a moment. This is the value of getting lost 
 and not knowing where to go. 
 
 >To move from A to B, we have to go from A to not A. We do not go from certainty to certainty, but from certainty to uncertainty, from stability 
 to instability.
-> — <cite>[^1]</cite>
+> — <cite>[^24]</cite>
 
 Betray comfort -  break the boundaries of a thing to create new limits and explore alternatives previously hidden by the city walls. Enter the 
-transitional space between thought and unthought, not knowing what might appear, not knowing what to do next, like eyes before they open (ref every colour). 
+transitional space between thought and unthought, not knowing what might appear, not knowing what to do next, like eyes before they open[^25]. 
 The liminal spaces allow us to find new becomings. An ethics of betrayal demands a radical movement away from our faculties of memory, and 
 reflection, rejecting the comfort of the status quo (ref Wallin).
 
@@ -224,18 +215,18 @@ What we need is “something in the world” to force us to think, not the recog
 “fundamental encounter” (ref diff and rep). We require an outside thought which violates (an image of) thought that attempts to think on our 
 behalf (ref wallin). Thinking takes place out of reach of physiotherapy’s agenda. What forces us to think is imperceptible to “the physiotherapist” 
 and is only available to the traitor prophet if they choose it: “the truth is not revealed, it is betrayed” (Proust and signs). So that we might 
-become “...someone - if only one-with the necessary modesty [of] not managing to know what everybody knows, and modestly denying what everybody 
-is supposed to recognise. Someone who neither allows himself to be represented nor wishes to represent anything” (ref Deleuze diff and rep).
+become “...someone - if only one- with the necessary modesty [of] not managing to know what everybody knows, and modestly denying what everybody 
+is supposed to recognise. Someone who neither allows [them]self to be represented nor wishes to represent anything” (ref Deleuze diff and rep).
 
 >Thinking is trying to think the unthinkable: thinking the thinkable is not worth the effort
 > — <cite>Hélène Cixous[^1]</cite>
 
 Looking at physiotherapy long and hard enough allows it to recede and lose meaning. What was once familiar (physiotherapy) is now strange. 
-The name is the same, but its character warps and becomes dissonant the further we walk from the city walls. The word is now charged as if 
+The name is the same, but its character warps and becomes dissonant the further we walk from it. The word is now charged as if 
 it both hungers for what it was and anticipates what it might become - a strange pulsing of both past and present. Bodies that were and 
 bodies yet to come. Physiotherapists that were and physiotherapists that are yet to come. There is another world out there we don’t know - beyond the recognizable.
 
-“Do you see anything [new]”? (ref Mark 8:23 (NIV))  
+“Do you see anything [new]”? (Mark 8:23 (NIV))  
 
 
 ### References
@@ -256,9 +247,36 @@ bodies yet to come. Physiotherapists that were and physiotherapists that are yet
 
 [^8]: Staunch EBM articles ridiculing outdated methods
 
-[^9]: research on outdated modalities
+[^9]: Kant, I., & Meiklejohn, J. (1924). Critique of pure reason. London: Bell.
 
-[^10]: research on outdated modalities
+[^10]: Bergson, H. (2001). Creative Evolution. S.L.: ElecBook.
 
-[^11]: research on outdated modalities
+[^11]: Nietzsche, F. (2018). The Gay Science. La Vergne: Neeland Media LLC.
 
+[^12]: Foucault, M., & Sheridan, A. (1995). Discipline and Punish.
+
+[^13]: Holmes, D., Murray, S., Perron, A., & Rail, G. (2006). Deconstructing the evidence-based discourse in health sciences: truth, power and fascism. International Journal Of Evidence-Based Healthcare, 4(3), 180-186. doi: 10.1111/j.1479-6988.2006.00041.
+
+[^14]: Ioannidis, J. (2016). Evidence-based medicine has been hijacked: a report to David Sackett. Journal Of Clinical Epidemiology, 73, 82-86. doi: 10.1016/j.jclinepi.2016.02.012
+
+[^15]: Deleuze, G., & Patton, P. (2021). Difference and repetition. London [i pozostałe]: Bloomsbury Academic.
+
+[^16]: Jagodzinski, J., & Wallin, J. (2013). Arts-based research. Rotterdam: SensePublishers.
+
+[^17]: Merton, T. (1955). No man is an island.
+
+[^18]: Deleuze, G. (2006). Nietzsche and philosophy. Columbia University Press.
+
+[^19]: Shklovsky, V. (2015). Art, as Device. Poetics Today, 36(3), 151-174. doi: 10.1215/03335372-3160709
+
+[^20]: The Beautifully Strange World of Outsider Music. (2022). Retrieved 12 October 2022, from https://www.youtube.com/watch?v=CVks07UgVQQ&t=1s
+
+[^21]: Weschler, L. (2009). Seeing Is Forgetting the Name of the Thing One Sees. CA: University of California Press.
+
+[^22]: Wrabel. “The Village”  One Nite Only (Live). Epic Records, 2019.
+
+[^23]: Deleuze, G., & Guattari, F. (1988). A Thousand Plateaus. London: Athlone.
+
+[^24]: Breedt, E. (2022). SUBLIME [Blog]. Retrieved from https://eduanbreedt.com/blog/sublime/
+
+[^25]: Fogale, L. “Every Colour”  Nothing is Lost. 2020.
