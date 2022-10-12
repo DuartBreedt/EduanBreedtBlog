@@ -67,7 +67,7 @@ movements and conversation might be a little too “physio-esque”. Our voice o
 correct, and educate; we demonstrate exercises rigidly and ostentatiously; our movements a little too precise, 
 a little too certain. It is a clear give away, our exaggerated behaviour illustrates that we are play acting 
 as a physiotherapist, as an object in the world: an automaton whose essence is to be a physiotherapist
-> — <cite>See [^7]</cite>
+> — <cite>[^7]</cite>
 
 Standing on their mound of meta-analysis, randomised control trials, and Cochrane reviews, the post-positivists 
 point and laugh. “How narrow-minded!” they remark contemptuously: “if only they could question their own 
@@ -92,8 +92,8 @@ the already warm comfortable seat. So familiar and recognisable, we let Truth st
 
 Although the symbols have changed, our underlying ontology (belief apparatus) has remained much the same. 
 
-We cannot escape our religious history. Scientism is the new Being of God. With enough inquiry we will eventually 
-discover how things are in themselves it insists. Through our ontology of being, we view Truth, Morality, and Justice 
+We cannot escape our essentialist history. Scientism is the new Being of God. "With enough inquiry we will eventually 
+discover how things are in themselves" it insists. Through our ontology of being, we view Truth, Morality, and Justice 
 as eternal, unchanging, and objective; out there somewhere and merely needing to be uncovered. 
 
 The evidence-based practice denomination and their essentialist agenda asks “what are human bodies actually and 
