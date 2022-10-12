@@ -102,12 +102,11 @@ Healthcare providers have the power to be the arbiters of bodies and minds. We s
 The normal from the abnormal. The compliant from the deviant. The Christ-like from the not Christ-like. 
 
 We’re told we can know the world if we granulate it and study its little bits. Bodies and their bits. We can fix it 
-once we find out where the screw fell out. To stop and measure, we need a world that stands still and we need concept 
+once we find out where the screw fell out. To stop and measure, we need a world that stands still and we need concepts 
 which can contain the world. But concepts solidify reality; they fix between rigid outlines like a camera freezes reality 
 on the surface of the paper. To define is to confine. Concepts deform reality; reality, in its continuous movement, is 
 richer than any concept. To quantify we need to create immobilities of the fundamentally mobile. We solidify flows 
-[^10]. Quantum theory exemplified that when we ask wave-like questions we get wave-like 
-answers and when we ask particle-like questions we get particle-like answers. 
+[^10]. When we ask wave-like questions we get wave-like answers and when we ask particle-like questions we get particle-like answers. 
 
 Very pragmatic indeed but we need to acknowledge immobilities where they exist. But devoted to our “models of health,” 
 we are sat gnawing on the menu - having mistaken it for the meal. 
@@ -169,7 +168,7 @@ free that which lives
 
 After all, it was Paul who in a moment of lucidity denied an ontology of identity (transcendence) for one of difference (immanence) 
 allowing the possibility for the “new”: “Do not lie to each other, since you have taken off your old self [transcendence] with its 
-practices and have put on the new self, which is being renewed in knowledge in the image of its Creator [Difference in itself]. 
+practices and have put on the *new* self, which is being renewed in knowledge in the image of its Creator [Difference in itself]. 
 Here there is no [identity] Gentile or Jew, circumcised or uncircumcised, barbarian, Scythian, slave or free, but Christ [Difference] 
 is all, and is in all.” (Colossions 3:9-11(NIV)) [author added in brackets]
 
@@ -182,8 +181,8 @@ perception.
 > — <cite>Viktor Schklovsky[^19]</cite>
 
 Poets, writers, and painters aren’t artists, have the potential to be opticians. They help us see things as they are sensed and not as they 
-are known (recognised). We are forced to look again, to see for the first time, from the outside[^20}.  “Seeing”, in this sense 
-“is forgetting the name of the thing one sees.”[^21}
+are known (recognised). We are forced to look again, to see for the first time, from the outside[^20].  “Seeing”, in this sense 
+“is forgetting the name of the thing one sees.”[^21]
 
 Sometimes we need an optician to lead us by the hand out of the village into terra nulius, outside the city walls[^20]. What if 
 “there's something wrong in the village”?[^22] This is the function of the last guru: to reveal not their universal perspective, 
