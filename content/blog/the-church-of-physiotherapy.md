@@ -172,6 +172,8 @@ practices and have put on the *new* self, which is being renewed in knowledge in
 Here there is no [identity] Gentile or Jew, circumcised or uncircumcised, barbarian, Scythian, slave or free, but Christ [Difference] 
 is all, and is in all.” (Colossions 3:9-11(NIV)) [author added in brackets]
 
+Where is the new to be found?
+
 ### Making the Familiar Strange
 
 >Habitualization devours objects, clothes, furniture, one's wife, and the fear of war. . . Art exists to help us recover the sensation 
@@ -180,9 +182,9 @@ recognized. The technique of art is to make things 'unfamiliar,' to make forms o
 perception. 
 > — <cite>Viktor Schklovsky[^19]</cite>
 
-Poets, writers, and painters aren’t artists, have the potential to be opticians. They help us see things as they are sensed and not as they 
-are known (recognised). We are forced to look again, to see for the first time, from the outside[^20].  “Seeing”, in this sense 
-“is forgetting the name of the thing one sees.”[^21]
+The familiar blinds us and makes our fingers numb. Poets, writers, and painters aren’t artists but opticians. They help us see things as 
+they are sensed and not as they are known (recognised). We are forced to look again, to see for the first time, from the outside[^20]. 
+“Seeing”, in this sense “is forgetting the name of the thing one sees.”[^21]
 
 Sometimes we need an optician to lead us by the hand out of the village into terra nulius, outside the city walls[^20]. What if 
 “there's something wrong in the village”?[^22] This is the function of the last guru: to reveal not their universal perspective, 
