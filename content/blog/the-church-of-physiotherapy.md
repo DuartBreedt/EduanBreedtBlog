@@ -9,7 +9,7 @@ categories = ["physiotherapy", "philosophy", "Deleuze"]
 [[images]]
   src = "img/2019/03/Church1.jpg"
   alt = "Unnatural"
-  stretch = "cover"
+  contain = "cover"
 +++
 
 >We go toward the most unknown and the best unknown, this is what we are looking for when we write. 
