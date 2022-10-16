@@ -7,7 +7,7 @@ draft = false
 tags = ["The Dogmatic Image of Thought", "Physiotherapy", "Deleuze", "Betrayal"]
 categories = ["physiotherapy", "philosophy", "Deleuze"]
 [[images]]
-  src = "img/2019/03/Church.jpg"
+  src = "img/2019/03/Church1.jpg"
   alt = "Unnatural"
   stretch = "cover"
 +++
