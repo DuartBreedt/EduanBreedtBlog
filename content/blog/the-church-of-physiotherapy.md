@@ -38,7 +38,7 @@ where it's trapped, to trace lines of flight. “[^3]
 
 Every field needs a bit of betrayal - a bit of Judas - if it desires to have movement[^4]. Complacency, conservatism, 
 and dogmatism opposes change and the new. Writer Jorge Luis Borges imagined a Judas who he describes as intuiting 
-the necessity of the divine plan and thus the crucifixion to incite a rebellion [^5]. He describes Judas as 
+the necessity of the divine plan and thus the crucifixion to incite a rebellion[^5]. He describes Judas as 
 sacrificing his own reputation for the divine plan. God became fully incarnate, not through Jesus, but through Judas. 
 
 My betrayal is an intentional repealment of my discipleship, no longer being a follower of Physiotherapy as it 
@@ -52,7 +52,7 @@ philosophical underpinnings of the profession and becoming a traitor prophet mig
 
 Believers in “Evidence-Based Practice” have discussed at length how a relatively sizable proportion of the 
 profession practices using outdated modalities and rituals despite overwhelming evidence that many of these 
-interventions are no better than placebo [^6]. Snakeoil Salesman. They insist “I see it work!” as they 
+interventions are no better than placebo[^6]. Snakeoil Salesman. They insist “I see it work!” as they 
 continue their faith healing. 
 
 Thank you Plato! It is the ontological obsession with identity we take for granted which has led us to this 
@@ -71,14 +71,14 @@ as a physiotherapist, as an object in the world: an automaton whose essence is t
 
 Standing on their mound of meta-analysis, randomised control trials, and Cochrane reviews, the post-positivists 
 point and laugh. “How narrow-minded!” they remark contemptuously: “if only they could question their own 
-fundamental beliefs” [^6]. 
+fundamental beliefs”[^6]. 
 
 “Science is the Way to Truth!,” they prophecy. “We can all achieve enlightenment, just give up your sinful flesh, 
 your false perceptions, your ways in the world, your biases, so that you can see clearly.”
 
 Truth, pure Truth, is thought of as having asymptotic fidelity which we can approximate when we exorcise our sinful 
 corporeal selves with the double-blind randomized controlled ritual. It will wash away our “faulty subjectivity” and 
-lived experiences so we can get at “the things in themselves” [^8]. Truth is omnipotent, omniscient, omnipresent, 
+lived experiences so we can get at “the things in themselves”[^8]. Truth is omnipotent, omniscient, omnipresent, 
 all hail. 
 
 How much easier would it be if humans stopped making the world filthy with their lived experiences, ugh.
@@ -105,8 +105,8 @@ We’re told we can know the world if we granulate it and study its little bits.
 once we find out where the screw fell out. To stop and measure, we need a world that stands still and we need concepts 
 which can contain the world. But concepts solidify reality; they fix between rigid outlines like a camera freezes reality 
 on the surface of the paper. To define is to confine. Concepts deform reality; reality, in its continuous movement, is 
-richer than any concept. To quantify we need to create immobilities of the fundamentally mobile. We solidify flows 
-[^9]. When we ask wave-like questions we get wave-like answers and when we ask particle-like questions we get particle-like answers. 
+richer than any concept. To quantify we need to create immobilities of the fundamentally mobile. We solidify flows[^9]. 
+When we ask wave-like questions we get wave-like answers and when we ask particle-like questions we get particle-like answers. 
 
 Very pragmatic indeed but we need to acknowledge immobilities where they exist. But devoted to our “models of health,” 
 we are sat gnawing on the menu - having mistaken it for the meal. 
