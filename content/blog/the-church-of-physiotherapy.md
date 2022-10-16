@@ -233,7 +233,7 @@ bodies yet to come. Physiotherapists that were and physiotherapists that are yet
 “Do you see anything [new]”? (Mark 8:23 (NIV))  
 
 ### Acknowledgment
-I would like to thank Erin Tichenor for her critical feedback and rutheless editing.
+I would like to thank Erin Tichenor and Duart Breedt for their critical feedback and rutheless editing.
 
 ### References
 
