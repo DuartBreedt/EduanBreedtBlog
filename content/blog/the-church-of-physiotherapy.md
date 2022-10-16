@@ -167,7 +167,7 @@ difference. To affirm difference is to affirm life.
 
 >To affirm is not to bear, carry, or harness oneself to that which exists, but on the contrary to unburden, unharness, and set 
 free that which lives
-> — <cite>Gilles Deeluze[^17]</cite>
+> — <cite>Gilles Deleuze[^17]</cite>
 
 After all, it was Paul who in a moment of lucidity denied an ontology of identity (transcendence) for one of difference (immanence) 
 allowing the possibility for the “new”: “Do not lie to each other, since you have taken off your old self [transcendence] with its 
