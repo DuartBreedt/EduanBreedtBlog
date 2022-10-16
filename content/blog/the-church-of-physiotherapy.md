@@ -1,13 +1,13 @@
 +++
 title = "The Church of Physiotherapy"
-description = "Something"
+description = "The necessity of betrayal"
 author = "Eduan Breedt and Erin Tichenor"
-date = "2022-10-09"
-draft = true
+date = "2022-10-15"
+draft = false
 tags = ["The Dogmatic Image of Thought", "Physiotherapy", "Deleuze", "Betrayal"]
 categories = ["physiotherapy", "philosophy", "Deleuze"]
 [[images]]
-  src = "img/2019/03/Toilet.jpg"
+  src = "img/2019/03/Church.jpg"
   alt = "Unnatural"
   stretch = "cover"
 +++
