@@ -26,8 +26,8 @@ something outside it.”[^3] This is an attempt at bilingualism, a minor use of 
 stammering: “being like a foreigner in one's own language. Constructing a line of flight”[^2]. 
 With enough resistance and friction, I hope “...a spark can flash and break out of language itself, to make 
 us see and think what was lying in the shadow around the words, things we were hardly aware existed.”[^3] Nothing 
-interesting begins with knowing, but with not knowing. This is an attempt to produce a little machine plugging 
-into other little machines, in attempt to produce flows that can “...bring things to life, to free life from 
+interesting begins with knowing, but with not knowing. This is an attempt to produce a little machine which plugs 
+into other little machines, producing flows that can “...bring things to life, to free life from 
 where it's trapped, to trace lines of flight. “[^3] 
 
 
