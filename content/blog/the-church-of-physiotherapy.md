@@ -71,14 +71,14 @@ as a physiotherapist, as an object in the world: an automaton whose essence is t
 
 Standing on their mound of meta-analysis, randomised control trials, and Cochrane reviews, the post-positivists 
 point and laugh. “How narrow-minded!” they remark contemptuously: “if only they could question their own 
-fundamental beliefs” [^8]. 
+fundamental beliefs” [^6]. 
 
 “Science is the Way to Truth!,” they prophecy. “We can all achieve enlightenment, just give up your sinful flesh, 
 your false perceptions, your ways in the world, your biases, so that you can see clearly.”
 
 Truth, pure Truth, is thought of as having asymptotic fidelity which we can approximate when we exorcise our sinful 
 corporeal selves with the double-blind randomized controlled ritual. It will wash away our “faulty subjectivity” and 
-lived experiences so we can get at “the things in themselves” [^9]. Truth is omnipotent, omniscient, omnipresent, 
+lived experiences so we can get at “the things in themselves” [^8]. Truth is omnipotent, omniscient, omnipresent, 
 all hail. 
 
 How much easier would it be if humans stopped making the world filthy with their lived experiences, ugh.
@@ -106,7 +106,7 @@ once we find out where the screw fell out. To stop and measure, we need a world 
 which can contain the world. But concepts solidify reality; they fix between rigid outlines like a camera freezes reality 
 on the surface of the paper. To define is to confine. Concepts deform reality; reality, in its continuous movement, is 
 richer than any concept. To quantify we need to create immobilities of the fundamentally mobile. We solidify flows 
-[^10]. When we ask wave-like questions we get wave-like answers and when we ask particle-like questions we get particle-like answers. 
+[^9]. When we ask wave-like questions we get wave-like answers and when we ask particle-like questions we get particle-like answers. 
 
 Very pragmatic indeed but we need to acknowledge immobilities where they exist. But devoted to our “models of health,” 
 we are sat gnawing on the menu - having mistaken it for the meal. 
@@ -119,16 +119,16 @@ Being and transcendence, every generation will have its religion.
 
 Atheism is not so different from theism. It is a matter of preference for a God Being or a Truth Being. 
 
-"God is dead. God remains dead. And we have killed him. Yet his shadow still looms"[^11]. God's not dead, he wears a different crown.
+"God is dead. God remains dead. And we have killed him. Yet his shadow still looms"[^10]. God's not dead, he wears a different crown.
 
 (*I feel compelled to defend myself and explain that I am not “anti-science”. (Why do I feel compelled to assure you I am not 
-“anti-science”? What repercussions do I fear? Is this what self-regulation looks like? The panopticon perhaps Mr. Foucault?[^12].
+“anti-science”? What repercussions do I fear? Is this what self-regulation looks like? The panopticon perhaps Mr. Foucault?[^11].
 What I am, however, is anti-fascist. Evidence-based medicine has a pernicious kind of micro-fascism that holds us captive 
-[^13]. But I guess that is the nature of the beast. Categories and identities make us comfortable.*)
+[^11]. But I guess that is the nature of the beast. Categories and identities make us comfortable.*)
 
 ### Enough of Socrates!
 
-We dehydrated and dissected the body and embalmed it with the physiotherapy “regime of truth”[^12]. This taxidermied 
+We dehydrated and dissected the body and embalmed it with the physiotherapy “regime of truth”[^11]. This taxidermied 
 body did not sit well with those still living so we responded with “person-centered care”. But, person-centered care is a trojan 
 horse that also infiltrates patients with the physiotherapy agenda. 
 
@@ -140,11 +140,11 @@ Love the sinner, not the sin!
 
 Our words percolate through the husk of the person whom the dogmatic image of physiotherapy has emptied out. We now provide only 
 that which benefits the profession: sick bodies and healthy bodies, predictability and conformity. Like Dr Ioannidis I am curious to 
-know if evidence based practice will continue to lead “to more medicine, even if this means less health”[^14].
+know if evidence based practice will continue to lead “to more medicine, even if this means less health”[^13].
 
 As it stands, physiotherapy does not disturb thought. It keeps us very busy engaging our faculties in activities that refer back 
-to objects of recognition[^15]. Thought is filled with no more than an image of itself and its own internal logic, it 
-recognises itself the more it recognises things[^15]. 
+to objects of recognition[^14]. Thought is filled with no more than an image of itself and its own internal logic, it 
+recognises itself the more it recognises things[^14]. 
 
 Deleuze insists that conformism of thought wed to representation and recognition has left us virtually no tools to break with that 
 which everyone already knows[^4].
@@ -154,13 +154,16 @@ for physiotherapists. It gives us norms, rules, and complicity. An image of thou
 
 >One of the moral diseases we communicate to one another in society comes from huddling together in the pale light of an insufficient 
 answer to a question we are afraid to ask
-> — <cite>Thomas Merton[^16]</cite>
+> — <cite>Thomas Merton[^15]</cite>
 
 ### An Immanant Creator
 
-A creator who is the same, creating nothing new, is no creator at all. The truly creative Creator is never the same but always 
-different. Not transcendent, but immanent. A theology of radical inclusion of difference, not the exclusion of difference. To 
-affirm difference is to affirm life.
+To be a creator is a “process of ‘becoming’ – the what might/could be – the creation of what is not yet, is achieved through 
+thinking in new, perhaps previously unimagined, modes of thinking”[^16]. The creator “will be destructive, will 
+affirm difference, and will exist in chaos. They will reach into the unknown and produce what is unrecognizable.”[^16] A creator 
+who is the same, creating nothing new, is no creator at all. The true Creator is never the same but always different. Not 
+transcendent, but immanent. A theology of radical inclusion of difference (the sick, the outcast), not the exclusion of 
+difference. To affirm difference is to affirm life.
 
 >To affirm is not to bear, carry, or harness oneself to that which exists, but on the contrary to unburden, unharness, and set 
 free that which lives
@@ -186,7 +189,7 @@ The familiar blinds us and makes our fingers numb. Poets, writers, and painters 
 they are sensed and not as they are known (recognised). We are forced to look again, to see for the first time, from the outside[^19]. 
 “Seeing”, in this sense “is forgetting the name of the thing one sees.”[^20]
 
-Sometimes we need an optician to lead us by the hand out of the village into terra nulius, outside the city walls[^19]. What if 
+Sometimes we need an optician to lead us by the hand out of the village into terra nulius, outside the city walls[^20]. What if 
 “there's something wrong in the village”?[^21] This is the function of the last guru: to reveal not their universal perspective, 
 but the absence of a universal perspective.
 
@@ -210,14 +213,14 @@ reflection, rejecting the comfort of the status quo[^4].
 
 >The conditions of a true critique and a true creation are the same: the destruction of an image of thought which presupposes itself and the 
 genesis of the act of thinking in thought itself
-> — <cite>Gilles Deleuze[^15]</cite>
+> — <cite>Gilles Deleuze[^14]</cite>
 
 What we need is “something in the world” to force us to think, not the recognisable (that which can be recalled, imagined, or conceived) but a 
-“fundamental encounter”[^15]. We require an outside thought which violates (an image of) thought that attempts to think on our 
+“fundamental encounter”[^14]. We require an outside thought which violates (an image of) thought that attempts to think on our 
 behalf[^4]. Thinking takes place out of reach of physiotherapy’s agenda. What forces us to think is imperceptible to “the physiotherapist” 
 and is only available to the traitor prophet if they choose it: “the truth is not revealed, it is betrayed”[^25]. So that we might 
 become “...someone - if only one- with the necessary modesty [of] not managing to know what everybody knows, and modestly denying what everybody 
-is supposed to recognise. Someone who neither allows [them]self to be represented nor wishes to represent anything”[^15].
+is supposed to recognise. Someone who neither allows [them]self to be represented nor wishes to represent anything”[^14].
 
 >Thinking is trying to think the unthinkable: thinking the thinkable is not worth the effort
 > — <cite>Hélène Cixous[^1]</cite>
@@ -242,27 +245,29 @@ bodies yet to come. Physiotherapists that were and physiotherapists that are yet
 
 [^5]: Borges, J., & Kerrigan, A. (1958). Three versions of Judas. Palma de Mallorca: Mossèn Alcover.
 
-[^6]: research on outdated modalities
+[^6]: Hartman, S. (2009). Why do ineffective treatments seem helpful? A brief review. Chiropractic &Amp; Osteopathy, 17(1). doi: 10.1186/1746-1340-17-10
 
-[^7]: Previous blog on Sartre's waitor
+[^7]: Breedt, E. (2022). KITSCH [Blog]. Retrieved from https://eduanbreedt.com/blog/kitsch/
 
-[^8]: Staunch EBM articles ridiculing outdated methods
 
-[^9]: Kant, I., & Meiklejohn, J. (1924). Critique of pure reason. London: Bell.
 
-[^10]: Bergson, H. (2001). Creative Evolution. S.L.: ElecBook.
+[^8]: Kant, I., & Meiklejohn, J. (1924). Critique of pure reason. London: Bell.
 
-[^11]: Nietzsche, F. (2018). The Gay Science. La Vergne: Neeland Media LLC.
+[^9]: Bergson, H. (2001). Creative Evolution. S.L.: ElecBook.
 
-[^12]: Foucault, M., & Sheridan, A. (1995). Discipline and Punish.
+[^10]: Nietzsche, F. (2018). The Gay Science. La Vergne: Neeland Media LLC.
 
-[^13]: Holmes, D., Murray, S., Perron, A., & Rail, G. (2006). Deconstructing the evidence-based discourse in health sciences: truth, power and fascism. International Journal Of Evidence-Based Healthcare, 4(3), 180-186. doi: 10.1111/j.1479-6988.2006.00041.
+[^11]: Foucault, M., & Sheridan, A. (1995). Discipline and Punish.
 
-[^14]: Ioannidis, J. (2016). Evidence-based medicine has been hijacked: a report to David Sackett. Journal Of Clinical Epidemiology, 73, 82-86. doi: 10.1016/j.jclinepi.2016.02.012
+[^12]: Holmes, D., Murray, S., Perron, A., & Rail, G. (2006). Deconstructing the evidence-based discourse in health sciences: truth, power and fascism. International Journal Of Evidence-Based Healthcare, 4(3), 180-186. doi: 10.1111/j.1479-6988.2006.00041.
 
-[^15]: Deleuze, G., & Patton, P. (2021). Difference and repetition. London [i pozostałe]: Bloomsbury Academic.
+[^13]: Ioannidis, J. (2016). Evidence-based medicine has been hijacked: a report to David Sackett. Journal Of Clinical Epidemiology, 73, 82-86. doi: 10.1016/j.jclinepi.2016.02.012
 
-[^16]: Merton, T. (1955). No man is an island.
+[^14]: Deleuze, G., & Patton, P. (2021). Difference and repetition. London [i pozostałe]: Bloomsbury Academic.
+
+[^15]: Merton, T. (1955). No man is an island.
+
+[^16]: Jeanes, E. (2016). Questioning the common sense of creativity and innovation through Deleuzian thought. Quaderni, (91), 79-91. doi: 10.4000/quaderni.1013
 
 [^17]: Deleuze, G. (2006). Nietzsche and philosophy. Columbia University Press.
 
