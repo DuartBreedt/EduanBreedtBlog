@@ -1,7 +1,7 @@
 +++
 title = "The Church of Physiotherapy"
 description = "The necessity of betrayal"
-author = "Eduan Breedt and Erin Tichenor"
+author = "Eduan Breedt"
 date = "2022-10-15"
 draft = false
 tags = ["The Dogmatic Image of Thought", "Physiotherapy", "Deleuze", "Betrayal"]
@@ -232,6 +232,8 @@ bodies yet to come. Physiotherapists that were and physiotherapists that are yet
 
 “Do you see anything [new]”? (Mark 8:23 (NIV))  
 
+### Acknowledgment
+I would like to thank Erin Tichenor for her critical feedback and rutheless editing.
 
 ### References
 
@@ -248,8 +250,6 @@ bodies yet to come. Physiotherapists that were and physiotherapists that are yet
 [^6]: Hartman, S. (2009). Why do ineffective treatments seem helpful? A brief review. Chiropractic &Amp; Osteopathy, 17(1). doi: 10.1186/1746-1340-17-10
 
 [^7]: Breedt, E. (2022). KITSCH [Blog]. Retrieved from https://eduanbreedt.com/blog/kitsch/
-
-
 
 [^8]: Kant, I., & Meiklejohn, J. (1924). Critique of pure reason. London: Bell.
 
