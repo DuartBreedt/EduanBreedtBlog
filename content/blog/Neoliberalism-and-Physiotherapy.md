@@ -3,11 +3,11 @@ title = "Neoliberalism and Physiotherapy"
 description = "Why self-efficacy and person-centered care may hurt more than it heals"
 author = "Eduan Breedt"
 date = "2023-09-16"
-draft = true
+draft = false
 tags = ["Neoliberalism", "Physiotherapy", "Jaspir Puar", "Self-Efficacy"]
 categories = ["physiotherapy", "politics", "Self-Efficacy"]
 [[images]]
-  src = "img/2019/03/Church1.jpg"
+  src = "img/2019/03/bootstraps.png"
   alt = "Unnatural"
   stretch = "cover"
   +++
