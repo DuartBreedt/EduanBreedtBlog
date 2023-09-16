@@ -5,7 +5,7 @@ author = "Eduan Breedt"
 date = "2023-09-16"
 draft = false
 tags = ["Neoliberalism", "Physiotherapy", "Jaspir Puar", "Self-Efficacy"]
-categories = ["physiotherapy", "politics", "Self-Efficacy"]
+categories = ["physiotherapy", "politics", "self-efficacy"]
 [[images]]
   src = "img/2019/03/bootstraps.png"
   alt = "Unnatural"
