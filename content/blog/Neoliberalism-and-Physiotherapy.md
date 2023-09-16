@@ -60,9 +60,9 @@ Person-centered care might address obesity by constructing goals with the client
 these goals by improving someone’s self-efficacy and belief in their own capabilities to diet, exercise, or 
 participate in “adaptive behaviors”. However, no matter how much self-efficacy they possess, they may face a 
 plethora of structural obstacles that an individual has no power to change. For instance, obesity may be due 
-to having limited food options and access to affordable highly palatable food with high caloric value [^6,7,8]. 
+to having limited food options and access to affordable highly palatable food with high caloric value [^6, 7, 8]. 
 Or, overeating might be an appropriate kind of “self-medication” to a stressful environment 
-[^5,9,10]. A stressful environment, of course, may be a result of other systemic inequities such as poorer and 
+[^5, 9, 10]. A stressful environment, of course, may be a result of other systemic inequities such as poorer and 
 more vulnerable populations (although the least to blame for man-made climate change) typically bear the worst 
 of the impact. [^11]. Or having to work multiple low paying jobs 
 to pay the bills [^12]. Only having opportunities to perform low paying jobs may be 
