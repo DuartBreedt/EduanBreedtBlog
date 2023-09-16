@@ -60,9 +60,9 @@ Person-centered care might address obesity by constructing goals with the client
 these goals by improving someone’s self-efficacy and belief in their own capabilities to diet, exercise, or 
 participate in “adaptive behaviors”. However, no matter how much self-efficacy they possess, they may face a 
 plethora of structural obstacles that an individual has no power to change. For instance, obesity may be due 
-to having limited food options and access to affordable highly palatable food with high caloric value [^6, 7, 8]. 
+to having limited food options and access to affordable highly palatable food with high caloric value [^6][^7][^8]. 
 Or, overeating might be an appropriate kind of “self-medication” to a stressful environment 
-[^5, 9, 10]. A stressful environment, of course, may be a result of other systemic inequities such as poorer and 
+[^5][^9][^10]. A stressful environment, of course, may be a result of other systemic inequities such as poorer and 
 more vulnerable populations (although the least to blame for man-made climate change) typically bear the worst 
 of the impact. [^11]. Or having to work multiple low paying jobs 
 to pay the bills [^12]. Only having opportunities to perform low paying jobs may be 
@@ -77,7 +77,7 @@ about capitalism’s part in all of this.
 
 ### Capitalism
 
-The structure of late stage capitalism causes much of the inequity and poor health we see today [^13,14]. Here 
+The structure of late stage capitalism causes much of the inequity and poor health we see today [^13][^14]. Here 
 is a basic breakdown of what we see in capitalism today: The capitalist class (those who own the majority of 
 the wealth), driven by profit, desire to decrease their input to maximize their outputs. Cheaper labor, materials, 
 and operating costs, allowing corporations to make a larger profit on their commodities. This means, for example, 
@@ -85,7 +85,7 @@ paying lower wages to workers while accumulating more wealth for themselves,
 making it challenging for the labor class to make ends meet [^15]. In addition, the working class (who is also the 
 consumer class) is burdened with debt due to powerful corporations manipulating prices, limiting competition, and 
 encouraging excessive consumer spending. And of course, corporations lobby political parties, strongly influencing 
-the policies and bills that pass to favor the capitalist class, exacerbating inequality [^16,17]. Crucially, capitalism 
+the policies and bills that pass to favor the capitalist class, exacerbating inequality [^16][^17]. Crucially, capitalism 
 is not an economic structure that one can simply opt out of. Part of its oppressive structure is that we are 
 involuntarily coerced into participating - you either work for the capitalist or starve. Capitalism has led to 
 outrageously inequitable concentrations of wealth and has led to equally outrageous statistics such as the combined 
