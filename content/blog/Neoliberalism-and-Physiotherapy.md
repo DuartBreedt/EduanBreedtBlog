@@ -10,7 +10,7 @@ categories = ["physiotherapy", "politics", "Self-Efficacy"]
   src = "img/2019/03/Church1.jpg"
   alt = "Unnatural"
   stretch = "cover"
-+++
+  +++
 
 This blog is in response to a twitter thread where it dawned on me that very few of us physiotherapists 
 understand the political water that we are swimming in. So I thought of writing a blog that highlights 
