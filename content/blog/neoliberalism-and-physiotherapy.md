@@ -183,6 +183,8 @@ explain pain, mindfulness, acceptance and commitment therapy, and resilience bui
 “responsiblizing” individuals to manage their own health, rather than moving towards building environments, cities, 
 neighborhoods, and communities that prevent major health decay in the first place. 
 
+### Neoliberalism to Self-Efficacy
+
 Corporations and the ruling class have spent years constructing a society that has produced in us a subtle inner voice that
 says “you have the power to make yourself whatever you want to be.”[^20] As a result, ‘each individual member of the subordinate 
 class is encouraged into feeling that their poverty, lack of opportunities, or unemployment, is their fault and their fault alone.’
