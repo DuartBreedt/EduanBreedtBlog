@@ -107,7 +107,7 @@ the conditions for living. As Puar cogently writes:
 
 >finance capital enforces repeated mandatory investments in our own slow deaths, continually reproducing the 
 conditions of possibility that enable the sustained emergence and proliferation of debility, capacity, and disability.
-> — <cite>[^4]</cite>
+> <cite>[^4]</cite>
 
 Healthcare is both a commodity to be consumed by the patient and also a manner of re-capacitating bodies to return to 
 labor. This is where we begin to see healthcare professions as appearing altruistic through their provision of “health” 
@@ -193,14 +193,14 @@ Fisher wrote [^20].
 
 >For some time now, we have increasingly accepted the idea that we are not the kind of people who can act. This isn’t a failure of 
 will any more than an individual depressed person can ‘snap themselves out of it’ by ‘pulling their socks up’.
-> — <cite>[^20]</cite>
+> <cite>[^20]</cite>
 
 Most people should feel incapable of taking responsibility for their health because it is a justified feeling, there is little we
 can do as individuals about our health. Low self-efficacy and feeling wholly out of control is an appropriate response to the Earth
 being trashed by billionaires and our health being risked for profit while we helplessly stand by as it happens. Or maybe someone 
 has high self-efficacy for performing a task like “going for a walk” but the bigger question is “why?”. 
 
->It is of no measure of health to be well adjusted to a profoundly sick society - J. Krishnamurti>
+>It is of no measure of health to be well adjusted to a profoundly sick society - J. Krishnamurti
 
 “Why go for a walk to improve my health by a small margin when most of my health has been hijacked and already decided for me? The 
 speed of my slow death has been decided.” If there was a frog in a cauldron with high self-efficacy for swimming around in the cauldron 
