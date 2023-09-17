@@ -7,15 +7,16 @@ draft = false
 tags = ["Neoliberalism", "Physiotherapy", "Jaspir Puar", "Self-Efficacy"]
 categories = ["physiotherapy", "politics", "self-efficacy"]
 [[images]]
-  src = "img/2019/03/bootstraps2.jpg"
+  src = "img/2019/03/boot.jpg"
   alt = "Unnatural"
   stretch = "cover"
 +++
 
 This blog is in response to a twitter thread where it dawned on me that very few of us physiotherapists 
 understand the political water that we are swimming in. So I thought of writing a blog that highlights 
-the possible dangers of self-efficacy, person-centered care, or the biopsychosocial model. Specifically, 
-asking the question “how much are we paying attention to the individual?”, “how much does it contribute 
+the possible dangers of self-efficacy, person-centered care, or the biopsychosocial model and how it might 
+intersect with a "pull yourself up by the bootstraps" approach to health. Specifically, 
+I am exploring the questions “how much are we paying attention to the individual?”, “how much does it contribute 
 to health?”, and “how much might attention to the individual be perpetuating ill health?” I do want to 
 highlight that I am not “anti self-efficacy” but against its current dominance as an approach and I am 
 skeptical of what it might obscure.
