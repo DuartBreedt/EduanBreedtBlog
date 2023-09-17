@@ -7,7 +7,7 @@ draft = false
 tags = ["Neoliberalism", "Physiotherapy", "Jaspir Puar", "Self-Efficacy"]
 categories = ["physiotherapy", "politics", "self-efficacy"]
 [[images]]
-  src = "img/2019/03/bootstraps.png"
+  src = "img/2019/03/bootstraps1.jpeg"
   alt = "Unnatural"
   stretch = "cover"
 +++
