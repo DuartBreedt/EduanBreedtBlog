@@ -1,5 +1,5 @@
 +++
-title = "The Body-as-Machine is Dead - We Have we Killed it"
+title = "The Body-as-Machine is Dead - We Have Killed it"
 description = "Where to next?"
 author = "Eduan Breedt"    
 date = "2023-08-26"      
@@ -116,22 +116,22 @@ maybe we’ll call it the body-as-modulation[^15][^16].
 
 
 ### References
-[^1]: Friedrich Nietzsche, "The Madman" in The Gay Science, Section 125, transl. Walter Kaufmann
-[^2]: Nicholls 2017      
-[^3]: Nicholls 2021        
-[^4]: Nicholls and Gibson 2010)
-[^5]: ref Discipline and punish        
-[^6]: Praestegaard 2015)          
-[^7]: Breedt and Barlott 2024  
-[^8]: Adler-Bolton and Vierkant 2022      
-[^9]: Caneiro, Bunzli, and O’Sullivan 2021;       
+[^1]: Nietzsche FW. The gay science. Kaufmann W, editor. Random House; 1974.             
+[^2]: Nicholls DA. The end of physiotherapy. London (GB): Routledge, Taylor & Francis Group; 2017.         
+[^3]: Nicholls DA. Physiotherapy otherwise. Auckland (NZ): Tuwhera Open Access Books; 2021.      
+[^4]: Nicholls DA, Gibson B. The body and physiotherapy. Physiother Theory Pract. 2010;26(8):497–509. 
+[^5]: Foucault M. Discipline and punish: The birth of the prison. Sheridan A, translator. New York (NY): Vintage Books; 1995.               
+[^6]: Praestegaard J, Gard G, Glasdam S. Physiotherapy as a disciplinary institution in modern society - a Foucauldian perspective on physiotherapy in Danish private practice. Physiother Theory Pract. 2015;31(1):17-28.                      
+[^7]: Breedt E, Barlott T. Physiotherapy’s necessity for ableism: reifying normal through difference. Disability & Society. 2024;1–24.           
+[^8]: Adler-Bolton B, Vierkant A. Health communism: a surplus manifesto. Verso; 2022                                                              
+[^9]: Caneiro JP, Bunzli S, O’Sullivan P. Beliefs about the body and pain: The critical role in musculoskeletal pain management. Braz J Phys Ther. 2021;25(1):17–29.          
 [^10]: Darlow 2016;     
-[^11]: Darlow et al. 2013)        
-[^12]: Sviland et al. 2014;       
-[^13]: Thornquist 2006        
-[^14]: Gibson 2006     
-[^15]: Deleuze 1992                
-[^16]: Puar 2017    
-[^17]: Hardt & Negri 2000      
+[^11]: Darlow et al. 2013)            
+[^12]: Sviland R, Martinsen K, Råheim M. To be held and to hold one’s own: Narratives of embodied transformation in the treatment of long-lasting musculoskeletal problems. Med Health Care Philos. 2014;17(4):609–24.         
+[^13]: Thornquist E. Face-to-face and hands-on: assumptions and assessments in the physiotherapy clinic. Med Anthropol. 2006;25(1):65–97.          
+[^14]: Gibson BE. Disability, connectivity and transgressing the autonomous body. J Med Humanit. 2006;27(3):187–96.    
+[^15]: Deleuze G. Postscript on the societies of control. October. 1992;59:3–7.                       
+[^16]: Puar JK. The right to maim: Debility, capacity, disability. Durham (NC): Duke University Press; 2017.  
+[^17]: Hardt & Negri 2000          
 [^19]: “Society Must Be Defended”
-[^20]: Deleuze (2004b:142)    
+[^20]: Deleuze G. Proust and signs: The complete text. 1st ed. Minneapolis (MN): University of Minnesota Press; 2004b.     
