@@ -18,20 +18,27 @@ categories = ["physiotherapy", "politics", "the body"]
 Nietzsche, being the atheist that he was, didn’t mean that people had literally killed the God he believed in. 
 Rather, he meant that in the wake of the enlightenment, Western society was transforming in such a way that 
 the idea of God had begun to die and was being replaced. European society no longer needed God as the source 
-for all morality, value, or order in the universe; philosophy and science were capable of doing that for them. 
+for all morality, value, or order in the universe; philosophy and science were capable of doing that for them.
+
+God, in this instance, should not simply be dismissed as an illusion or false perception, as so many atheists often do. 
+God was real. There is no denying that the concept of God was an extrodinarily potent thing - an assemblage - organzing and assembling 
+material in the world. Without God entire empires, societies, cities, and cultures would not have existed. With enlightenment 
+new concepts (or assemblages) were taking God's place.
+
 Nietzsche was a prudent analyst, noticing this societal trend in the 1880’s when Europe was still incredibly religious. 
 “God is dead” for Nietzsche was a statement of fact - he accurately recognized that Christianity was in decline 
 due to no longer being a coherent belief system. It was also a statement of warning about what the future holds, 
 what might replace Christianity, and what new issues might unfurl.  
 
 Similar to Nietzsche, I think it is quite evident that the biomechanical understanding of the body-as-machine 
-in physiotherapy is dead. Physiotherapy no longer needs it, it has moved on. But, what has replaced it?  Before we 
-get into that, let us first remind ourselves what exactly the body-as-machine is and where it came from.  
+in physiotherapy is dead. While it has been an incredibly powerful concept, physiotherapy no longer needs it, the 
+profession has moved on. But, what has replaced it?  Before we get into that, let us first remind ourselves what 
+exactly the body-as-machine is and where it came from.  
 
 ### The-Body-as-Machine
 
-There is no doubt that the concept of the body-as-machine played a pivotal role in legitimizing physiotherapy a
-s a provider of rehabilitation services and shaped the profession's identity[^2].  
+There is no doubt that the concept of the body-as-machine played a pivotal role in legitimizing physiotherapy as 
+a provider of rehabilitation services and shaped the profession's identity[^2].  
 
 Implicit in the assumptions of the body-as-machine is the notion that bodies are made up of mechanical parts, 
 mimicking the machines of the industrial revolution[^2][^3][^4]. Like a mechanical machine, body parts “wear out” 
@@ -80,6 +87,8 @@ with a different problematic.
 
 ### A New Era
 
+***Relate back to Fredrick N***     
+
 If you read the works of Gilles Deleuze[^15], Jasbir Puar[^16], Michael Hardt and Antonio Negri[^17], and even Michel Foucault[^18] you would be quick 
 to notice that they argue that disciplinary societies (from which the body-as-machine emerged) is being replaced. Similarly, we are 
 quite obviously no longer gripped by industrial capitalism. We have moved on to what some have called late-stage capitalism, neoliberal 
@@ -123,15 +132,15 @@ maybe we’ll call it the body-as-modulation[^15][^16].
 [^5]: Foucault M. Discipline and punish: The birth of the prison. Sheridan A, translator. New York (NY): Vintage Books; 1995.               
 [^6]: Praestegaard J, Gard G, Glasdam S. Physiotherapy as a disciplinary institution in modern society - a Foucauldian perspective on physiotherapy in Danish private practice. Physiother Theory Pract. 2015;31(1):17-28.                      
 [^7]: Breedt E, Barlott T. Physiotherapy’s necessity for ableism: reifying normal through difference. Disability & Society. 2024;1–24.           
-[^8]: Adler-Bolton B, Vierkant A. Health communism: a surplus manifesto. Verso; 2022                                                              
-[^9]: Caneiro JP, Bunzli S, O’Sullivan P. Beliefs about the body and pain: The critical role in musculoskeletal pain management. Braz J Phys Ther. 2021;25(1):17–29.          
-[^10]: Darlow 2016;     
-[^11]: Darlow et al. 2013)            
+[^8]: Adler-Bolton B, Vierkant A. Health communism: a surplus manifesto. Verso; 2022                                                                
+[^9]: Caneiro JP, Bunzli S, O’Sullivan P. Beliefs about the body and pain: The critical role in musculoskeletal pain management. Braz J Phys Ther. 2021;25(1):17 29.          
+[^10]: Darlow 2016;                   
+[^11]: Darlow et al. 2013)              
 [^12]: Sviland R, Martinsen K, Råheim M. To be held and to hold one’s own: Narratives of embodied transformation in the treatment of long-lasting musculoskeletal problems. Med Health Care Philos. 2014;17(4):609–24.         
 [^13]: Thornquist E. Face-to-face and hands-on: assumptions and assessments in the physiotherapy clinic. Med Anthropol. 2006;25(1):65–97.          
 [^14]: Gibson BE. Disability, connectivity and transgressing the autonomous body. J Med Humanit. 2006;27(3):187–96.    
 [^15]: Deleuze G. Postscript on the societies of control. October. 1992;59:3–7.                       
-[^16]: Puar JK. The right to maim: Debility, capacity, disability. Durham (NC): Duke University Press; 2017.  
+[^16]: Puar JK. The right to maim: Debility, capacity, disability. Durham (NC): Duke University Press; 2017.    
 [^17]: Hardt & Negri 2000          
 [^19]: “Society Must Be Defended”
 [^20]: Deleuze G. Proust and signs: The complete text. 1st ed. Minneapolis (MN): University of Minnesota Press; 2004b.     
