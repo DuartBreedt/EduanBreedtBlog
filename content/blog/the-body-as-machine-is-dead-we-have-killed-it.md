@@ -48,8 +48,8 @@ or fixing by an ‘expert’ clinician.
 
 Many have rightly argued that the concept of the body-as-machine was disciplinary, and had emerged from what Michel 
 Foucault calls a ‘disciplinary society’[^5] To oversimplify the issue, this means the body-as-machine would use a 
-binary of normal/abnormal to discipline bodies to adhere to an “Ideal” norm, where the norm was deemed the most healthy[^6]. This could include normal posture, 
-normal range of motion, normal muscle function, normal gait[^7].  
+binary of normal/abnormal to discipline bodies to adhere to an “Ideal” norm, where the norm was deemed the most healthy[^6]. 
+This could include normal posture, normal range of motion, normal muscle function, normal gait[^7].  
 
 Professor David Nicholls has done an excellent job at tracing this history, writing that “[t]he body-as-machine became 
 a powerful [concept], particularly after the Industrial Revolution, when it was thought that it might apply not only 
@@ -81,7 +81,7 @@ investigation[^12][^13]. Furthermore, the corporeal norm has long been criticize
 and ableist presuppositions that render those that do not fit this norm undesirable and pathological[^2][^7][^14]. And, of course, 
 there exists no shortage of online discourse on the matter with many popular physiotherapists insisting “the body is not a machine!”  
 
-
+![Machines vs ecosystems](https://github.com/user-attachments/assets/4ca03772-2cb8-43a0-a7fb-92a893382539)
 
 However, like God, we should not assume that we were disillusioned by the body-as-machine and that we now 'better' understand how 
 bodies work (although this is true in part). Rather, we should understand the body-as-machine as a real thing which played a crucial role 
@@ -100,12 +100,13 @@ If the body-as-machine arose from a disciplinary society and industrial capitali
 operate with in our current society and political economy? How is our concept of the body changing? What alternatives are replacing the 
 body-as-machine?
 
-If the body-as-machine mimicked the simple machines of the industrial revolution, does the new concept of the body mimic today's machines? 
-**Such as computers? The internet?** Modulation machines?[^17]    
+If the body-as-machine mimicked the simple machines of the industrial revolution, does the new concept of the body mimic today's machines such as computers, the internet, and artificial intelligence - modulation machines?[^17]
+
+Thus while the body-as-machine mimicked mechanical industrial machines, I have argued that the body today operates like contemporary machines: computers, the internet, and artificial intelligence - modulation machines.
 
 If clinicians who deploy the body-as-machine could be heard saying things like “your joints wear and tear,” “your back pain is likely due to 
 poor joint alignment and poor posture,” and “muscle imbalance is causing muscle pain," then what are clinicians saying today? What discourses 
-are gaining popularity and what ends are these discourses serving? **cite Erin** And if the body-as-machine served state and corporate interests, might these 
+are gaining popularity and what ends are these discourses serving?[^19] And if the body-as-machine served state and corporate interests, might these 
 new discourse be serving the similar ends just in a contemporary [neoliberal](https://eduanbreedt.com/blog/neoliberalism-and-physiotherapy/) socio-political climate?
 
 It has become overwhelmingly clear to me over the last few years that those who (rightfully) criticize the body-as-machine propose instead some 
@@ -114,12 +115,12 @@ with the patient as the authority and expert of their own body. Might this be a 
 of the body - one that also serves corporate and state interests, just in new ways?
 
 For those who contend that “This is not like the body-as-machine. This has proven to improve the lives of our patients. Plus how bad can being 
-holistic and person-centred **be?” I woul**d like to remind you that missionaries had nothing but good intentions for those whom they 'saved.' Similarly, our biomechanical forefathers (and mothers) had nothing but ‘good intentions’ for those who they 'fixed,' believing themselves to be serving their society and helping people regain their health. 
+holistic and person-centred be?” I would like to remind you that missionaries had nothing but good intentions for those whom they 'saved.' Similarly, our biomechanical forefathers (and mothers) had nothing but ‘good intentions’ for those who they 'fixed,' believing themselves to be serving their society and helping people regain their health. 
 
 It is my opinion that we are currently, willfully and enthusiastically, plummeting into the same well-intentioned abyss, where presumed benevolence 
 cloaks the larger socio-political systems we and our profession are serving.
 
-Is it not our responsibility to avoid the mistakes of our predecessors and be “harsh and deceptive to what [we] love?”[^19]. To pay attention to, 
+Is it not our responsibility to avoid the mistakes of our predecessors and be “harsh and deceptive to what [we] love?”[^20]. To pay attention to, 
 and scrutinize, what presents itself as common sense? “It's up to [us] to discover what [we're] being made to serve, just as [our] elders discovered, 
 not without difficulty, the telos of the disciplines”[^15]. I wonder if we’ll look back in a few years and scrutinize the new concept of the body - 
 maybe we’ll call it the body-as-modulation[^15][^16].
@@ -133,15 +134,16 @@ maybe we’ll call it the body-as-modulation[^15][^16].
 [^5]: Foucault M. Discipline and punish: The birth of the prison. Sheridan A, translator. New York (NY): Vintage Books; 1995.               
 [^6]: Praestegaard J, Gard G, Glasdam S. Physiotherapy as a disciplinary institution in modern society - a Foucauldian perspective on physiotherapy in Danish private practice. Physiother Theory Pract. 2015;31(1):17-28.                      
 [^7]: Breedt E, Barlott T. Physiotherapy’s necessity for ableism: reifying normal through difference. Disability & Society. 2024;1–24.           
-[^8]: Adler-Bolton B, Vierkant A. Health communism: a surplus manifesto. Verso; 2022                                                                
+[^8]: Adler-Bolton B, Vierkant A. Health communism: a surplus manifesto. Verso; 2022                                                                  
 [^9]: Caneiro JP, Bunzli S, O’Sullivan P. Beliefs about the body and pain: The critical role in musculoskeletal pain management. Braz J Phys Ther. 2021;25(1):17 29.          
 [^10]: Darlow B. 2016. Beliefs about Back Pain: The Confluence of Client, Clinician and Community. International Journal of Osteopathic Medicine 2016;20:53–61.  
 [^11]: Darlow B, Dowell A, Baxter GD, Mathieson F, Perry M, Dean S. The Enduring Impact of What Clinicians Say to People With Low Back Pain. The Annals of Family Medicine 2013;11(6):527–34.                  
 [^12]: Sviland R, Martinsen K, Råheim M. To be held and to hold one’s own: Narratives of embodied transformation in the treatment of long-lasting musculoskeletal problems. Med Health Care Philos. 2014;17(4):609–24.         
 [^13]: Thornquist E. Face-to-face and hands-on: assumptions and assessments in the physiotherapy clinic. Med Anthropol. 2006;25(1):65–97.          
 [^14]: Gibson BE. Disability, connectivity and transgressing the autonomous body. J Med Humanit. 2006;27(3):187–96.    
-[^15]: Deleuze G. Postscript on the societies of control. October. 1992;59:3–7.                         
+[^15]: Deleuze G. Postscript on the societies of control. October. 1992;59:3–7.                             
 [^16]: Puar JK. The right to maim: Debility, capacity, disability. Durham (NC): Duke University Press; 2017.        
 [^17]: Hardt, Michael, and Antonio Negri. 2000. Empire. Cambridge, MA: Harvard University Press.          
-[^19]: Foucault M. “Society Must Be Defended”: Lectures at the College de France, 1975–1976. New York (NY): Picador; 2003
+[^18]: Foucault M. “Society Must Be Defended”: Lectures at the College de France, 1975–1976. New York (NY): Picador; 2003
+[^19]: Tichenor E. What Can Borderline Do? Essays on Madness, (De)Pathologization, & Empire (MSc thesis, University of Alberta) 2014.                  
 [^20]: Deleuze G. Proust and signs: The complete text. 1st ed. Minneapolis (MN): University of Minnesota Press; 2004b.     
