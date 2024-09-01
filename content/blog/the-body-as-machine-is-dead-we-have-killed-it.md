@@ -2,12 +2,12 @@
 title = "The Body-as-Machine is Dead - We Have Killed it"
 description = "Where to next?"
 author = "Eduan Breedt"    
-date = "2023-08-26"      
-draft = true      
+date = "2023-09-01"        
+draft = false        
 tags = ["Neoliberalism", "Physiotherapy", "Body-as-Machine"]
 categories = ["physiotherapy", "politics", "the body"]
 [[images]]
-  src = "img/2019/03/boot.jpg"  
+  src = "img/2019/03/body-as-machine.png"      
   alt = "Unnatural"  
   stretch = "cover"      
 +++
