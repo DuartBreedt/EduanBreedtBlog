@@ -70,7 +70,7 @@ political power[^2].
 
 Physiotherapist 'expertise' in disciplining, normalizing, and 'correcting' the 'broken' or pathological' body, and producing 
 'healthy,' disciplined bodies, was instrumental in helping physiotherapy gain social, and political legitimacy in the lead up 
-to World War 1, significantly shaping the professions identity[^2][^3][^4][^8]. Understandably, then, the concept is one which 
+to World War 1, significantly shaping the profession's identity[^2][^3][^4][^8]. Understandably, then, the concept is one which 
 physiotherapists find very hard to part with. Today, however, literature retrospectively scrutinizing the profession's 
 biomechanical past and the harms it has caused is increasing, making it easier than ever to justify abandoning it.  
 
