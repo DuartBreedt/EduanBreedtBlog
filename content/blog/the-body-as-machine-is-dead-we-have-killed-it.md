@@ -22,7 +22,7 @@ for all morality, value, or order in the universe; philosophy and science were c
 
 God, in this instance, should not simply be dismissed as an illusion or false perception, as so many atheists often do. 
 It might be true that God was not a man floating in the sky, but God was real insofar as God played a siginifact role 
-in shaping our world. God was an extrodinarily potent thing - an assemblage - organzing and assembling material in the 
+in shaping our world. God was an extraodinarily potent thing - an assemblage - organzing and assembling material in the 
 world. Without God, entire empires, societies, cities, and cultures would not have existed. With the Enlightenment, new concepts 
 (or assemblages) were taking God's place.
 
