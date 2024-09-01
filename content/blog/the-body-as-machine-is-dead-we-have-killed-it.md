@@ -102,8 +102,6 @@ body-as-machine?
 
 If the body-as-machine mimicked the simple machines of the industrial revolution, does the new concept of the body mimic today's machines such as computers, the internet, and artificial intelligence - modulation machines?[^17]
 
-Thus while the body-as-machine mimicked mechanical industrial machines, I have argued that the body today operates like contemporary machines: computers, the internet, and artificial intelligence - modulation machines.
-
 If clinicians who deploy the body-as-machine could be heard saying things like “your joints wear and tear,” “your back pain is likely due to 
 poor joint alignment and poor posture,” and “muscle imbalance is causing muscle pain," then what are clinicians saying today? What discourses 
 are gaining popularity and what ends are these discourses serving?[^19] And if the body-as-machine served state and corporate interests, might these 
