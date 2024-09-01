@@ -81,7 +81,9 @@ investigation[^12][^13]. Furthermore, the corporeal norm has long been criticize
 and ableist presuppositions that render those that do not fit this norm undesirable and pathological[^2][^7][^14]. And, of course, 
 there exists no shortage of online discourse on the matter with many popular physiotherapists insisting “the body is not a machine!”  
 
-![Machines vs ecosystems](https://github.com/user-attachments/assets/4ca03772-2cb8-43a0-a7fb-92a893382539)
+<div style="text-align:center;">
+<img  width="500px" src="/img/2019/03/neoliberalism.jpg"  />
+</div>
 
 However, like God, we should not assume that we were disillusioned by the body-as-machine and that we now 'better' understand how 
 bodies work (although this is true in part). Rather, we should understand the body-as-machine as a real thing which played a crucial role 
