@@ -135,13 +135,13 @@ maybe we’ll call it the body-as-modulation[^15][^16].
 [^7]: Breedt E, Barlott T. Physiotherapy’s necessity for ableism: reifying normal through difference. Disability & Society. 2024;1–24.           
 [^8]: Adler-Bolton B, Vierkant A. Health communism: a surplus manifesto. Verso; 2022                                                                
 [^9]: Caneiro JP, Bunzli S, O’Sullivan P. Beliefs about the body and pain: The critical role in musculoskeletal pain management. Braz J Phys Ther. 2021;25(1):17 29.          
-[^10]: Darlow 2016;                   
-[^11]: Darlow et al. 2013)              
+[^10]: Darlow B. 2016. Beliefs about Back Pain: The Confluence of Client, Clinician and Community. International Journal of Osteopathic Medicine 2016;20:53–61.  
+[^11]: Darlow B, Dowell A, Baxter GD, Mathieson F, Perry M, Dean S. The Enduring Impact of What Clinicians Say to People With Low Back Pain. The Annals of Family Medicine 2013;11(6):527–34.                  
 [^12]: Sviland R, Martinsen K, Råheim M. To be held and to hold one’s own: Narratives of embodied transformation in the treatment of long-lasting musculoskeletal problems. Med Health Care Philos. 2014;17(4):609–24.         
 [^13]: Thornquist E. Face-to-face and hands-on: assumptions and assessments in the physiotherapy clinic. Med Anthropol. 2006;25(1):65–97.          
 [^14]: Gibson BE. Disability, connectivity and transgressing the autonomous body. J Med Humanit. 2006;27(3):187–96.    
-[^15]: Deleuze G. Postscript on the societies of control. October. 1992;59:3–7.                       
-[^16]: Puar JK. The right to maim: Debility, capacity, disability. Durham (NC): Duke University Press; 2017.    
-[^17]: Hardt & Negri 2000          
-[^19]: “Society Must Be Defended”
+[^15]: Deleuze G. Postscript on the societies of control. October. 1992;59:3–7.                         
+[^16]: Puar JK. The right to maim: Debility, capacity, disability. Durham (NC): Duke University Press; 2017.        
+[^17]: Hardt, Michael, and Antonio Negri. 2000. Empire. Cambridge, MA: Harvard University Press.          
+[^19]: Foucault M. “Society Must Be Defended”: Lectures at the College de France, 1975–1976. New York (NY): Picador; 2003
 [^20]: Deleuze G. Proust and signs: The complete text. 1st ed. Minneapolis (MN): University of Minnesota Press; 2004b.     
