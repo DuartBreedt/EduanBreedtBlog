@@ -1,15 +1,15 @@
 +++
 title = "The Body-as-Machine is Dead - We Have Killed it"
 description = "Where to next?"
-author = "Eduan Breedt"    
-date = "2023-09-01"        
-draft = false        
+author = "Eduan Breedt"
+date = "2024-09-01"
+draft = false
 tags = ["Neoliberalism", "Physiotherapy", "Body-as-Machine"]
 categories = ["physiotherapy", "politics", "the body"]
 [[images]]
-  src = "img/2019/03/body-as-machine.png"      
-  alt = "Unnatural"  
-  stretch = "cover"      
+  src = "img/2019/03/body-as-machine.png"
+  alt = "Unnatural"
+  stretch = "cover"
 +++
 
 >God is dead. God remains dead. And we have killed him. How shall we comfort ourselves, the murderers of all murderers? - Friedrich Nietzsche> <cite>[^1]</cite>   

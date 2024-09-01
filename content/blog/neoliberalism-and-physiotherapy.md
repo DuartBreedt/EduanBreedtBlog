@@ -4,7 +4,7 @@ description = "Why self-efficacy and person-centered care may hurt more than it 
 author = "Eduan Breedt"
 date = "2023-09-16"
 draft = false
-tags = ["Neoliberalism", "Physiotherapy", "Jaspir Puar", "Self-Efficacy"]
+tags = ["Neoliberalism", "Physiotherapy", "Jasbir Puar", "Self-Efficacy"]
 categories = ["physiotherapy", "politics", "self-efficacy"]
 [[images]]
   src = "img/2019/03/boot.jpg"
