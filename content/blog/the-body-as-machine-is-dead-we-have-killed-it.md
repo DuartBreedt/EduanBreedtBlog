@@ -16,23 +16,23 @@ categories = ["physiotherapy", "politics", "the body"]
 
 “God is dead” remains one of the most famous quotes from the German philosopher Friedrich Nietzsche[^1].
 Nietzsche, being the atheist that he was, didn’t mean that people had literally killed the God he believed in. 
-Rather, he meant that in the wake of the enlightenment, Western society was transforming in such a way that 
+Rather, he meant that in the wake of the Enlightenment, Western society was transforming in such a way that 
 the idea of God had begun to die and was being replaced. European society no longer needed God as the source 
 for all morality, value, or order in the universe; philosophy and science were capable of doing that for them.
 
 God, in this instance, should not simply be dismissed as an illusion or false perception, as so many atheists often do. 
-It might be true that God was not a man floating in the sky, but God was real in so far as God played a siginifact role 
+It might be true that God was not a man floating in the sky, but God was real insofar as God played a siginifact role 
 in shaping our world. God was an extrodinarily potent thing - an assemblage - organzing and assembling material in the 
-world. Without God entire empires, societies, cities, and cultures would not have existed. With enlightenment, new concepts 
+world. Without God, entire empires, societies, cities, and cultures would not have existed. With the Enlightenment, new concepts 
 (or assemblages) were taking God's place.
 
 Nietzsche was a prudent analyst, noticing this societal trend in the 1880’s when Europe was still incredibly religious. 
-“God is dead” for Nietzsche was a statement of fact - he accurately recognized that Christianity was in decline 
+“God is dead” for Nietzsche was a statement of fact; he accurately recognized that Christianity was in decline 
 due to no longer being a coherent belief system that organized society. It was also a statement of warning about what 
 the future holds, what might replace Christianity, and what new issues might unfurl.  
 
-Similar to Nietzsche, I think it is quite evident that the biomechanical understanding of the body-as-machine 
-in physiotherapy is dead. While it has been an incredibly powerful concept, physiotherapy no longer needs it, the 
+Similar to Nietzsche's sentiment, I think it is quite evident that the biomechanical understanding of the body-as-machine 
+in physiotherapy is dead. While it has been an incredibly powerful concept, physiotherapy no longer needs it; the 
 profession has moved on. But, what has replaced it?  Before we get into that, let us first remind ourselves what 
 exactly the body-as-machine is and where it came from.  
 
@@ -42,40 +42,40 @@ There is no doubt that the concept of the body-as-machine played a pivotal role 
 a provider of rehabilitation services and shaped the profession's identity[^2].  
 
 Implicit in the assumptions of the body-as-machine is the notion that bodies are made up of mechanical parts, 
-mimicking the machines of the industrial revolution[^2][^3][^4]. Like a mechanical machine, body parts “wear out” 
-with use  - especially when different parts are “misaligned” from the corporeal norm - which then require repairing 
+mimicking the machines of the industrial revolution[^2][^3][^4]. Like a mechanical machine, body parts 'wear out' 
+with use  - especially when different parts are 'misaligned' from the corporeal norm - which then require repairing 
 or fixing by an ‘expert’ clinician.  
 
 Many have rightly argued that the concept of the body-as-machine was disciplinary, and had emerged from what Michel 
 Foucault calls a ‘disciplinary society’[^5] To oversimplify the issue, this means the body-as-machine would use a 
-binary of normal/abnormal to discipline bodies to adhere to an “Ideal” norm[^6]. This could include normal posture, 
-normal range of motion, normal muscle function, normal gait, where the norm was deemed most healthy[^7].  
+binary of normal/abnormal to discipline bodies to adhere to an “Ideal” norm, where the norm was deemed the most healthy[^6]. This could include normal posture, 
+normal range of motion, normal muscle function, normal gait[^7].  
 
-Professor David Nicholls has done an excellent job at tracing this history, writing that “The body-as-machine became 
+Professor David Nicholls has done an excellent job at tracing this history, writing that “[t]he body-as-machine became 
 a powerful [concept], particularly after the Industrial Revolution, when it was thought that it might apply not only 
 to the function of various bodies, but to the machinery of production that had become necessary to fuel the growth of 
 an economy.”[^2]      
 
-Therefore, conceptualizing the body as a mechanical machine not only disciplined bodies to adhere to an “Ideal norm,” 
+Therefore, conceptualizing the body as a mechanical machine not only disciplined bodies to adhere to an 'Ideal norm,' 
 but also enabled nation states to effectively govern their growing populations, their individual freedoms, labour, and 
 health while also simultaneously fueling the industrial capitalist machine[^2][^3]. After all, the healthier a population, 
 the more economically productive and valuable they are. For example, during and after World War 1, physiotherapy became 
 integral in recapacitating debilitated and disposable surplus populations to the machinery of economic production, making 
-them valuable again: either by returning injured soldiers to the frontlines of various wars as biological fodder for the 
+them valuable again - either by returning injured soldiers to the frontlines of various wars as biological fodder for the 
 globalization and expansion of Euro-American empire, or by returning bodies to work, to physically labor in factories so 
 the nation state could meet the demands of the rapidly expanding global market[^2][^3][^8]. Bodies that cannot labor are surplus 
 – a drain on the nation[^8]. Physiotherapy and the body-as-machine was (and arguably still is) instrumentalized to manage 
 populations, their health, and physical ability, for the sake of nation-states, functioning as a conduit of societal and 
 political power[^2].
 
-Physiotherapists “expertise” in disciplining, normalizing, and “correcting” the “broken” or “pathological” body, and producing 
-“healthy,” disciplined bodies, was instrumental in helping physiotherapy gain social, and political legitimacy in the lead up 
+Physiotherapist 'expertise' in disciplining, normalizing, and 'correcting' the 'broken' or pathological' body, and producing 
+'healthy,' disciplined bodies, was instrumental in helping physiotherapy gain social, and political legitimacy in the lead up 
 to World War 1, significantly shaping the professions identity[^2][^3][^4][^8]. Understandably, then, the concept is one which 
 physiotherapists find very hard to part with. Today, however, literature retrospectively scrutinizing the profession's 
-biomechanical past and the harms it had caused is increasing, making it easier than ever to justify abandoning it.  
+biomechanical past and the harms it has caused is increasing, making it easier than ever to justify abandoning it.  
 
-Some scholars have highlighted the assumption of the body as fragile and in need of “Ideal” alignment and functioning to 
-be healthy causes worse health outcomes[^9][^10][^11]. Others argue that the reductionist search for “objective” lesions or 
+Some scholars have highlighted that the assumption of the body as fragile and in need of 'Ideal' alignment and functioning to 
+be healthy causes worse health outcomes[^9][^10][^11]. Others argue that the reductionist search for 'objective' lesions or 
 abnormalities has rendered the subject and their ‘lived’ experience an unwanted appendage to the physical lesion under 
 investigation[^12][^13]. Furthermore, the corporeal norm has long been criticized for its European humanist, hetero-patriarchal, 
 and ableist presuppositions that render those that do not fit this norm undesirable and pathological[^2][^7][^14]. And, of course, 
@@ -83,7 +83,7 @@ there exists no shortage of online discourse on the matter with many popular phy
 
 [Insert Meakins image]
 
-However, like God, we should not assume that we were disillusioned by the body-as-machine and that we now "better" understand how 
+However, like God, we should not assume that we were disillusioned by the body-as-machine and that we now 'better' understand how 
 bodies work (although this is true in part). Rather, we should understand the body-as-machine as a real thing which played a crucial role 
 in shaping physiotherapy on a material level. It assembling the kinds of instruments, interventions, words, and behaviours
 physiotherapists would adopt. Today, however, a different assemblage has, or is in the process of, replacing the body-as-machine.
@@ -101,20 +101,20 @@ operate with in our current society and political economy? How is our concept of
 body-as-machine?
 
 If the body-as-machine mimicked the simple machines of the industrial revolution, does the new concept of the body mimic today's machines? 
-Modulation machines?[^17]  
+**Such as computers? The internet?** Modulation machines?[^17]    
 
 If clinicians who deploy the body-as-machine could be heard saying things like “your joints wear and tear,” “your back pain is likely due to 
-poor joint alignment and poor posture,” and “muscle imbalance is causing muscle pain” - then what are clinicians saying today? What discourses 
-are gaining popularity and what ends are these discourses serving? And if the body-as-machine served state and corporate interests, might these 
+poor joint alignment and poor posture,” and “muscle imbalance is causing muscle pain," then what are clinicians saying today? What discourses 
+are gaining popularity and what ends are these discourses serving? **cite Erin** And if the body-as-machine served state and corporate interests, might these 
 new discourse be serving the similar ends just in a contemporary [neoliberal](https://eduanbreedt.com/blog/neoliberalism-and-physiotherapy/) socio-political climate?
 
 It has become overwhelmingly clear to me over the last few years that those who (rightfully) criticize the body-as-machine propose instead some 
-version of a holistic person-centred, biopsychosocial, embodied, lived alternative. One which replaces the clinician as the authority and expert 
+version of a holistic person-centred, biopsychosocial, embodied, lived alternative - one that replaces the clinician as the authority and expert 
 with the patient as the authority and expert of their own body. Might this be a symptom of the passage from the body-as-machine to a new concept 
-of the body - one which also serves corporate and state interests, just in new ways?
+of the body - one that also serves corporate and state interests, just in new ways?
 
 For those who contend that “This is not like the body-as-machine. This has proven to improve the lives of our patients. Plus how bad can being 
-holistic and person-centred be?” I would like to remind you that missionaries had nothing but good intentions for those whom they "saved." Similarly, our biomechanical ‘forefathers’ (and mothers) had nothing but ‘good intentions’ for those who they "fixed," believing themselves to be serving their society and helping people regain their health. 
+holistic and person-centred **be?” I woul**d like to remind you that missionaries had nothing but good intentions for those whom they 'saved.' Similarly, our biomechanical forefathers (and mothers) had nothing but ‘good intentions’ for those who they 'fixed,' believing themselves to be serving their society and helping people regain their health. 
 
 It is my opinion that we are currently, willfully and enthusiastically, plummeting into the same well-intentioned abyss, where presumed benevolence 
 cloaks the larger socio-political systems we and our profession are serving.
