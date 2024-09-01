@@ -21,14 +21,15 @@ the idea of God had begun to die and was being replaced. European society no lon
 for all morality, value, or order in the universe; philosophy and science were capable of doing that for them.
 
 God, in this instance, should not simply be dismissed as an illusion or false perception, as so many atheists often do. 
-God was real. There is no denying that the concept of God was an extrodinarily potent thing - an assemblage - organzing and assembling 
-material in the world. Without God entire empires, societies, cities, and cultures would not have existed. With enlightenment 
-new concepts (or assemblages) were taking God's place.
+It might be true that God was not a man floating in the sky, but God was real in so far as God played a siginifact role 
+in shaping our world. God was an extrodinarily potent thing - an assemblage - organzing and assembling material in the 
+world. Without God entire empires, societies, cities, and cultures would not have existed. With enlightenment, new concepts 
+(or assemblages) were taking God's place.
 
 Nietzsche was a prudent analyst, noticing this societal trend in the 1880’s when Europe was still incredibly religious. 
 “God is dead” for Nietzsche was a statement of fact - he accurately recognized that Christianity was in decline 
-due to no longer being a coherent belief system. It was also a statement of warning about what the future holds, 
-what might replace Christianity, and what new issues might unfurl.  
+due to no longer being a coherent belief system that organized society. It was also a statement of warning about what 
+the future holds, what might replace Christianity, and what new issues might unfurl.  
 
 Similar to Nietzsche, I think it is quite evident that the biomechanical understanding of the body-as-machine 
 in physiotherapy is dead. While it has been an incredibly powerful concept, physiotherapy no longer needs it, the 
@@ -65,7 +66,7 @@ globalization and expansion of Euro-American empire, or by returning bodies to w
 the nation state could meet the demands of the rapidly expanding global market[^2][^3][^8]. Bodies that cannot labor are surplus 
 – a drain on the nation[^8]. Physiotherapy and the body-as-machine was (and arguably still is) instrumentalized to manage 
 populations, their health, and physical ability, for the sake of nation-states, functioning as a conduit of societal and 
-political power[^2].    
+political power[^2].
 
 Physiotherapists “expertise” in disciplining, normalizing, and “correcting” the “broken” or “pathological” body, and producing 
 “healthy,” disciplined bodies, was instrumental in helping physiotherapy gain social, and political legitimacy in the lead up 
@@ -82,14 +83,15 @@ there exists no shortage of online discourse on the matter with many popular phy
 
 [Insert Meakins image]
 
-While we can spend an entire book expanding on the history and harmful disciplinary elements of the body-as-machine, I am concerned 
-with a different problematic.  
+However, like God, we should not assume that we were disillusioned by the body-as-machine and that we now "better" understand how 
+bodies work (although this is true in part). Rather, we should understand the body-as-machine as a real thing which played a crucial role 
+in shaping physiotherapy on a material level. It assembling the kinds of instruments, interventions, words, and behaviours
+physiotherapists would adopt. Today, however, a different assemblage has, or is in the process of, replacing the body-as-machine.
 
 ### A New Era
-
-***Relate back to Fredrick N***     
-
-If you read the works of Gilles Deleuze[^15], Jasbir Puar[^16], Michael Hardt and Antonio Negri[^17], and even Michel Foucault[^18] you would be quick 
+      
+Just as the age of enlightenment and its principles of rationalism and scientific knowledge replaced God as a measure of Truth, if you 
+read the works of Gilles Deleuze[^15], Jasbir Puar[^16], Michael Hardt and Antonio Negri[^17], and even Michel Foucault[^18] you would be quick 
 to notice that they argue that disciplinary societies (from which the body-as-machine emerged) is being replaced. Similarly, we are 
 quite obviously no longer gripped by industrial capitalism. We have moved on to what some have called late-stage capitalism, neoliberal 
 capitalism, surveillance capitalism, algorithmic capitalism, or some version thereof. 
@@ -104,7 +106,7 @@ Modulation machines?[^17] 
 If clinicians who deploy the body-as-machine could be heard saying things like “your joints wear and tear,” “your back pain is likely due to 
 poor joint alignment and poor posture,” and “muscle imbalance is causing muscle pain” - then what are clinicians saying today? What discourses 
 are gaining popularity and what ends are these discourses serving? And if the body-as-machine served state and corporate interests, might these 
-new discourse be serving the same ends just in a contemporary [neoliberal](https://eduanbreedt.com/blog/neoliberalism-and-physiotherapy/) socio-political climate?
+new discourse be serving the similar ends just in a contemporary [neoliberal](https://eduanbreedt.com/blog/neoliberalism-and-physiotherapy/) socio-political climate?
 
 It has become overwhelmingly clear to me over the last few years that those who (rightfully) criticize the body-as-machine propose instead some 
 version of a holistic person-centred, biopsychosocial, embodied, lived alternative. One which replaces the clinician as the authority and expert 
@@ -112,8 +114,7 @@ with the patient as the authority and expert of their own body. Might this be a 
 of the body - one which also serves corporate and state interests, just in new ways?
 
 For those who contend that “This is not like the body-as-machine. This has proven to improve the lives of our patients. Plus how bad can being 
-holistic and person-centred be?” I would like to remind you that our biomechanical ‘forefathers’ (and mothers) had nothing but ‘good intentions,’ 
-believing themselves to be serving their society and helping people regain their health. 
+holistic and person-centred be?” I would like to remind you that missionaries had nothing but good intentions for those whom they "saved." Similarly, our biomechanical ‘forefathers’ (and mothers) had nothing but ‘good intentions’ for those who they "fixed," believing themselves to be serving their society and helping people regain their health. 
 
 It is my opinion that we are currently, willfully and enthusiastically, plummeting into the same well-intentioned abyss, where presumed benevolence 
 cloaks the larger socio-political systems we and our profession are serving.
