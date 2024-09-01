@@ -89,7 +89,7 @@ in shaping physiotherapy on a material level. It assembling the kinds of instrum
 physiotherapists would adopt. Today, however, a different assemblage has, or is in the process of, replacing the body-as-machine.
 
 ### A New Era
-      
+
 Just as the age of enlightenment and its principles of rationalism and scientific knowledge replaced God as a measure of Truth, if you 
 read the works of Gilles Deleuze[^15], Jasbir Puar[^16], Michael Hardt and Antonio Negri[^17], and even Michel Foucault[^18] you would be quick 
 to notice that they argue that disciplinary societies (from which the body-as-machine emerged) is being replaced. Similarly, we are 
@@ -104,8 +104,8 @@ If the body-as-machine mimicked the simple machines of the industrial revolution
 
 If clinicians who deploy the body-as-machine could be heard saying things like “your joints wear and tear,” “your back pain is likely due to 
 poor joint alignment and poor posture,” and “muscle imbalance is causing muscle pain," then what are clinicians saying today? What discourses 
-are gaining popularity and what ends are these discourses serving?[^19] And if the body-as-machine served state and corporate interests, might these 
-new discourse be serving the similar ends just in a contemporary [neoliberal](https://eduanbreedt.com/blog/neoliberalism-and-physiotherapy/) socio-political climate?
+are gaining popularity and what ends are these discourses serving?[^19] And if the body-as-machine served state and corporate interests during 
+the industrial era, might these new discourse be serving the similar ends just in a contemporary [neoliberal](https://eduanbreedt.com/blog/neoliberalism-and-physiotherapy/) socio-political climate?
 
 It has become overwhelmingly clear to me over the last few years that those who (rightfully) criticize the body-as-machine propose instead some 
 version of a holistic person-centred, biopsychosocial, embodied, lived alternative - one that replaces the clinician as the authority and expert 
