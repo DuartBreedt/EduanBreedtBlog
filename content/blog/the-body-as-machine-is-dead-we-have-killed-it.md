@@ -12,7 +12,7 @@ categories = ["physiotherapy", "politics", "the body"]
   stretch = "cover"      
 +++
 
->God is dead. God remains dead. And we have killed him. How shall we comfort ourselves, the murderers of all murderers? - Friedrich Nietzsche> <cite>[^1]</cite>      
+>God is dead. God remains dead. And we have killed him. How shall we comfort ourselves, the murderers of all murderers? - Friedrich Nietzsche> <cite>[^1]</cite>   
 
 “God is dead” remains one of the most famous quotes from the German philosopher Friedrich Nietzsche[^1].
 Nietzsche, being the atheist that he was, didn’t mean that people had literally killed the God he believed in. 
@@ -135,9 +135,9 @@ maybe we’ll call it the body-as-modulation[^15][^16].
 [^6]: Praestegaard J, Gard G, Glasdam S. Physiotherapy as a disciplinary institution in modern society - a Foucauldian perspective on physiotherapy in Danish private practice. Physiother Theory Pract. 2015;31(1):17-28.                      
 [^7]: Breedt E, Barlott T. Physiotherapy’s necessity for ableism: reifying normal through difference. Disability & Society. 2024;1–24.           
 [^8]: Adler-Bolton B, Vierkant A. Health communism: a surplus manifesto. Verso; 2022                                                                  
-[^9]: Caneiro JP, Bunzli S, O’Sullivan P. Beliefs about the body and pain: The critical role in musculoskeletal pain management. Braz J Phys Ther. 2021;25(1):17 29.          
+[^9]: Caneiro JP, Bunzli S, O’Sullivan P. Beliefs about the body and pain: The critical role in musculoskeletal pain management. Braz J Phys Ther. 2021;25(1):17 29.
 [^10]: Darlow B. 2016. Beliefs about Back Pain: The Confluence of Client, Clinician and Community. International Journal of Osteopathic Medicine 2016;20:53–61.  
-[^11]: Darlow B, Dowell A, Baxter GD, Mathieson F, Perry M, Dean S. The Enduring Impact of What Clinicians Say to People With Low Back Pain. The Annals of Family Medicine 2013;11(6):527–34.                  
+[^11]: Darlow B, Dowell A, Baxter GD, Mathieson F, Perry M, Dean S. The Enduring Impact of What Clinicians Say to People With Low Back Pain. The Annals of Family Medicine 2013;11(6):527–34.
 [^12]: Sviland R, Martinsen K, Råheim M. To be held and to hold one’s own: Narratives of embodied transformation in the treatment of long-lasting musculoskeletal problems. Med Health Care Philos. 2014;17(4):609–24.         
 [^13]: Thornquist E. Face-to-face and hands-on: assumptions and assessments in the physiotherapy clinic. Med Anthropol. 2006;25(1):65–97.          
 [^14]: Gibson BE. Disability, connectivity and transgressing the autonomous body. J Med Humanit. 2006;27(3):187–96.    
