@@ -150,7 +150,7 @@ care, and self-efficacy.
 
 Since the biopsychosocial model of health boasts including the biological, psychological, and social domains into health, one 
 would imagine that social (and therefore political) aspects of health would be addressed with the same or greater fervency as 
-the biological and psychological domains. This is not the case (cite Dave podcast with words matter?). Why is that? It is the 
+the biological and psychological domains. This is not the case. Why is that? It is the 
 same reason that in 2004 British Petroleum (BP) hired the public relations professionals Ogilvy & Mather to promote the idea 
 that climate change is not the fault of oil companies but of individuals by promoting and popularizing the concept of a “carbon 
 footprint”. All wanting to do our part, we could now effortlessly determine how our normal daily lives are contributing to 
