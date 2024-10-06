@@ -6,6 +6,4 @@ date = "07-10-2021"
 layout = "about"
 +++
 
-I remain intellectually mobile, I am unable to sediment my thoughts. Change proves to be my only constant. Putting words to my thoughts, for a moment it feels right, in focus, before it feels incredibly wrong. So I start again and I say something different.
-
-This space is my cemetery for the incredibly wrong and where I affirm difference. This is where I ravel.
+I am a white South African physiotherapist and PhD candidate at the University of Alberta, located on Treaty 6 territory (traditional lands of First Nations (including the Papaschase!) and Métis people). My current work aims to unsettle, expose, mark, and name the elite, colonial, white regime of physiotherapy. I draw on the work of French post-structural philosopher Gilles Deleuze, queer theorist Jasbir Puar, and Cameroonian historian Achille Mbembe in order to explore physiotherapy’s necropolitical and biopolitical stakes in neoliberal racial capitalism, settler colonialism, and Euro-American empire. My PhD explores the concept of the ‘Body’ in physiotherapy and how it operates to modulate the speed and slowness of the death of populations who are deemed disposable and made available for injury.
