@@ -17,7 +17,7 @@ Eduan Breedt - Philosophy & Neoliberalism - 2024 The Knowledge Exchange Podcast 
 ### Listen
 Eduan Breedt - Healthcare Benevolence - 2024 Honest Health Chats Podcast [HERE](https://open.spotify.com/episode/2dFPpR2S1ii1m3TixtCmBn?si=4e819451761040db) 
 
-Eduan Breedt - Philosophy & Neoliberalism - 2024 The Knowledge Exchange Podcast [HERE](https://open.spotify.com/episode/2nLmUpQg3L96H0dcX2FlE0?si=51e0f39b0dd8411e  )        
+Eduan Breedt - Philosophy & Neoliberalism - 2024 The Knowledge Exchange Podcast [HERE](https://open.spotify.com/episode/2nLmUpQg3L96H0dcX2FlE0?si=51e0f39b0dd8411e)        
 
    
 ### Read    
