@@ -7,7 +7,7 @@ layout = "publications"
 +++
 
 ### Watch
-Diagnosing the Body in Physiotherapy: Capitalism, Desire, and Slow Death - 2024 ISIH Conference Presentation [HERE](https://youtu.be/ECzlT-Ba0rA?si=_l6-Bp9W_YeNo_sW)
+Diagnosing the Body in Physiotherapy: Capitalism, Desire, and Slow Death - 2024 ISIH Conference Presentation [HERE](https://www.youtube.com/watch?v=ECzlT-Ba0rA&ab_channel=EduanBreedt)
 
 Eduan Breedt - Healthcare Benevolence - 2024 Honest Health Chats Podcast [HERE](https://youtu.be/9ochU463R8s?si=yLoArwXgaAxohuhy) 
 
