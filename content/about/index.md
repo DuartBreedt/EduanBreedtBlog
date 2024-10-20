@@ -2,7 +2,7 @@
 title = "About"
 description = "My questions are my Truth, any answers I give are untrue"
 author = "Eduan Breedt"
-date = "07-10-2021"
+date = "2021-10-07"
 layout = "about"
 +++
 

@@ -132,6 +132,13 @@ disableLanguages        = []
     pre               = "<i class='far fa-envelope'></i>"
     weight            = 6
 
+  [[menu.main]]
+    name              = "Publications"
+    identifier        = "publications"
+    url               = "publications"
+    pre               = "<i class='fa fa-book-open'></i>"
+    weight            = 7
+
 [Languages]
 
   [Languages.en]
@@ -177,7 +184,7 @@ disableLanguages        = []
   qq                    = "" # User ID Number
   instagram             = "EduanBreedt"
   tumblr                = ""
-  twitter               = ""
+  twitter               = "EduanBreedt"
   strava                = ""
   skype                 = ""
   snapchat              = ""
