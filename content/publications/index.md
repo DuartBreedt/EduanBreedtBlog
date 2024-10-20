@@ -1,7 +1,7 @@
 +++
-title = "Publications"  
-description = "My publications list"    
-author = "Eduan Breedt"  
+title = "Publications"
+description = "My publications list"
+author = "Eduan Breedt"
 date = "2024-10-20"
 layout = "publications"
 +++
