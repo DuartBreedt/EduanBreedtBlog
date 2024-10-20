@@ -25,4 +25,4 @@ Breedt, E., & Barlott, T. (2024). Physiotherapy’s necessity for ableism: reify
 
 Breedt, E. (2023). The Church of Physiotherapy: The Necessity for Betrayal. Aporia 15(2):40-49. https://doi.org/10.18192/aporia.v15i2.6604
 
-[Google Scholar Profile](https://scholar.google.com/citations?user=uG7ep4gAAAAJ&hl=en)      
+[Google Scholar Profile](https://scholar.google.com/citations?user=uG7ep4gAAAAJ&hl=en)  
