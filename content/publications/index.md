@@ -21,8 +21,8 @@ Eduan Breedt - Philosophy & Neoliberalism - 2024 The Knowledge Exchange Podcast 
 
 
 ### Read    
-Breedt, E., & Barlott, T. (2024). Physiotherapy’s necessity for ableism: reifying normal through difference. Disability & Society, 1–24. https://doi.org/10.1080/09687599.2024.2353075 [HERE](https://www.tandfonline.com/doi/full/10.1080/09687599.2024.2353075)
+Breedt, E., & Barlott, T. (2024). Physiotherapy’s necessity for ableism: reifying normal through difference. Disability & Society, 1–24. https://doi.org/10.1080/09687599.2024.2353075
 
-Breedt, E. (2023). The Church of Physiotherapy: The Necessity for Betrayal. Aporia 15(2):40-49. https://doi.org/10.18192/aporia.v15i2.6604 [HERE](https://uottawa.scholarsportal.info/ottawa/index.php/aporia/article/view/6604)        
+Breedt, E. (2023). The Church of Physiotherapy: The Necessity for Betrayal. Aporia 15(2):40-49. https://doi.org/10.18192/aporia.v15i2.6604 [HERE](https://uottawa.scholarsportal.info/ottawa/index.php/aporia/article/view/6604)                  
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=uG7ep4gAAAAJ&hl=en)
