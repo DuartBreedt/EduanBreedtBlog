@@ -87,7 +87,7 @@ there exists no shortage of online discourse on the matter with many popular phy
 
 However, like God, we should not assume that we were disillusioned by the body-as-machine and that we now 'better' understand how 
 bodies work (although this is true in part). Rather, we should understand the body-as-machine as a real thing which played a crucial role 
-in shaping physiotherapy on a material level. It assembling the kinds of instruments, interventions, words, and behaviours
+in shaping physiotherapy on a material level. It assembled the kinds of instruments, interventions, words, and behaviours
 physiotherapists would adopt. Today, however, a different assemblage has, or is in the process of, replacing the body-as-machine.
 
 ### A New Era
