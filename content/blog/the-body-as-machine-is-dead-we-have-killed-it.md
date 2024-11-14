@@ -107,7 +107,7 @@ If the body-as-machine mimicked the simple machines of the industrial revolution
 If clinicians who deploy the body-as-machine could be heard saying things like “your joints wear and tear,” “your back pain is likely due to 
 poor joint alignment and poor posture,” and “muscle imbalance is causing muscle pain," then what are clinicians saying today? What discourses 
 are gaining popularity and what ends are these discourses serving?[^19] And if the body-as-machine served state and corporate interests during 
-the industrial era, might these new discourse be serving the similar ends just in a contemporary [neoliberal](https://eduanbreedt.com/blog/neoliberalism-and-physiotherapy/) socio-political climate?
+the industrial era, might these new discourse be serving similar ends just in a contemporary [neoliberal](https://eduanbreedt.com/blog/neoliberalism-and-physiotherapy/) socio-political climate?
 
 It has become overwhelmingly clear to me over the last few years that those who (rightfully) criticize the body-as-machine propose instead some 
 version of a holistic person-centred, biopsychosocial, embodied, lived alternative - one that replaces the clinician as the authority and expert 
