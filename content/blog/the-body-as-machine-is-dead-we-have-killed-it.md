@@ -21,7 +21,7 @@ the idea of God had begun to die and was being replaced. European society no lon
 for all morality, value, or order in the universe; philosophy and science were capable of doing that for them.
 
 God, in this instance, should not simply be dismissed as an illusion or false perception, as so many atheists often do. 
-It might be true that God was not a man floating in the sky, but God was real insofar as God played a siginifact role 
+It might be true that God was not a man floating in the sky, but God was real insofar as God played a significant role 
 in shaping our world. God was an extraodinarily potent thing - an assemblage - organzing and assembling material in the 
 world. Without God, entire empires, societies, cities, and cultures would not have existed. However, with the Enlightenment, 
 new concepts (or assemblages) were taking God's place.
@@ -47,7 +47,7 @@ with use  - especially when different parts are 'misaligned' from the corporeal 
 or fixing by an ‘expert’ clinician.  
 
 Many have rightly argued that the concept of the body-as-machine was disciplinary, and had emerged from what Michel 
-Foucault calls a ‘disciplinary society’[^5] To oversimplify the issue, this means the body-as-machine would use a 
+Foucault calls a ‘disciplinary society’[^5]. To oversimplify the issue, this means the body-as-machine would use a 
 binary of normal/abnormal to discipline bodies to adhere to an “Ideal” norm, where the norm was deemed the most healthy[^6]. 
 This could include normal posture, normal range of motion, normal muscle function, normal gait[^7].  
 
