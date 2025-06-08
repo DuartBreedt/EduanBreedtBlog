@@ -12,7 +12,7 @@ categories = ["physiotherapy", "politics", "the body"]
   stretch = "cover"
 +++
 
->God is dead. God remains dead. And we have killed him. How shall we comfort ourselves, the murderers of all murderers? - Friedrich Nietzsche> <cite>[^1]</cite>   
+>God is dead. God remains dead. And we have killed him. How shall we comfort ourselves, the murderers of all murderers? - Friedrich Nietzsche <cite>[^1]</cite>   
 
 “God is dead” remains one of the most famous quotes from the German philosopher Friedrich Nietzsche[^1].
 Nietzsche, being the atheist that he was, didn’t mean that people had literally killed the God he believed in. 
