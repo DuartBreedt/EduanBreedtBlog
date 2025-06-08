@@ -3,11 +3,11 @@ title = "Decolonizing Disability"
 description = "Considerations for using critical disability studies in rehabilitation science"
 author = "Erin Tichenor, Mica Pabia, and Eduan Breedt"
 date = "2025-06-08"
-draft = true
-tags = ["Neoliberalism", "Physiotherapy", "Body-as-Machine"]
-categories = ["physiotherapy", "politics", "the body"]
+draft = false
+tags = ["Puar", "Southern Disability Studies", "Rehabilitation"]
+categories = ["disability", "politics"]
 [[images]]
-  src = "img/2019/03/body-as-machine.png"
+  src = "img/2019/03/faris.jpg"
   alt = "Unnatural"
   stretch = "cover"
 +++
