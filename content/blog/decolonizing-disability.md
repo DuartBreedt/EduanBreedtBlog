@@ -7,7 +7,7 @@ draft = false
 tags = ["Puar", "Southern Disability Studies", "Rehabilitation"]
 categories = ["disability", "politics"]
 [[images]]
-  src = "img/2019/03/faris.jpg"
+  src = "img/2019/03/faris2.png"
   alt = "Unnatural"
   stretch = "cover"
 +++
