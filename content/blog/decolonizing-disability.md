@@ -96,13 +96,13 @@ If you are interested in Critical Disability Studies we might encourage you to j
 [^16]: Valentine, Desiree. 2021a. “Technologies of Reproduction: Race, Disability, and Neoliberal Eugenics.” The Journal of Philosophy of Disability 1:35-55.
 [^17]: Valentine, Desiree. 2021b. “Racialized disablement and the need for conceptual analysis of ‘racial health disparities’.” Bioethics 36(3): 336-345
 [^18]: Eromosele, Femi. 2020. "Frantz Fanon in the Time of Mad Studies." World Futures 76(3):167-187. https://doi.org/10.1080/02604027.2020.1730737.
-[^19]: Kafer, Alison, and Kim, Eunjung. 2017. “Disability and the Edges of Intersectionality. Pp. 123-138 in The Cambridge Companion to Literature and Disability. Cambridge Companions to Literature, edited by Clare Barker and Stuart Murray. Cambridge, UK: Cambridge University Press.
-[^20]: Breedt, E., & Barlott, T. (2024). Physiotherapy’s necessity for ableism: reifying normal through difference. Disability & Society, 40(5), 1361–1384. https://doi.org/10.1080/09687599.2024.2353075
-[^21]: Hammell K. W. 2023. A call to resist occupational therapy's promotion of ableism. Scandinavian journal of occupational therapy, 30(6), 745–757. https://doi.org/10.1080/11038128.2022.2130821
+[^19]: Kafer, Alison, and Eunjung Kim. 2017. “Disability and the Edges of Intersectionality. Pp. 123-138 in The Cambridge Companion to Literature and Disability. Cambridge Companions to Literature, edited by Clare Barker and Stuart Murray. Cambridge, UK: Cambridge University Press.
+[^20]: Breedt, Eduan, and Tim Barlott. (2024). Physiotherapy’s necessity for ableism: reifying normal through difference. Disability & Society, 40(5), 1361–1384. https://doi.org/10.1080/09687599.2024.2353075
+[^21]: Hammell, Karen W. 2023. A call to resist occupational therapy's promotion of ableism. Scandinavian journal of occupational therapy, 30(6), 745–757. https://doi.org/10.1080/11038128.2022.2130821
 [^22]: Roush, Susan E., and Nancy Sharby. 2011. “Disability Reconsidered: The Paradox of Physical Therapy.” Physical Therapy 91 (12): 1715–1727. https://doi.org/10.2522/ptj.20100389.
 [^23]: Withers, A.J. 2012. Disability Politics and Theory. Fernwood Publishing.
 [^24]: Gunaratnam, Yasmin. 2021. “Infrastructures of Racial Violence, Health and Debility.” Sociology of Health and Illness 43(8):1845–1850. https://doi.org/10.1111/1467-9566.13365.
-[^25]: Geronimus A. T. 1992. The weathering hypothesis and the health of African-American women and infants: evidence and speculations. Ethnicity & disease, 2(3), 207–221.
+[^25]: Geronimus Arline T. 1992. The weathering hypothesis and the health of African-American women and infants: evidence and speculations. Ethnicity & disease, 2(3), 207–221.
 [^26]: Hoover, E., Cook, K., Plain, R., Sanchez, K., Waghiyi, V., Miller, P., Dufault, R., Sislin, C., & Carpenter, D. O. 2012. Indigenous peoples of North America: environmental exposures and reproductive justice. Environmental health perspectives, 120(12), 1645–1649. https://doi.org/10.1289/ehp.1205422
 [^27]: Meltzer, G.Y., Watkins, BX., Vieira, D. et al. A Systematic Review of Environmental Health Outcomes in Selected American Indian and Alaska Native Populations. J. Racial and Ethnic Health Disparities 7, 698–739 (2020). https://doi.org/10.1007/s40615-020-00700-2
 [^28]: Hardt, Michael, and Negri, Antonio. 2000. Empire. Harvard University Press.
