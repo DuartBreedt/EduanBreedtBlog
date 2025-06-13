@@ -21,7 +21,7 @@ Eduan Breedt - Philosophy & Neoliberalism - 2024 The Knowledge Exchange Podcast 
 
    
 ### Read    
-Breedt, E., Tichenor, E., McLeod, K., & Barlott, T. (2025). Rethinking posthumanism in rehabilitation science: Lessons from Indigenous, Black, and decolonial thought. Health, 0(0). doi:10.1177/13634593251345082
+Breedt, E., Tichenor, E., McLeod, K., & Barlott, T. (2025). Rethinking posthumanism in rehabilitation science: Lessons from Indigenous, Black, and decolonial thought. Health, 0(0). https://doi.org/10.1177/13634593251345082
 
 Breedt, E., & Barlott, T. (2024). Physiotherapy’s necessity for ableism: reifying normal through difference. Disability & Society, 40(5), 1361–1384. https://doi.org/10.1080/09687599.2024.2353075
 
