@@ -1,6 +1,6 @@
 +++
 title = "The Aesthetics of Complexity"
-description = "Considerations for using critical disability studies in rehabilitation science"
+description = "On the Political production of Simplicity and Performance of Complexity"
 author = "Eduan Breedt"
 date = "2025-06-22"
 draft = false
@@ -13,6 +13,7 @@ categories = ["politics"]
 +++
 
 “It’s complex.”
+
 Over the last couple of months, I have started to notice how frequently “complexity” is invoked - often when discussing circumstances 
 to do with social inequity such as war, poverty, systemic racism, colonial occupation, or health inequities. “The situation in Palestine 
 is complex.” “Homelessness is complex.” “Addiction is complex.” “Land Back is complex.” “Social Determinants of Health are complex.” 
