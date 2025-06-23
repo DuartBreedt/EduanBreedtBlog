@@ -32,7 +32,7 @@ A relatively popular means of explaining the differences between simple, complic
 (which you can read at your own leisure).
 
 <div style="text-align:center;">
-<img  width="500px" src="/img/2019/03/neoliberalism.jpg"  />
+<img  width="500px" src="/img/2019/03/simple_complicated_complex.jpg"  />
 </div>
 
 Being somewhat versed in philosophies which are attuned to ontology and question essentializing claims about the world, I am immediately 
