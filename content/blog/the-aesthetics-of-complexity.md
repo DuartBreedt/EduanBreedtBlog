@@ -7,7 +7,7 @@ draft = true
 tags = ["Complexity", "Aesthetics", "Social Inequity"]
 categories = ["politics"]
 [[images]]
-  src = "img/2019/03/faris2.png"
+  src = "img/2019/03/marie.jpeg"
   alt = "Unnatural"
   stretch = "cover"
 +++
