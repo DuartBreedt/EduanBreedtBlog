@@ -1,5 +1,5 @@
 +++
-title = "On the Aesthetics of Complexity"
+title = "The Aesthetics of Complexity"
 description = "On the Political Production of Simplicity and Performance of Complexity"
 author = "Eduan Breedt"
 date = "2025-06-22"
