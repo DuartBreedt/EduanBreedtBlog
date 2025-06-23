@@ -4,8 +4,8 @@ description = "Considerations for using critical disability studies in rehabilit
 author = "Eduan Breedt"
 date = "2025-06-22"
 draft = true
-tags = ["Puar", "Southern Disability Studies", "Rehabilitation"]
-categories = ["disability", "politics"]
+tags = ["Complexity", "Aesthetics", "Social Inequity"]
+categories = ["politics"]
 [[images]]
   src = "img/2019/03/faris2.png"
   alt = "Unnatural"
@@ -25,13 +25,15 @@ the conversation. Other times, complexity genuinely engages us deeply in the pro
 solutions. To have the conversation while not having the conversation.
 
 I believe that ontologically everything is complex. However, we do not perceive all problems as complex; some indeed feel simple. Therefore, 
-complexity speaks less to the actual knotty-ness of a problem than to its sense. This got me thinking about how we perceive or feel problems
-- the aesthetic difference between simple and complex problems.
-- 
+complexity speaks less to the actual knotty-ness of a problem than to its sense. This got me thinking about how we perceive or feel 
+problems - the aesthetic difference between simple and complex problems.
+
 A relatively popular means of explaining the differences between simple, complicated, and complex problems is the following table
 (which you can read at your own leisure).
 
-Image
+<div style="text-align:center;">
+<img  width="500px" src="/img/2019/03/neoliberalism.jpg"  />
+</div>
 
 Being somewhat versed in philosophies which are attuned to ontology and question essentializing claims about the world, I am immediately 
 skeptical. I am compelled to argue that complexity and simplicity are not ontological determinations about an event or process but primarily 
