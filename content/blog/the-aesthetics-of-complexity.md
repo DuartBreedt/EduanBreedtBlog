@@ -3,7 +3,7 @@ title = "The Aesthetics of Complexity"
 description = "Considerations for using critical disability studies in rehabilitation science"
 author = "Eduan Breedt"
 date = "2025-06-22"
-draft = true
+draft = false
 tags = ["Complexity", "Aesthetics", "Social Inequity"]
 categories = ["politics"]
 [[images]]
