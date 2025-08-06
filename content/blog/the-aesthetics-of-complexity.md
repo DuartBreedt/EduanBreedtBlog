@@ -12,8 +12,9 @@ categories = ["politics"]
   stretch = "cover"
 +++
 
-“It’s complex.”
+“It’s complex...”
 
+In a recent conversation someone admitted to me that "all the easy problems have been solved, the only ones left are problems that are complex."
 Over the last couple of months, I have started to notice how frequently “complexity” is invoked - often when discussing circumstances 
 to do with social inequity such as war, poverty, systemic racism, colonial occupation, or health inequities. “The situation in Palestine 
 is complex.” “Homelessness is complex.” “Addiction is complex.” “Land Back is complex.” “Social Determinants of Health are complex.” 
