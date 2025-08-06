@@ -39,7 +39,8 @@ A relatively popular means of explaining the differences between simple, complic
 
 Being somewhat versed in philosophies which are attuned to ontology and question essentializing claims about the world, I am immediately 
 skeptical. I am compelled to argue that complexity and simplicity are not ontological determinations about an event or process but primarily 
-aesthetic ones - they are to do with the forces that organize our sensations and experiences of the world.
+aesthetic ones - they are to do with the forces that organize our sensations and experiences of the world. Arguably we could say that all 
+problems are complex but perceived as simple by those who have the resources or inclination to attend to them. 
 
 We are unlikely to read a cake recipe prefaced with, “baking is complex.” But of course, it is. It may seem simple, but the butter in ‘our’ 
 fridges likely comes from dairy farms subsidized by decades of policy. The flour in ‘our’ cupboards was milled somewhere far away, the sugar 
