@@ -58,7 +58,8 @@ their complexity are a product of our socio-political milieu.
 
 In contrast to baking a cake, poverty, housing, climate justice, or health equity remain “complex” for most. Not because they are inherently 
 more intricate than the global supply chain enabling cake baking, but because the collective resources to make them feel simple are constrained.
-And yet for others, these problems may indeed feel quite simple.
+And yet for others, these problems may indeed feel quite simple. In fact, thanks to ongoing activism, some problems such as climate disaster has 
+come to feel relatively simple while ontologically being extremely complex. 
 
 I should clarify that when I say “resources” I do not only mean the ingredients, infrastructure, policies, or money required. More importantly,
 I mean the cultural resources that operate at the level of the collective unconscious. Resources such as our ethical obligations to one another, 
