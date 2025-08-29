@@ -28,3 +28,8 @@ Breedt, E., & Barlott, T. (2024). Physiotherapy’s necessity for ableism: reify
 Breedt, E. (2023). The Church of Physiotherapy: The Necessity for Betrayal. Aporia 15(2):40-49. https://doi.org/10.18192/aporia.v15i2.6604
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=uG7ep4gAAAAJ&hl=en)  
+
+#### Forthcoming
+Tichenor, E., Breedt, E., and Barlott, T. (Invited edited book proposal under review). Deleuze, Guattari, and Health. In: Deleuze Connection Series. Edinburgh University Press.
+
+Breedt, E., et al (In Progress). Rehabilitation and the Right to Maim: Debility, Capacity, and Colonial Violence. Special issue on Social Sustainability in Rehabilitation for Sociology of Health & Illness. 
