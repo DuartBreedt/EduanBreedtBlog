@@ -6,7 +6,7 @@ date = "2021-10-07"
 layout = "about"
 +++
 
-My name is Eduan Breedt (he/him). I am a cisgender, straight, White, English-speaking male of Dutch and English settler descent, born in Azania (South Africa) and now living as an uninvited settler in ᐊᒥᐢᑿᒌᐚᐢᑲᐦᐃᑲᐣ Amiskwacîwâskahikan (Edmonton), the homelands and gathering grounds of the Nêhiyaw, Denesuliné, Nakota Sioux, Anishinaabe, Niitsitapi, and Inuit peoples, as well as the Métis Nation of Alberta. 
+My name is Eduan Breedt. I am a cisgender, straight, White, English-speaking male of Dutch and English settler descent, born in Azania (South Africa) and now living as an uninvited settler in ᐊᒥᐢᑿᒌᐚᐢᑲᐦᐃᑲᐣ Amiskwacîwâskahikan (Edmonton), the homelands and gathering grounds of the Nêhiyaw, Denesuliné, Nakota Sioux, Anishinaabe, Niitsitapi, and Inuit peoples, as well as the Métis Nation of Alberta. 
 
 I trained and have worked as a physiotherapist in both Azania and Aotearoa (New Zealand), mainly in musculoskeletal practice with people experiencing complex and persistent pain. I now combine clinical work with teaching and research. I am currently a PhD Candidate at the University of Alberta. My PhD explores the concept of the ‘Body’ in physiotherapy, asking how it functions within neoliberal racial capitalism, settler colonialism, and Euro-American empire to modulate health, illness, injury, futurity, and imaginations.
 
