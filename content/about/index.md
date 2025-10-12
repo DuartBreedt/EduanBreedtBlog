@@ -8,10 +8,10 @@ layout = "about"
 
 My name is Eduan Breedt. I am a cisgender, straight, White, English-speaking male of Dutch and English settler descent, born in Azania (South Africa) and now living as an uninvited settler in ᐊᒥᐢᑿᒌᐚᐢᑲᐦᐃᑲᐣ Amiskwacîwâskahikan (Edmonton), the homelands and gathering grounds of the Nêhiyaw, Denesuliné, Nakota Sioux, Anishinaabe, Niitsitapi, and Inuit peoples, as well as the Métis Nation of Alberta. 
 
-I trained and have worked as a physiotherapist in both Azania and Aotearoa (New Zealand), mainly in musculoskeletal practice with people experiencing complex and persistent pain. I now combine clinical work with teaching and research. I am currently a PhD Candidate at the University of Alberta. My PhD explores the concept of the ‘Body’ in physiotherapy, asking how it functions within neoliberal racial capitalism, settler colonialism, and Euro-American empire to modulate health, illness, injury, futurity, and imaginations.
+I trained and have worked as a physiotherapist in both Azania and Aotearoa (New Zealand), mainly in musculoskeletal practice with people experiencing complex and persistent pain. I now combine clinical work with teaching and research. I am currently a PhD Candidate at the University of Alberta. My PhD explores the concept of the ‘Body’ in physiotherapy, asking how it functions within Euro-American empire to modulate health, illness, injury, futurity, and imaginations.
 
 
-More broadly, I am interested in health justice, critical and decolonial theory, and the geopolitical forces that shape physiotherapy and health care. I draw on the work of French post-structural philosopher Gilles Deleuze, queer theorist Jasbir Puar, and Cameroonian historian Achille Mbembe in order to explore physiotherapy’s necropolitical and biopolitical stakes in neoliberal racial capitalism, settler colonialism, and Euro-American empire. My work aims to unsettle, expose, mark, and name the elite, colonial, White regime of physiotherapy. 
+More broadly, I am interested in health justice, critical and decolonial theory, and the geopolitical forces that shape physiotherapy and health care. I draw on the work of French post-structural philosopher Gilles Deleuze, queer theorist Jasbir Puar, and Cameroonian historian Achille Mbembe in order to explore physiotherapy’s necropolitical and biopolitical stakes in American empire and its conduits: neoliberal racial capitalism and settler colonialism. My work aims to unsettle, expose, mark, and name the elite, colonial, White regime of physiotherapy. 
 
 
 As a community member, scholar, and physiotherapist in a relative position of power, I am informed by many scholar-activists who have gifted me a solidarity politics.
@@ -20,9 +20,9 @@ As a community member, scholar, and physiotherapist in a relative position of po
 >“If you have come here to help me you are wasting your time, but if you have come because your liberation is bound up with mine, then let us work together” - Lilla Watson
 
 
-Their work has nurtured in me a deep commitment to those who are “instrumentally denied humanity,” as Jasbir Puar writes, denied access to certain futures, and whose very existence is simultaneously threatened by and sustains racial capitalism, settler colonialism, neoliberalism, and Euro-American empire. 
+Their work has nurtured in me a deep commitment to those who are “instrumentally denied humanity,” as Jasbir Puar writes, denied access to certain futures, and whose very existence is simultaneously threatened by and sustains Euro-American empire. 
 
-I assume my audience are both folks from dominant systems and institutions and those for whom the emancipatory potential of critique and invention might resonate. Therefore, in my writing here, and elsewhere, I draw on African American professor Barnor Hesse and his articulation of a “White traitor” - using my relative privilege to “speak back” to whiteness and other oppressive institutions. That is, whiteness speaking back to whiteness, investing in exposing and marking the white regime, and actively refusing complicity (even while I neccesarily remain complicit).
+I assume my audience are both folks from dominant systems and institutions and those for whom the emancipatory potential of critique and invention might resonate. Therefore, in my writing here, and elsewhere, I draw on African American professor Barnor Hesse and his articulation of a “White traitor” - using my relative privilege to “speak back” to whiteness and other oppressive institutions. That is, whiteness speaking back to whiteness, investing in exposing and marking the White regime, and actively refusing complicity (even while I neccesarily remain complicit).
 
 >“Instead of involving themselves in an all‑out attempt to stamp out racism from their white society, liberals waste a lot of time trying to prove to as many blacks as they can find that they are liberal” - Steve Bantu Biko
 
