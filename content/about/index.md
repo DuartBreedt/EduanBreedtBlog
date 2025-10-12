@@ -21,6 +21,7 @@ As a community member, scholar, and physiotherapist in a relative position of po
 
 
 Their work has nurtured in me a deep commitment to those who are “instrumentally denied humanity,” as Jasbir Puar writes, denied access to certain futures, and whose very existence is simultaneously threatened by and sustains racial capitalism, settler colonialism, neoliberalism, and Euro-American empire. 
+
 I assume my audience are both folks from dominant systems and institutions and those for whom the emancipatory potential of critique and invention might resonate. Therefore, in my writing here, and elsewhere, I draw on African American professor Barnor Hesse and his articulation of a “White traitor” - using my relative privilege to “speak back” to whiteness and other oppressive institutions. That is, whiteness speaking back to whiteness, investing in exposing and marking the white regime, and actively refusing complicity (even while I remain complicit).
 
 >“Instead of involving themselves in an all‑out attempt to stamp out racism from their white society, liberals waste a lot of time trying to prove to as many blacks as they can find that they are liberal” - Steve Bantu Biko
