@@ -105,10 +105,6 @@ Alternatively, by recognizing our interdependence, we might shift towards focusi
 addresses the individual, their health, the community, and the conditions that produce ill health.
 
 ### Theories of Change in Clinical Practice
-Below I offer seven ‘theories of change’ relating to clinical practice which I use as a teaching tool with physiotherapy students.
-They are by no means all encompassing and are thoroughly imbued with my own political bias. I offer it as an opportunity to critically 
-consider your own theory of change and political stance on social change.
-
 **Symptom Management**
 This theory of change focuses only on treating the individual in front of the clinician while ignoring the broader structures that contribute 
 to their illness, injury, or disability. It fails to acknowledge that patients leave the clinic and return to the same conditions that 
