@@ -42,7 +42,7 @@ hold within them assumptions about where we think the problem lies and therefore
 where we locate said problem, we can deduce a set of assumptions and consequences relating to change making. So the first question you 
 might ask yourself is...
 
-# Where do I assume the problem lies?
+### Where do I assume the problem lies?
 If we locate ‘the problem’ to be ‘fixed’ or ‘changed’ with those who are being harmed, for example, by insisting that they lack knowledge,
 resources, recognition, empowerment, or representation, then the solutions are often imagined as being assimilatory. In this case, justice 
 looks like making efforts to assimilate these ‘harmed’ populations into existing systems by educating them, increasing access to existing 
@@ -54,7 +54,7 @@ violence, then assimilation becomes less coherent (see Ahmed 2012[^3]; Simpson 2
 Boodman 2023[^7]). After all, who wants to be included into a violent and unsafe system? Reform is frequently traded for revolution, 
 opting to abolish current institutions and their logics and replacing them with institutions built on justice. 
 
-## What do I assume needs to change?
+### What do I assume needs to change?
 If we locate the problem with those who are harmed and assume that the system is not inherently violent but only (accidentally) neglectful, 
 we often believe that what requires changing is either the individual (their mindset, behaviour, or knowledge), the hearts and minds of 
 people in power, the barriers to resources and services, the delivery of services, or the diversity of those in power - but rarely the 
@@ -86,8 +86,11 @@ Shay on the myth of progress[^15]). Given their relative social safety, they mig
 violence within institutions, becoming a “White Traitor” and “speaking back to whiteness” (see Barnor Hesse’s 8 White Identities [^16][^17]).
 
 Instead of offering a conclusion I would like to offer some broad themes and patterns you might be able to mobilize when trying to identify a
-theory of change:
+theory of change and theories of change relating to clinical practice which I use as a teaching tool with physiotherapy students.
+They are by no means all encompassing and are thoroughly imbued with my own political bias. I offer it as an opportunity to critically 
+consider your own theory of change and political stance on social change.
 
+### Braod Themes in Theories of Change
 **Assimilation vs. Transformation:** If the problem is seen as residing with those most affected, the focus is on assimilating individuals 
 into existing systems. This assumes these systems are neutral or benevolent. In contrast, if the problem is viewed as the system itself, then 
 change requires transformation, - a recognition that the systems are not neutral or benevolent but fundamentally problematic (For more on 
