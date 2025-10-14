@@ -3,11 +3,11 @@ title = "Theories of Change"
 description = "How do you believe social change happens?"
 author = "Eduan Breedt and Erin Tichenor"
 date = "2025-10-13"
-draft = true
+draft = false
 tags = ["Health Justice", "Social Change"]
 categories = ["health justice", "politics"]
 [[images]]
-  src = "img/2019/03/faris2.png"
+  src = "img/2019/03/sowetouprising.jpg"
   alt = "Unnatural"
   stretch = "cover"
 +++
