@@ -40,9 +40,9 @@ enabling me to be a bit more intentional about how it is that I resist harmful s
 The first thing I think of when I think of a theory of change is: Where do I assume the problem is located? Different theories of change 
 hold within them assumptions about where we think the problem lies and therefore assumptions about the intervention required. Based on 
 where we locate said problem, we can deduce a set of assumptions and consequences relating to change making. So the first question you 
-might ask yourself is
+might ask yourself is...
 
-### Where do I assume the problem lies?
+# Where do I assume the problem lies?
 If we locate ‘the problem’ to be ‘fixed’ or ‘changed’ with those who are being harmed, for example, by insisting that they lack knowledge,
 resources, recognition, empowerment, or representation, then the solutions are often imagined as being assimilatory. In this case, justice 
 looks like making efforts to assimilate these ‘harmed’ populations into existing systems by educating them, increasing access to existing 
@@ -54,7 +54,7 @@ violence, then assimilation becomes less coherent (see Ahmed 2012[^3]; Simpson 2
 Boodman 2023[^7]). After all, who wants to be included into a violent and unsafe system? Reform is frequently traded for revolution, 
 opting to abolish current institutions and their logics and replacing them with institutions built on justice. 
 
-### What do I assume needs to change?
+## What do I assume needs to change?
 If we locate the problem with those who are harmed and assume that the system is not inherently violent but only (accidentally) neglectful, 
 we often believe that what requires changing is either the individual (their mindset, behaviour, or knowledge), the hearts and minds of 
 people in power, the barriers to resources and services, the delivery of services, or the diversity of those in power - but rarely the 
