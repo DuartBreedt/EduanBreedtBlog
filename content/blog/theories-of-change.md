@@ -65,7 +65,7 @@ resources or services within a violent system, and refuse to reify the system an
 requires changing are the structures that reproduce violence - structures such as racism, sexism, colonialism, neoliberalism, homophobia,
 white supremacy, and so on. 
 
-### What is your spoken or unspoken theory on how to change or fix the problem?
+### What is my spoken or unspoken theory on how to change or fix the problem?
 If we assume the problem is a lack of knowledge, we might extract more data and produce more knowledge to try to fix the problem. If we 
 assume the problem is a lack of sympathy, we might make the suffering of those affected more visible. If we assume the problem is largely 
 ‘unintentional’ or ‘natural’ inequality, we might volunteer our time and energy to ‘help’ those in need. If we assume the problem is a 
