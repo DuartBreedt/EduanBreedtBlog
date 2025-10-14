@@ -80,7 +80,7 @@ theory of change and theories of change relating to clinical practice which I us
 They are by no means all encompassing and are thoroughly imbued with my own political bias. I offer it as an opportunity to critically 
 consider your own theory of change and political stance on social change.
 
-### Braod Themes in Theories of Change
+### Broad Themes in Theories of Change
 **Assimilation vs. Transformation:** If the problem is seen as residing with those most affected, the focus is on assimilating individuals 
 into existing systems. This assumes these systems are neutral or benevolent. In contrast, if the problem is viewed as the system itself, then 
 change requires transformation, - a recognition that the systems are not neutral or benevolent but fundamentally problematic (For more on 
