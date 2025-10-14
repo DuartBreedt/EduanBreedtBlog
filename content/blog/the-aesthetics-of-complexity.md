@@ -27,7 +27,7 @@ the conversation. Other times, complexity genuinely engages us deeply in the pro
 solutions. To have the conversation while not having the conversation.
 
 I believe that ontologically everything is complex. However, we do not perceive all problems as complex; some indeed feel simple. Therefore, 
-complexity speaks less to the actual knotty-ness of a problem than to its sense. This got me thinking about how we perceive or feel 
+complexity speaks less to the actual knotty-ness of a problem than to its *sense*. This got me thinking about how we perceive or feel 
 problems - the aesthetic difference between simple and complex problems.
 
 A relatively popular means of explaining the differences between simple, complicated, and complex problems is the following table
@@ -72,7 +72,7 @@ is simple, and baking a cake in one’s own home is unimaginably complex - nearl
 come about, but encourage you to use your imagination.
 
 Maybe when we hear “complex” we ought not to think about, or feel paralyzed by, a thing’s felt intricacy, but rather understand it as signifying 
-a disease, syndrome, or a complex. Something that becomes simple once diagnosed. It is an invitation to invent a lexicon and set of cultural 
+a disease, syndrome, or a *complex*. Something that becomes simple once diagnosed. It is an invitation to invent a lexicon and set of cultural 
 rituals to attend to it.
 
 Paying attention to what ‘feels’ complex, why and how it is made to feel so, and for whom, opens up strategies for feeling differently. By 
@@ -81,3 +81,6 @@ politics, and for activism. This might include opening up ways of articulating t
 imagine as unrealistic or feel is impossible.
 
 >It always seems impossible until it's done - Nelson Mandela
+
+### Note
+The title image is of Marie Antoinette who, mistakenly, was quoted saying "let them eat cake" in response to the poor having no bread and has come to symolize the disconnect between the wealthy and the poor.
