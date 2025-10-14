@@ -150,6 +150,9 @@ queer, or other marginalized identities to claim solidarity, rather than address
 True solidarity must go beyond elite spaces and challenge global structures like white supremacy and Euro-American empire, ensuring that the
 most marginalized voices - not just those already in privileged rooms - are at the center of action (see Ill Will 2021[^25]).
 
+### Note
+1. The title image is of the Soweto uprising in Azania (South Africa) where Black students refused to be assimilated into the Apartheid regime by refusing the introduction of Afrikaans as the medium of instruction in their Black schools.
+
 ### References
 [^1]: Tuck, Eve. 2009a. “Re-visioning action: Participatory action research and Indigenous theories of change.” The Urban Review, 41(1): 47–65. https://doi.org/10.1007/s11256-008-0094-x
 [^2]: Tuck, Eve. 2009b. “Suspending Damage: A Letter to Communities.” Harvard Educational Review 79(3):409–428. https://doi.org/10.17763/haer.79.3.n0016675661t3n15.
