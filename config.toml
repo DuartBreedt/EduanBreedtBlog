@@ -60,7 +60,7 @@ disableLanguages        = []
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "img/main/logo1.jpg"
+      src                 = "img/main/logo2.jpg"
       shape               = "rhombus"
       width               = ""
       alt                 = "Eduan Breedt"
