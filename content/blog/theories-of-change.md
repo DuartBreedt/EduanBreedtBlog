@@ -45,24 +45,13 @@ might ask yourself is...
 ### Where do I assume the problem lies?
 If we locate ‘the problem’ to be ‘fixed’ or ‘changed’ with those who are being harmed, for example, by insisting that they lack knowledge,
 resources, recognition, empowerment, or representation, then the solutions are often imagined as being assimilatory. In this case, justice 
-looks like making efforts to assimilate these ‘harmed’ populations into existing systems by educating them, increasing access to existing 
-resources and services, demanding that their harm be recognized by ‘the powers that be’, or by increasing their presence within the current 
-system. When we locate the problem to be fixed with those who are harmed, we often assume that our current systems are neutral or benevolent. 
-And if we believe existing systems to be neutral or benevolent, we assume change happens through reform – tweaking, adjusting, and perfecting 
-them. However, if we assume the problem lies with systems and institutions that have historically been predicated on and constituted by 
-violence, then assimilation becomes less coherent (see Ahmed 2012[^3]; Simpson 2014[^4]; Coulthard 2014[^5];  Tuck and Yang 2012[^6]; and
-Boodman 2023[^7]). After all, who wants to be included into a violent and unsafe system? Reform is frequently traded for revolution, 
-opting to abolish current institutions and their logics and replacing them with institutions built on justice. 
+looks like making efforts to assimilate these ‘harmed’ populations into existing systems and insitutions by educating them, increasing access to existing resources and services, demanding that their harm be recognized by ‘the powers that be’, or by increasing their presence within the current system. When we locate the problem to be fixed with those who are harmed, we often assume that our current systems and insitutions are neutral or even benevolent. And if we believe existing systems to be neutral or benevolent, we assume change happens through reform – tweaking, adjusting, and perfecting them. However, if we assume the problem lies with systems and institutions that have historically been predicated on and constituted by violence, then assimilation becomes less coherent (see Ahmed 2012[^3]; Simpson 2014[^4]; Coulthard 2014[^5]; Tuck and Yang 2012[^6]; and Boodman 2023[^7]). After all, who wants to be included into a violent and unsafe system? Reform is frequently traded for revolution, opting to abolish current institutions and their logics and replacing them with institutions built on justice. 
 
 ### What do I assume needs to change?
 If we locate the problem with those who are harmed and assume that the system is not inherently violent but only (accidentally) neglectful, 
 we often believe that what requires changing is either the individual (their mindset, behaviour, or knowledge), the hearts and minds of 
 people in power, the barriers to resources and services, the delivery of services, or the diversity of those in power - but rarely the 
-system itself. However, if we assume the system itself is not neglectful but is constituted by and necessitates violence, and thus needs
-to be abolished and replaced, then we might refuse to pathologize the behaviours of those negatively affected by a broken system, refuse
-to ‘convince’ or educate those in power, refuse to beg for sympathy for the harm that is being inflicted, refuse to fight for access to 
-resources or services within a violent system, and refuse to reify the system and existing structures of power. Instead we assume what 
-requires changing are the structures that reproduce violence - structures such as racism, sexism, colonialism, neoliberalism, homophobia,
+systems and insitutions themselves. However, if we assume the systems and insitutions are not neglectful but is constituted by and necessitates violence, and thus needs to be abolished and replaced, then we might refuse to pathologize the behaviours of those negatively affected by a broken system, refuse to ‘convince’ or educate those in power, refuse to beg for sympathy for the harm that is being inflicted, refuse to fight for access to resources or services within a violent system, and refuse to reify the system and existing structures of power. Instead we assume what requires changing are the structures that reproduce violence - structures such as racism, sexism, colonialism, neoliberalism, homophobia,
 white supremacy, and so on. 
 
 ### What is my spoken or unspoken theory on how to change or fix the problem?
@@ -82,8 +71,9 @@ resistance might be to then think about what is in “excess” of anti-Black vi
 vulnerability (Benjamin 2024[^9]; Jackson 2020[^10]; Sharpe 2016[^11]). Someone who is racialized as White might recognize that White 
 supremacy has a long history of anti-Black violence and securing White futures (Baldwin 2011[^12]; Tuck and Gaztambide-Fernández 2013[^13]). 
 Therefore, imagining the future is an endeavor fraught with traps (see for instance Paul Taylor on the posterizing impulse [^14], or Theodore
-Shay on the myth of progress[^15]). Given their relative social safety, they might use their privilege to resist White supremacy and anti-Black 
-violence within institutions, becoming a “White Traitor” and “speaking back to whiteness” (see Barnor Hesse’s 8 White Identities [^16][^17]).
+Shay on the myth of progress[^15]). Given their relative social safety, White folks might use their relative privilege to resist White supremacy and anti-Black violence within institutions, becoming a “White Traitor” and “speaking back to whiteness” (see Barnor Hesse’s 8 White Identities [^16][^17]).
+
+Our theories of change are as diverse and unqiue as our fingerprints, and they are always changing. Frequently revisitng our theory of change in different contexts is a must and helps us orient and sharpen our actions.
 
 Instead of offering a conclusion I would like to offer some broad themes and patterns you might be able to mobilize when trying to identify a
 theory of change and theories of change relating to clinical practice which I use as a teaching tool with physiotherapy students.
