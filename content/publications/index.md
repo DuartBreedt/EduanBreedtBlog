@@ -1,6 +1,6 @@
 +++
 title = "Publications"
-description = "My publications list"
+description = "..."
 author = "Eduan Breedt"
 date = "2024-10-20"
 layout = "publications"
@@ -29,7 +29,10 @@ Breedt, E. (2023). The Church of Physiotherapy: The Necessity for Betrayal. Apor
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=uG7ep4gAAAAJ&hl=en)  
 
-#### Forthcoming
-Tichenor, E., Breedt, E., and Barlott, T. (Invited edited book proposal under review). Deleuze, Guattari, and Health. In: Deleuze Connection Series. Edinburgh University Press.
+### Forthcoming
+Tichenor, E., Breedt, E., and Barlott, T. (Invited edited book proposal under review). [Annonymized for review] Edinburgh University Press.
 
 Breedt, E., et al (In Progress). Rehabilitation and the Right to Maim: Debility, Capacity, and Colonial Violence. Special issue on Social Sustainability in Rehabilitation for Sociology of Health & Illness. 
+
+### Curriculum Vitae
+Find my CV [HERE](https://docs.google.com/document/d/1tz5bIUpMrp5uLQ__Zdxu4bVBFMMZsxClxnF1inU64WA/edit?tab=t.0)
