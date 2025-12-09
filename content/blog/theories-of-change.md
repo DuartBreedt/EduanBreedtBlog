@@ -73,7 +73,7 @@ supremacy has a long history of anti-Black violence and securing White futures (
 Therefore, imagining the future is an endeavor fraught with traps (see for instance Paul Taylor on the posterizing impulse [^14], or Theodore
 Shay on the myth of progress[^15]). Given their relative social safety, White folks might use their relative privilege to resist White supremacy and anti-Black violence within institutions, becoming a “White Traitor” and “speaking back to whiteness” (see Barnor Hesse’s 8 White Identities [^16][^17]).
 
-Our theories of change are as diverse and unqiue as our fingerprints, and they are always changing. Frequently revisitng our theory of change in different contexts is a must and helps us orient and sharpen our actions.
+Our theories of change are as diverse and unqiue as our fingerprints, and they are always changing. Frequently revisiting our theory of change in different contexts is a must and helps us orient and sharpen our actions.
 
 Instead of offering a conclusion I would like to offer some broad themes and patterns you might be able to mobilize when trying to identify a
 theory of change and theories of change relating to clinical practice which I use as a teaching tool with physiotherapy students.
