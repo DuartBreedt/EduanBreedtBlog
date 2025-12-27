@@ -17,11 +17,10 @@ categories = ["physiotherapy", "politics", "the body"]
 “God is dead” remains one of the most famous quotes from the German philosopher Friedrich Nietzsche[^1].
 Nietzsche, being the atheist that he was, didn’t mean that people had literally killed the God he believed in. 
 Rather, he meant that in the wake of the Enlightenment, Western society was transforming in such a way that 
-the idea of God had begun to die and was being replaced. European society no longer needed God as the source 
+the idea of God had begun to die and was being replaced. European society no longer needed a transcendent God as the universal source 
 for all morality, value, or order in the universe; philosophy and science were capable of doing that for them.
 
-The God Nietzsche is referring to is of course the Christian God and the entire foundation of a transcendent, universal 
-truth and morality that Western civilization relied on. God, in this instance, should not simply be dismissed as an illusion 
+God, in this instance, should not simply be dismissed as an illusion 
 or false perception, as so many atheists often do. It might be true that God was not a man floating in the sky, but God was real 
 insofar as God played a significant role in shaping our world. God was an extraodinarily potent thing - an assemblage - 
 organzing and assembling material in the world. Without God, entire empires, societies, cities, and cultures would 
