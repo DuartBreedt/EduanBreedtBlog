@@ -20,11 +20,12 @@ Rather, he meant that in the wake of the Enlightenment, Western society was tran
 the idea of God had begun to die and was being replaced. European society no longer needed God as the source 
 for all morality, value, or order in the universe; philosophy and science were capable of doing that for them.
 
-God, in this instance, should not simply be dismissed as an illusion or false perception, as so many atheists often do. 
-It might be true that God was not a man floating in the sky, but God was real insofar as God played a significant role 
-in shaping our world. God was an extraodinarily potent thing - an assemblage - organzing and assembling material in the 
-world. Without God, entire empires, societies, cities, and cultures would not have existed. However, with the Enlightenment, 
-new concepts (or assemblages) were taking God's place.
+The God Nietzsche is referring to is of course the Christian God and the entire foundation of a transcendent, universal 
+truth and morality that Western civilization relied on. God, in this instance, should not simply be dismissed as an illusion 
+or false perception, as so many atheists often do. It might be true that God was not a man floating in the sky, but God was real 
+insofar as God played a significant role in shaping our world. God was an extraodinarily potent thing - an assemblage - 
+organzing and assembling material in the world. Without God, entire empires, societies, cities, and cultures would 
+not have existed. However, with the Enlightenment, new concepts (or assemblages) were taking God's place.
 
 Nietzsche was a prudent analyst, noticing this societal trend in the 1880’s when Europe was still incredibly religious. 
 “God is dead” for Nietzsche was a statement of fact; he accurately recognized that Christianity was in decline 
