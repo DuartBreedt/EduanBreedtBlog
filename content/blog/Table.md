@@ -18,29 +18,32 @@ Intro
 
 
 
-| Approx. Time of Flourishing* | 1650-1850 | Header 3 | Header 4 | Header 5 |
+| <ins>APPROXIMATE TIME OF FLOURISHING*</ins> | <ins>1650-1850</ins>  | <ins>1780-1968</ins>  | <ins>1780-1968</ins>  | <ins>1980-PRESENT</ins>  |
 | :---: | :---:| :---: | :---:| :---: |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| <ins>**Socioeconomic Era**</ins> | <ins>**Merchant Capitalism**</ins> | <ins>**Industrial Capitalism**</ins> | <ins>**Neoliberal Capitalism**</ins> | <ins>**Affective Capitalism**</ins> |
+| **Mode of power*** | Sovereign | Discipline | Security/biopower | Control |
+| **Valence of power** | Negative (Law) | Negative (prescription) | Negative (regulation) | Positive (control) |
+| **Primary target of power*** | Bodies / souls | Productive political capacities | Lives: individual / population | Affect |
+| **Subject*** | Peasant / farmer | Worker / laborer / soldier | Individual consumer / user | Dividual |
+| **Primary actor*** | King  | Expert / professional | Subject | Self-entrepreneur |
+| <ins>**Medical Episteme**</ins> | <ins>**Bedside Medicine**</ins> | <ins>**Hospital Medicine**</ins> | <ins>**Surveillance Medicine**</ins> | <ins>**Affective Medicine**</ins> |
+| **Physiotherapy’s concept of the body** | N/A | Body-as-machine(I) | Body-as-machine(II) | Body-as-modulation |
+| **Prominent physiotherapist** |  |  |  |  |
+| **Catch phrase** |  |  |  |  |
+| **Operation of power** |  |  |  |  |
+| **Physiotherapy intervention** |  |  |  |  |
+| **Physiotherapy technology** |  |  |  |  |
+| <ins>**Type of Machine**</ins> | <ins>****</ins> | <ins>****</ins> | <ins>****</ins> | <ins>****</ins> |
+| **Structure** |  |  |  |  |
+| **Mechanism** |  |  |  |  |
+| **Passive danger** |  |  |  |  |
+| **Active danger** |  |  |  |  |
+
+*Inspired by Culp (2020b).  
+**David Butler and Lorimer Moseley are arguably on the cusp between the body-as-machine (II) and body-as-modulation with much of their work advocating for ‘inputs’ and ‘outputs’ while also emphasizing the importance of the patient’s lived experience.
 
 
-Description
+This table offers a speculative tabulation of four overlapping medico-techno-political eras through which to consider the historical transformation of physiotherapy. Bringing together political-economic formations, modalities of power, medical epistemes, conceptions of the body, therapeutic interventions, and technological infrastructures, the table situates physiotherapy within broader transformations in the ways the concept of the body is understood, governed, and acted upon. These eras are not intended as discrete historical periods, rather, their temporal boundaries overlap, and their associated practices, technologies, and forms of power persist unevenly. Thus, the table serves as a heuristic device for speculating on how changing configurations of capitalism, medicine, and technology have shaped - and continue to reshape - the objects, practices, and political significance of physiotherapy.
 
 ### Note
 The title image is of Marie Antoinette who, mistakenly, was quoted saying "let them eat cake" in response to the poor having no bread and has come to symolize the disconnect between the wealthy and the poor.
