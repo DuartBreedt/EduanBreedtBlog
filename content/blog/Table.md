@@ -18,7 +18,7 @@ Intro
 
 
 
-| Header 1 | Header 2 | Header 3 | Header 4 | Header 5 |
+| Approx. Time of Flourishing* | 1650-1850 | Header 3 | Header 4 | Header 5 |
 | :---: | :---:| :---: | :---:| :---: |
 |  |  |  |  |  |
 |  |  |  |  |  |
