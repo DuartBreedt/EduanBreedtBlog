@@ -4,8 +4,8 @@ description = "something"
 author = "Eduan Breedt"
 date = "2026-10-22"
 draft = true
-tags = ["Complexity", "Aesthetics", "Social Inequity"]
-categories = ["politics"]
+tags = ["History", "Cultural Studies"]
+categories = ["the-body", "physiotherapy", "politics"]
 [[images]]
   src = "img/2019/03/marie.jpg"
   alt = "Unnatural"
