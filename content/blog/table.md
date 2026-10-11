@@ -1,6 +1,6 @@
 +++
 title = "A Speculative Tabulation of the Medico-Techno-Political Eras of Physiotherapy"
-description = ""
+description = "."
 author = "Eduan Breedt"
 date = "2026-10-10"
 draft = false
