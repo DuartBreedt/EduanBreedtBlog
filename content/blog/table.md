@@ -13,15 +13,21 @@ categories = ["the-body", "physiotherapy", "politics"]
 +++
 
 
-If you are interested in why physiotherapy looks the way it does today, or in what its future might hold, the table offers a starting point for thinking through these questions. The table emerged from my PhD research on the changing conceptions of the body in physiotherapy and first appeared in a [2026 paper](Diagnosing the body in physiotherapy) theorizing the concept of the body in physiotherapy. and brings socioeconomic, technological, and medical transformations into conversation to consider how they have shaped what physiotherapists understand the body to be, what we do to and with it, and what we hope to achieve through our interventions.
+
+If you are interested in why physiotherapy looks the way it does today, or in what its future might hold, the table offers a starting point for thinking through these questions. The table emerged from my PhD research on the changing conceptions of the body in physiotherapy and first appeared in a [2026 paper](https://doi.org/10.1080/09593985.2025.2585138) theorizing the concept of the body in physiotherapy. and brings socioeconomic, technological, and medical transformations into conversation to consider how they have shaped what physiotherapists understand the body to be, what we do to and with it, and what we hope to achieve through our interventions.
+
 
 The eras document here are not intended as discrete historical periods, rather, their temporal boundaries overlap, and their associated practices, technologies, and forms of power persist unevenly. Thus, the table serves as a heuristic device for speculating on how changing configurations of capitalism, medicine, and technology have shaped - and continue to reshape - the objects, practices, and political significance of physiotherapy.
 
+
 Importantly, I find that this table demonstrates that physiotherapy doesn't simply progresses from one era to the next, with each bringing better knowledge, more sophisticated technologies, or more effective care. Rather, so called 'progress' and what counts as progress is itself shaped by the cultural, economic, political, and technological conditions in which physiotherapy develops. Our practices are not simply the inevitable outcome of scientific discovery; they are also products of the worlds in which we practise.
+
 
 Some of the association I have made in this table are necessarily contestable, and I offer it as an invitation to think critically about physiotherapy's present and possible futures.
 
-For a more detailed discussion of the argument underpinning the table, see my paper on [Diagnosing the body in physiotherapy](Diagnosing the body in physiotherapy).
+
+For a more detailed discussion of the argument underpinning the table, see my paper on [Diagnosing the body in physiotherapy](https://doi.org/10.1080/09593985.2025.2585138).
+
 
 
 
