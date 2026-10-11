@@ -4,7 +4,7 @@ description = "h"
 author = "Eduan Breedt"
 date = "2026-10-10"
 draft = false
-tags = ["History", "Cultural Studies"]
+tags = ["history", "cultural studies"]
 categories = ["the body", "physiotherapy", "politics"]
 [[images]]
   src = "img/2019/03/raditiontherapy1934.jpg"
