@@ -52,5 +52,6 @@ For a more detailed discussion of the argument underpinning the table, see my pa
 | **Passive danger** | Loss of human manual labourers | Entropy | Jamming, errors | Prediction errors |
 | **Active danger** | Protest, | Sabotage | Viruses, piracy | TBD |
 
+
 *Inspired by Culp (2020b).  
 **David Butler and Lorimer Moseley are arguably on the cusp between the body-as-machine (II) and body-as-modulation with much of their work advocating for ‘inputs’ and ‘outputs’ while also emphasizing the importance of the patient’s lived experience.
