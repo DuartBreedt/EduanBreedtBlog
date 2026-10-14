@@ -23,10 +23,7 @@ The eras documented here are not intended as discrete historical periods, rather
 Importantly, I find that this table demonstrates that physiotherapy doesn't simply progress from one era to the next, with each bringing better knowledge, more sophisticated technologies, or more effective care. Rather, so-called 'progress' and what counts as progress is itself shaped by the cultural, economic, political, and technological conditions in which physiotherapy develops. Our practices are not simply the inevitable outcome of scientific discovery; they are also products of the worlds in which we practise.
 
 
-Some of the associations I have made in this table are necessarily contestable, and I offer it as an invitation to think critically about physiotherapy's present and possible futures.
-
-
-For a more detailed discussion of the argument underpinning the table, see my paper on [Diagnosing the body in physiotherapy](https://doi.org/10.1080/09593985.2025.2585138).
+Some of the associations I have made in this table are necessarily contestable, and I offer it as an invitation to think critically about physiotherapy's present and possible futures. For a more detailed discussion of the argument underpinning the table, see my paper on [Diagnosing the body in physiotherapy](https://doi.org/10.1080/09593985.2025.2585138).
 
 
 
