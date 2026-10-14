@@ -52,3 +52,6 @@ Some of the associations I have made in this table are necessarily contestable, 
 
 *Inspired by Culp (2020b).  
 **David Butler and Lorimer Moseley are arguably on the cusp between the body-as-machine (II) and body-as-modulation with much of their work advocating for ‘inputs’ and ‘outputs’ while also emphasizing the importance of the patient’s lived experience.
+
+### Note
+The cover image depicts children receiving ultraviolet phototherapy at The Institute for Radiation Therapy in London 1934.
