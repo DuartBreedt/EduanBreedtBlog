@@ -2,7 +2,7 @@
 title = "A Speculative Tabulation of the Medico-Techno-Political Eras of Physiotherapy"
 description = "A heuristic table tracing how capitalism, medicine, and technology have shaped the body in physiotherapy"
 author = "Eduan Breedt"
-date = "2026-10-10"
+date = "2026-10-13"
 draft = false
 tags = ["history", "cultural studies"]
 categories = ["the body", "physiotherapy", "politics"]
